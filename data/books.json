@@ -1,0 +1,26 @@
+{
+  "siteName": "Book Quiz",
+  "description": "Choose a book and chapter, then build a quiz from the available questions.",
+  "books": [
+    {
+      "id": "science",
+      "title": "Science",
+      "chapters": [
+        {
+          "id": "science-ch01",
+          "number": 1,
+          "title": "Living Things",
+          "description": "Sample chapter for testing the platform.",
+          "file": "data/science/chapter-01.json"
+        },
+        {
+          "id": "science-ch02",
+          "number": 2,
+          "title": "Materials",
+          "description": "Sample second chapter.",
+          "file": "data/science/chapter-02.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Book Quiz",
+  "short_name": "Book Quiz",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#172033",
+  "description": "Chapter-based educational quiz game"
+}

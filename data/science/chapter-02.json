@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "book": "Science",
+  "chapter": "Materials",
+  "questions": [
+    {
+      "id": "SCI-C02-Q001",
+      "question": "Which statement best describes Materials?",
+      "options": [
+        "It is studied through evidence",
+        "It has no observable features",
+        "It can never change",
+        "It is unrelated to observations"
+      ],
+      "answer": 0,
+      "explanation": "The best answer is the statement that reflects evidence-based learning.",
+      "difficulty": "easy",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q002",
+      "question": "Which is an important way to learn about Materials?",
+      "options": [
+        "Observe and compare",
+        "Guess without evidence",
+        "Ignore results",
+        "Avoid asking questions"
+      ],
+      "answer": 0,
+      "explanation": "Observation and comparison help learners build evidence.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q003",
+      "question": "What should a student do when studying Materials?",
+      "options": [
+        "Record observations carefully",
+        "Change results to fit a guess",
+        "Skip measurements",
+        "Copy unrelated information"
+      ],
+      "answer": 0,
+      "explanation": "Careful observations and records support reliable conclusions.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q004",
+      "question": "Which question could help investigate Materials?",
+      "options": [
+        "What evidence can we collect?",
+        "Can evidence be ignored?",
+        "Why avoid observations?",
+        "How can we remove all measurements?"
+      ],
+      "answer": 0,
+      "explanation": "A useful investigation starts with a question that can be explored using evidence.",
+      "difficulty": "hard",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q005",
+      "question": "Which statement best describes Materials?",
+      "options": [
+        "It is studied through evidence",
+        "It has no observable features",
+        "It can never change",
+        "It is unrelated to observations"
+      ],
+      "answer": 0,
+      "explanation": "The best answer is the statement that reflects evidence-based learning.",
+      "difficulty": "easy",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q006",
+      "question": "Which is an important way to learn about Materials?",
+      "options": [
+        "Observe and compare",
+        "Guess without evidence",
+        "Ignore results",
+        "Avoid asking questions"
+      ],
+      "answer": 0,
+      "explanation": "Observation and comparison help learners build evidence.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q007",
+      "question": "What should a student do when studying Materials?",
+      "options": [
+        "Record observations carefully",
+        "Change results to fit a guess",
+        "Skip measurements",
+        "Copy unrelated information"
+      ],
+      "answer": 0,
+      "explanation": "Careful observations and records support reliable conclusions.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q008",
+      "question": "Which question could help investigate Materials?",
+      "options": [
+        "What evidence can we collect?",
+        "Can evidence be ignored?",
+        "Why avoid observations?",
+        "How can we remove all measurements?"
+      ],
+      "answer": 0,
+      "explanation": "A useful investigation starts with a question that can be explored using evidence.",
+      "difficulty": "hard",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q009",
+      "question": "Which statement best describes Materials?",
+      "options": [
+        "It is studied through evidence",
+        "It has no observable features",
+        "It can never change",
+        "It is unrelated to observations"
+      ],
+      "answer": 0,
+      "explanation": "The best answer is the statement that reflects evidence-based learning.",
+      "difficulty": "easy",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q010",
+      "question": "Which is an important way to learn about Materials?",
+      "options": [
+        "Observe and compare",
+        "Guess without evidence",
+        "Ignore results",
+        "Avoid asking questions"
+      ],
+      "answer": 0,
+      "explanation": "Observation and comparison help learners build evidence.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q011",
+      "question": "What should a student do when studying Materials?",
+      "options": [
+        "Record observations carefully",
+        "Change results to fit a guess",
+        "Skip measurements",
+        "Copy unrelated information"
+      ],
+      "answer": 0,
+      "explanation": "Careful observations and records support reliable conclusions.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q012",
+      "question": "Which question could help investigate Materials?",
+      "options": [
+        "What evidence can we collect?",
+        "Can evidence be ignored?",
+        "Why avoid observations?",
+        "How can we remove all measurements?"
+      ],
+      "answer": 0,
+      "explanation": "A useful investigation starts with a question that can be explored using evidence.",
+      "difficulty": "hard",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q013",
+      "question": "Which statement best describes Materials?",
+      "options": [
+        "It is studied through evidence",
+        "It has no observable features",
+        "It can never change",
+        "It is unrelated to observations"
+      ],
+      "answer": 0,
+      "explanation": "The best answer is the statement that reflects evidence-based learning.",
+      "difficulty": "easy",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q014",
+      "question": "Which is an important way to learn about Materials?",
+      "options": [
+        "Observe and compare",
+        "Guess without evidence",
+        "Ignore results",
+        "Avoid asking questions"
+      ],
+      "answer": 0,
+      "explanation": "Observation and comparison help learners build evidence.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q015",
+      "question": "What should a student do when studying Materials?",
+      "options": [
+        "Record observations carefully",
+        "Change results to fit a guess",
+        "Skip measurements",
+        "Copy unrelated information"
+      ],
+      "answer": 0,
+      "explanation": "Careful observations and records support reliable conclusions.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q016",
+      "question": "Which question could help investigate Materials?",
+      "options": [
+        "What evidence can we collect?",
+        "Can evidence be ignored?",
+        "Why avoid observations?",
+        "How can we remove all measurements?"
+      ],
+      "answer": 0,
+      "explanation": "A useful investigation starts with a question that can be explored using evidence.",
+      "difficulty": "hard",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q017",
+      "question": "Which statement best describes Materials?",
+      "options": [
+        "It is studied through evidence",
+        "It has no observable features",
+        "It can never change",
+        "It is unrelated to observations"
+      ],
+      "answer": 0,
+      "explanation": "The best answer is the statement that reflects evidence-based learning.",
+      "difficulty": "easy",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q018",
+      "question": "Which is an important way to learn about Materials?",
+      "options": [
+        "Observe and compare",
+        "Guess without evidence",
+        "Ignore results",
+        "Avoid asking questions"
+      ],
+      "answer": 0,
+      "explanation": "Observation and comparison help learners build evidence.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q019",
+      "question": "What should a student do when studying Materials?",
+      "options": [
+        "Record observations carefully",
+        "Change results to fit a guess",
+        "Skip measurements",
+        "Copy unrelated information"
+      ],
+      "answer": 0,
+      "explanation": "Careful observations and records support reliable conclusions.",
+      "difficulty": "medium",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    },
+    {
+      "id": "SCI-C02-Q020",
+      "question": "Which question could help investigate Materials?",
+      "options": [
+        "What evidence can we collect?",
+        "Can evidence be ignored?",
+        "Why avoid observations?",
+        "How can we remove all measurements?"
+      ],
+      "answer": 0,
+      "explanation": "A useful investigation starts with a question that can be explored using evidence.",
+      "difficulty": "hard",
+      "topic": "Materials",
+      "source": "Sample content \u2014 replace with questions verified against your textbook."
+    }
+  ]
+}

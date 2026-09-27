@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "book": "Book name",
+  "chapter": "Chapter name",
+  "questions": [
+    {
+      "id": "BOOK-C01-Q001",
+      "question": "Question text?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": 0,
+      "explanation": "Why the correct answer is correct.",
+      "difficulty": "medium",
+      "topic": "Topic",
+      "source": "Chapter 1, page 7"
+    }
+  ]
+}

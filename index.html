@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#172033">
+  <meta name="description" content="A free, chapter-based learning quiz game.">
+  <title>Book Quiz</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">Q</div>
+      <div>
+        <div class="brand-name" id="brandName">Book Quiz</div>
+        <div class="brand-subtitle">Learn • Practice • Master</div>
+      </div>
+    </div>
+    <button id="themeToggle" class="icon-button" type="button" aria-label="Toggle dark mode">◐</button>
+  </header>
+
+  <main id="main" class="container">
+    <section id="screenHome" class="screen">
+      <div class="hero">
+        <span class="eyebrow">CHAPTER QUIZ</span>
+        <h1>Test what you know.</h1>
+        <p id="homeIntro">Choose a book and chapter, then build a quiz from the available questions.</p>
+      </div>
+
+      <div class="panel">
+        <div class="field-grid">
+          <label>
+            <span>Book</span>
+            <select id="bookSelect"></select>
+          </label>
+          <label>
+            <span>Chapter</span>
+            <select id="chapterSelect"></select>
+          </label>
+          <label>
+            <span>Questions</span>
+            <select id="questionCount">
+              <option value="10">10</option>
+              <option value="20">20</option>
+              <option value="30">30</option>
+              <option value="40">40</option>
+              <option value="50">50</option>
+              <option value="all">All available</option>
+            </select>
+          </label>
+          <label>
+            <span>Mode</span>
+            <select id="quizMode">
+              <option value="practice">Practice — see explanation after each answer</option>
+              <option value="exam">Test — see explanations at the end</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="chapterInfo" class="chapter-info"></div>
+
+        <div class="action-row">
+          <button id="startQuiz" class="primary-button" type="button">Start Quiz</button>
+          <button id="mistakesQuiz" class="secondary-button" type="button">Practice My Mistakes</button>
+        </div>
+        <p id="homeStatus" class="status" aria-live="polite"></p>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-card"><span id="statAttempts">0</span><small>Attempts</small></div>
+        <div class="stat-card"><span id="statBest">—</span><small>Best Score</small></div>
+        <div class="stat-card"><span id="statMastered">0%</span><small>Mastery</small></div>
+      </div>
+    </section>
+
+    <section id="screenQuiz" class="screen hidden" aria-labelledby="questionText">
+      <div class="quiz-top">
+        <button id="quitQuiz" class="text-button" type="button">← Exit</button>
+        <div class="progress-wrap">
+          <div class="progress-label"><span id="progressText">Question 1 of 10</span><span id="scoreLive">0%</span></div>
+          <div class="progress"><div id="progressBar"></div></div>
+        </div>
+      </div>
+
+      <div class="question-card">
+        <div class="question-meta">
+          <span id="difficultyBadge" class="badge">Medium</span>
+          <span id="topicText"></span>
+        </div>
+        <h2 id="questionText"></h2>
+        <div id="options" class="options" role="radiogroup" aria-label="Answer options"></div>
+        <div id="feedback" class="feedback hidden" aria-live="polite"></div>
+        <div class="quiz-actions">
+          <button id="nextQuestion" class="primary-button hidden" type="button">Next Question →</button>
+          <button id="finishQuiz" class="primary-button hidden" type="button">See Results</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="screenResults" class="screen hidden">
+      <div class="result-hero">
+        <span class="eyebrow">QUIZ COMPLETE</span>
+        <h1 id="resultTitle">Well done!</h1>
+        <div class="score-ring" aria-label="Final score"><span id="resultPercent">0%</span></div>
+        <p id="resultSummary"></p>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-card"><span id="resultCorrect">0</span><small>Correct</small></div>
+        <div class="stat-card"><span id="resultWrong">0</span><small>Wrong</small></div>
+        <div class="stat-card"><span id="resultBest">0%</span><small>Best</small></div>
+      </div>
+
+      <div class="panel">
+        <h2>Review</h2>
+        <div id="reviewList" class="review-list"></div>
+        <div class="action-row">
+          <button id="retryQuiz" class="primary-button" type="button">Try Again</button>
+          <button id="backHome" class="secondary-button" type="button">Choose Another Chapter</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="screenAbout" class="screen hidden">
+      <div class="panel">
+        <h1>About this quiz</h1>
+        <p>This site runs as a static application. Your progress and scores are stored locally on this device.</p>
+        <p>No account is required and no server-side database is needed for the core game.</p>
+        <button id="aboutHome" class="secondary-button" type="button">Back</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>Free educational quiz platform</span>
+    <button id="aboutButton" class="text-button" type="button">About</button>
+  </footer>
+
+  <noscript>
+    <div class="noscript">JavaScript is required to play this quiz.</div>
+  </noscript>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
