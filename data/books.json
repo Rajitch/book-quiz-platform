@@ -20,13 +20,6 @@
           "description": "Sample second chapter.",
           "file": "data/science/chapter-02.json"
         }
-		{
-          "id": "science-ch03",
-          "number": 3,
-          "title": "IT-PPT",
-          "description": "Generated PPT chapter.",
-          "file": "data/Information-Technology/chapter-ppt-03.json"
-        }
       ]
     },
 	{
@@ -34,10 +27,10 @@
       "title": "Information-Technology",
       "chapters": [
         {
-          "id": "IT-PowerPoint-Ch-03",
+          "id": "science-ppt-ch01",
           "number": 1,
-          "title": "Powerpoint",
-          "description": "Powerpoint Sample chapter generated.",
+          "title": "PPT",
+          "description": "PPT Questions generated.",
           "file": "data/Information-Technology/chapter-ppt-03.json"
         }
       ]
