@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "book": "Information-Technology",
+  "chapter": "Advanced PowerPoint Features",
+  "questions": [
+    {
+      "id": "BOOK-C03-Q001",
+      "question": "You want to create a photo album but want exactly two pictures to appear on each slide. Where in the Photo Album dialog box must you make this adjustment?",
+      "options": [
+        "Album Content section",
+        "Pictures in album box",
+        "Album Layout section",
+        "Preview pane"
+      ],
+      "answer": 2,
+      "explanation": "The Album Layout section contains the 'Picture layout' dropdown, which allows you to select the number of pictures per slide (e.g., '2 pictures').",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q002",
+      "question": "While creating a Photo Album, you have selected several files but want to change their order before finalizing the album. What is the immediate effect of clicking the up and down arrows below the 'Pictures in album' box?",
+      "options": [
+        "It sorts the pictures alphabetically",
+        "It rearranges the pictures in the album",
+        "It changes the frame shape of the pictures",
+        "It previews the pictures in the pane"
+      ],
+      "answer": 1,
+      "explanation": "The text states that you can rearrange the pictures by clicking the up and down arrows below the Pictures in album box.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q003",
+      "question": "What is the exact sequence of tabs and groups required to access the 'New Photo Album' option in PowerPoint?",
+      "options": [
+        "Home tab, Slides group",
+        "Insert tab, Images group",
+        "Design tab, Customize group",
+        "Insert tab, Media group"
+      ],
+      "answer": 1,
+      "explanation": "To create a photo album, you must go to the Insert tab and under the Images group, select the New Photo Album option.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q004",
+      "question": "If you want to use pictures stored locally on your computer for a Photo Album, which specific tab must be selected under the 'Insert picture from' section?",
+      "options": [
+        "File/Disk",
+        "Scanner/Camera",
+        "Online Pictures",
+        "Clip Art"
+      ],
+      "answer": 0,
+      "explanation": "The text explicitly instructs to choose the File/Disk tab under the Insert picture from section to pick images from your computer.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q005",
+      "question": "Which feature allows multiple images to be displayed on a single slide in a Photo Album presentation, contrary to the default setting?",
+      "options": [
+        "Adjusting the slide layout",
+        "Using the Captions option",
+        "Enabling the Black and white option",
+        "Changing the Theme"
+      ],
+      "answer": 0,
+      "explanation": "While the default setting is one picture per slide, you can include multiple images by adjusting the slide layout.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C03-Q006",
+      "question": "In the Album Layout section of the Photo Album dialog box, what specific elements can be customized to change the appearance of your pictures?",
+      "options": [
+        "Captions and Black and white settings",
+        "Picture layout and Frame shape",
+        "Insert text and Theme",
+        "Preview pane and File/Disk settings"
+      ],
+      "answer": 1,
+      "explanation": "The Album Layout section allows you to choose the picture layout and photo frame shape by clicking on the respective drop-down arrows.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q007",
+      "question": "When inserting new pictures into a Photo Album, where does the selected picture appear once you click on it in the file browser?",
+      "options": [
+        "In the Preview pane",
+        "In the Pictures in album box",
+        "On the current slide",
+        "In the Album Layout section"
+      ],
+      "answer": 0,
+      "explanation": "The text states that as you select the files, the preview of the picture gets displayed in the Preview pane.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q008",
+      "question": "Which option in the Album Layout section allows you to apply a 'Rounded Rectangle' effect to your photos?",
+      "options": [
+        "Picture layout",
+        "Frame shape",
+        "Theme",
+        "Album Content"
+      ],
+      "answer": 1,
+      "explanation": "The Frame shape dropdown menu allows you to select options like 'Rounded Rectangle' for the picture frames.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q009",
+      "question": "What is the immediate consequence of clicking the 'Create' button in the Photo Album dialog box?",
+      "options": [
+        "It saves the individual pictures to your hard drive",
+        "It generates the new photo album presentation",
+        "It inserts the pictures into the current slide",
+        "It deletes the selected pictures from the album"
+      ],
+      "answer": 1,
+      "explanation": "Once all the pictures have been added and settings configured, clicking on the Create button generates your new photo album presentation.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q010",
+      "question": "For which of the following scenarios is the Photo Album feature particularly useful according to the text?",
+      "options": [
+        "Creating a slideshow for an organization where the main focus is pictures",
+        "Recording a tutorial with voiceover",
+        "Writing complex mathematical equations",
+        "Navigating between slides in any order during a presentation"
+      ],
+      "answer": 0,
+      "explanation": "The text mentions that the Photo Album feature is useful for personal presentations or slideshows for organizations where the main focus is pictures.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C03-Q011",
+      "question": "You are writing an equation using the Ink Equation feature and realize you made a mistake in a specific part of the equation. What is the recommended method to fix it without clearing the entire equation?",
+      "options": [
+        "Click the Clear button",
+        "Select the Erase tool",
+        "Use the Select and Correct option",
+        "Press Ctrl + Z"
+      ],
+      "answer": 2,
+      "explanation": "The Note section on Page 3 states that you can correct any part of the equation at any time by selecting the Select and Correct option from the Math Input Control dialog box.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q012",
+      "question": "In the Math Input Control dialog box, what specific visual indicator appears on the light yellow grid area to show where writing will begin?",
+      "options": [
+        "A blinking red cursor",
+        "A small black dot",
+        "A blue crosshair",
+        "A green arrow"
+      ],
+      "answer": 1,
+      "explanation": "The text states that when you bring the mouse pointer on the light yellow coloured grid area, a small black dot appears, which is the cursor.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q013",
+      "question": "What is the correct sequence of UI elements to initiate the Ink Equation feature in PowerPoint?",
+      "options": [
+        "Insert tab -> Media group -> Ink Equation",
+        "Draw tab -> Convert group -> Ink Equation",
+        "Insert tab -> Symbols group -> Equation dropdown -> Ink Equation",
+        "Draw tab -> Drawing Tools group -> Ink Equation"
+      ],
+      "answer": 2,
+      "explanation": "To add Ink Equations, select the Insert tab, then in the Symbols group, click the drop-down arrow of the Equation button, and select Ink Equation.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q014",
+      "question": "If you do not have a touch-enabled device connected to your system, can you still use the Ink Equation feature?",
+      "options": [
+        "No, it requires a stylus",
+        "Yes, but only with a mouse",
+        "No, it requires a touch screen",
+        "Yes, using the keyboard arrow keys"
+      ],
+      "answer": 1,
+      "explanation": "The text states that you can also use a mouse to write the equations if you do not have a touch device.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q015",
+      "question": "What is the specific function of the Erase tool located in the toolbar of the Math Input Control dialog box?",
+      "options": [
+        "To clear the entire equation",
+        "To erase any part of the equation",
+        "To change the color of the ink",
+        "To select and correct symbols"
+      ],
+      "answer": 1,
+      "explanation": "The text states that you can select the Erase tool from the toolbar if you want to erase any part of the equation.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q016",
+      "question": "After writing an equation in the Math Input Control dialog box and clicking the Insert button, what happens to the handwritten equation?",
+      "options": [
+        "It remains as an image",
+        "It is converted into text",
+        "It is saved as a separate file",
+        "It is converted into a shape"
+      ],
+      "answer": 1,
+      "explanation": "The text explains that PowerPoint converts the handwritten equations directly into text upon insertion.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C03-Q017",
+      "question": "What is the name of the specific dialog box that appears when you select the Ink Equation option?",
+      "options": [
+        "Equation Editor",
+        "Math Input Control",
+        "Symbol Dialog",
+        "Formula Writer"
+      ],
+      "answer": 1,
+      "explanation": "The text explicitly states that the Math Input Control dialog box appears when you select the Ink Equation option.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q018",
+      "question": "A user wants to record a webinar but needs to ensure their voice is captured clearly. Which of the following hardware components is NOT explicitly mentioned as required in the text for this task?",
+      "options": [
+        "Sound card",
+        "Microphone",
+        "Speakers",
+        "Webcam"
+      ],
+      "answer": 3,
+      "explanation": "The text lists a sound card, microphone, and speakers as necessary for recording sound, but does not mention a webcam.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q019",
+      "question": "During a screen recording session in PowerPoint, which shortcut key combination must be used to stop the recording?",
+      "options": [
+        "Ctrl + Shift + Q",
+        "Windows + Shift + Q",
+        "Alt + Shift + Q",
+        "Windows + Ctrl + Q"
+      ],
+      "answer": 1,
+      "explanation": "The Countdown dialog box indicates that the shortcut key combination to stop recording is Windows + Shift + Q.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q020",
+      "question": "What specific dialog box appears immediately after you click the Record button to start a screen recording?",
+      "options": [
+        "A confirmation dialog box",
+        "A Countdown dialog box",
+        "A Save As dialog box",
+        "A Screen Resolution dialog box"
+      ],
+      "answer": 1,
+      "explanation": "The text states that a Countdown dialog box appears, indicating that recording is going to start in a few seconds.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q021",
+      "question": "How can you record only a specific portion of your screen instead of the full screen during a screen recording?",
+      "options": [
+        "Click the Select Area button and drag the mouse",
+        "Click the Record button and press Alt",
+        "Use the Zoom tool to define the area",
+        "Change the slide layout before recording"
+      ],
+      "answer": 0,
+      "explanation": "To record a specific area, you must click on the Select Area button and then drag the mouse to highlight the desired screen region.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q022",
+      "question": "Where does the recorded screen video go after you click the Stop button to save the recording?",
+      "options": [
+        "It is saved to the Desktop",
+        "It is inserted into the current slide",
+        "It is added to the Slide Master",
+        "It is copied to the clipboard"
+      ],
+      "answer": 1,
+      "explanation": "The text notes that the recorded screen video will get inserted into the current slide.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q023",
+      "question": "After a screen recording is inserted into a slide, which tab appears on the ribbon to allow you to add special effects to the video?",
+      "options": [
+        "Video Tools Format",
+        "Playback",
+        "Animation",
+        "Screen Recording"
+      ],
+      "answer": 1,
+      "explanation": "The text states that you can add special effects to the video by using the special Playback tab that appears on the ribbon.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q024",
+      "question": "What is the exact path to access the Screen Recording option in PowerPoint?",
+      "options": [
+        "Insert tab -> Links group",
+        "Insert tab -> Media group",
+        "Draw tab -> Convert group",
+        "Home tab -> Editing group"
+      ],
+      "answer": 1,
+      "explanation": "To use the Screen Recording feature, click on the Insert tab and select the Screen Recording option from the Media group.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q025",
+      "question": "If you want to include sound in your screen recording, what specific option must you enable in the Screen Recording pop-up window?",
+      "options": [
+        "The Microphone button",
+        "The Audio option",
+        "The Sound Card setting",
+        "The Record Voice command"
+      ],
+      "answer": 1,
+      "explanation": "The text states that you can turn on the Audio option if you want to insert sound in your screen recording.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q026",
+      "question": "Which of the following is NOT a valid reason mentioned in the text for using the Screen Recording feature?",
+      "options": [
+        "Creating a tutorial",
+        "Recording a game session",
+        "Capturing a webinar",
+        "Creating a photo album"
+      ],
+      "answer": 3,
+      "explanation": "The text lists creating a tutorial, recording a game session, and capturing a webinar as reasons for screen recording. Creating a photo album is a separate feature.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C03-Q027",
+      "question": "During a screen recording, the pop-up window disappears. What specific action must you take to make it visible again so you can stop the recording?",
+      "options": [
+        "Press the Windows key",
+        "Bring the mouse pointer to the top of the screen",
+        "Right-click on the desktop",
+        "Press Ctrl + Alt + Delete"
+      ],
+      "answer": 1,
+      "explanation": "The text instructs that when you are done, bring the mouse pointer to the top of your computer screen to show the pop-up window again.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q028",
+      "question": "To convert a hand-drawn shape into a uniform geometric shape using the Draw tab, what specific action must be performed on the 'Ink to Shape' option?",
+      "options": [
+        "Click it once",
+        "Click it twice",
+        "Right-click and select Convert",
+        "Drag and drop it onto the shape"
+      ],
+      "answer": 1,
+      "explanation": "The text explicitly states to click on the Ink to Shape option twice from the Convert group.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q029",
+      "question": "If PowerPoint fails to recognize a hand-drawn shape and cannot convert it into a geometric shape, what is the outcome?",
+      "options": [
+        "The drawing is automatically deleted",
+        "The drawing remains unaffected",
+        "The drawing is converted into a text box",
+        "The drawing is replaced with a default circle"
+      ],
+      "answer": 1,
+      "explanation": "A Note on Page 5 states that if a drawing does not match any geometric shape, the drawing remains unaffected.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q030",
+      "question": "Where are the Pen, Pencil, and Highlighter options specifically located within the PowerPoint interface?",
+      "options": [
+        "Insert tab, Symbols group",
+        "Draw tab, Drawing Tools group",
+        "Home tab, Font group",
+        "View tab, Presentation Views group"
+      ],
+      "answer": 1,
+      "explanation": "To write notes, you select the Draw tab and click on any of the Pen options from the Drawing Tools group.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q031",
+      "question": "What is the precise sequence of steps to delete an annotation using the Eraser tool in PowerPoint?",
+      "options": [
+        "Select Eraser tool -> Move over annotation",
+        "Select Eraser tool -> Click drop-down arrow -> Choose eraser type -> Move over annotation",
+        "Right-click annotation -> Select Erase",
+        "Select Eraser tool -> Press Delete key"
+      ],
+      "answer": 1,
+      "explanation": "The text outlines the steps: Select the Eraser tool, click the drop-down arrow of the Eraser option to choose the type, and then move the eraser over the text or drawing.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q032",
+      "question": "During a presentation in Slide Show view, which tools can be used to annotate or highlight key points according to the 'Let's Know More' section?",
+      "options": [
+        "Annotation pen, highlighter, or laser pointer",
+        "Ink Equation, Ink to Shape, or Ruler",
+        "Screen Recording, Audio, or Video",
+        "Slide Zoom, Quick Access Toolbar, or Define"
+      ],
+      "answer": 0,
+      "explanation": "The Let's Know More section states that in Slide Show view, you have the option to use the annotation pen, highlighter, or laser pointer.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q033",
+      "question": "How can you change the ink color or thickness of a pen while using the drawing tools?",
+      "options": [
+        "Right-click the pen and select Properties",
+        "Click the drop-down arrow of the selected pen",
+        "Double-click the pen icon",
+        "Press Ctrl + P"
+      ],
+      "answer": 1,
+      "explanation": "The text states that to change the ink color or thickness of the pen, you click on the drop-down arrow of the selected pen.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q034",
+      "question": "What is the primary purpose of the Ink Annotation feature in PowerPoint?",
+      "options": [
+        "To record screen activities",
+        "To write notes, create shapes, and highlight key concepts",
+        "To add math equations to the presentation",
+        "To navigate between slides in any order"
+      ],
+      "answer": 1,
+      "explanation": "The text describes Ink Annotation as a feature that enables you to annotate with ink to write notes, create shapes, highlight a key concept, and much more.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C03-Q035",
+      "question": "Which specific tool in the Drawing Tools group is used to highlight text on a slide?",
+      "options": [
+        "Pen",
+        "Pencil",
+        "Highlighter",
+        "Eraser"
+      ],
+      "answer": 2,
+      "explanation": "A Note on Page 5 states that you can highlight the text by using the Highlighter tool from the Drawing Tools group on the Draw tab.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q036",
+      "question": "How does the Slide Zoom feature improve the flow of a presentation compared to standard navigation methods?",
+      "options": [
+        "It allows navigation between slides in any order without interrupting the flow",
+        "It automatically records the presentation for later viewing",
+        "It converts handwritten notes into text during the presentation",
+        "It allows you to create a photo album on the fly"
+      ],
+      "answer": 0,
+      "explanation": "The Slide Zoom feature allows you to navigate between slides in any order and can be done without interrupting the flow of your presentation.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q037",
+      "question": "What is the exact sequence of UI elements to access the Slide Zoom option in PowerPoint?",
+      "options": [
+        "Insert tab -> Media group -> Zoom",
+        "Insert tab -> Links group -> Zoom",
+        "View tab -> Zoom group -> Slide Zoom",
+        "Draw tab -> Convert group -> Slide Zoom"
+      ],
+      "answer": 1,
+      "explanation": "To use the Slide Zoom option, you click on the Insert tab and then click on the Zoom button in the Links group.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q038",
+      "question": "After selecting slides in the Insert Slide Zoom dialog box and clicking Insert, how do these selected slides appear on the current slide?",
+      "options": [
+        "As hyperlinks",
+        "As thumbnails",
+        "As background images",
+        "As text boxes"
+      ],
+      "answer": 1,
+      "explanation": "The text states that the selected slides will appear in the form of thumbnails on the slide where you have inserted them.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q039",
+      "question": "When playing a slide show that includes Slide Zoom, what specific action triggers the zoom effect for a particular slide?",
+      "options": [
+        "Pressing the Enter key",
+        "Clicking on the slide's thumbnail",
+        "Right-clicking on the slide",
+        "Pressing the Spacebar"
+      ],
+      "answer": 1,
+      "explanation": "The text explains that during the slide show, you click on the slide's thumbnail that you want to zoom in on.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q040",
+      "question": "In which view mode does the Slide Zoom feature specifically work?",
+      "options": [
+        "Normal view only",
+        "Slide Sorter view only",
+        "Slide Show mode only",
+        "Reading view only"
+      ],
+      "answer": 2,
+      "explanation": "The text notes that this feature works in the slide show mode only.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q041",
+      "question": "What is the name of the dialog box that opens when you initiate the Slide Zoom process?",
+      "options": [
+        "Insert Zoom",
+        "Insert Slide Zoom",
+        "Slide Zoom Options",
+        "Zoom Dialog"
+      ],
+      "answer": 1,
+      "explanation": "The text states that the Insert Slide Zoom dialog box opens when you select Slide Zoom.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C03-Q042",
+      "question": "What is the quickest way to exit a slide show presentation according to the 'Let's Know More' section?",
+      "options": [
+        "Press the Enter key",
+        "Press the Esc key",
+        "Click the right mouse button",
+        "Press the Backspace key"
+      ],
+      "answer": 1,
+      "explanation": "The Let's Know More section on Page 5 states that to quit the slide show, you press the Esc key on the keyboard.",
+      "difficulty": "hard",
+      "topic": "General Presentation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q043",
+      "question": "Which of the following is NOT a valid way to move to the next slide during a slide show presentation?",
+      "options": [
+        "Clicking the left mouse button",
+        "Pressing the Enter key",
+        "Pressing the Spacebar",
+        "Clicking the right mouse button"
+      ],
+      "answer": 3,
+      "explanation": "The text lists clicking the left mouse button, Enter, Spacebar, or Down Arrow key to move to the next slide. It does not mention the right mouse button.",
+      "difficulty": "hard",
+      "topic": "General Presentation",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q044",
+      "question": "How can you add a frequently used command to the Quick Access Toolbar in PowerPoint?",
+      "options": [
+        "Double-click the tool on the ribbon",
+        "Right-click the tool and select Add to Quick Access Toolbar",
+        "Drag and drop the tool onto the toolbar",
+        "Press Ctrl + Q"
+      ],
+      "answer": 1,
+      "explanation": "The Let's Know More section states that to add any tool to the Quick Access Toolbar, you must right-click on the tool or command and select the Add to Quick Access Toolbar option.",
+      "difficulty": "hard",
+      "topic": "Quick Access Toolbar",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C03-Q045",
+      "question": "According to the textbook's exercise section, which tab contains the definition and pronunciation of the selected text?",
+      "options": [
+        "Draw",
+        "Define",
+        "Explain",
+        "Insert"
+      ],
+      "answer": 1,
+      "explanation": "This question is taken directly from the textbook's exercise section on Page 7, which indicates that the Define tab provides definitions and pronunciations.",
+      "difficulty": "hard",
+      "topic": "Smart Lookup / Define",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C03-Q046",
+      "question": "According to the textbook's exercise section, which group contains the Ink to Shape option?",
+      "options": [
+        "Convert",
+        "Smart Lookup",
+        "Ink Equation",
+        "Drawing Tools"
+      ],
+      "answer": 0,
+      "explanation": "The exercise section on Page 8 confirms that the Ink to Shape option is found in the Convert group.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 8"
+    },
+    {
+      "id": "BOOK-C03-Q047",
+      "question": "According to the textbook's exercise section, on which tab do you find the Screen Recording option?",
+      "options": [
+        "View",
+        "Insert",
+        "Edit",
+        "Draw"
+      ],
+      "answer": 1,
+      "explanation": "The exercise section on Page 8 confirms that the Screen Recording option is found on the Insert tab.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 8"
+    },
+    {
+      "id": "BOOK-C03-Q048",
+      "question": "True or False: You cannot add sound while doing the screen recording.",
+      "options": [
+        "True",
+        "False",
+        "Only if you have a webcam",
+        "Only if you are recording a game session"
+      ],
+      "answer": 1,
+      "explanation": "The statement is false because the text explicitly states that you can turn on the Audio option if you want to insert sound in your screen recording.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "Page 8"
+    },
+    {
+      "id": "BOOK-C03-Q049",
+      "question": "True or False: The Lasso Select tool is used to select objects.",
+      "options": [
+        "True",
+        "False",
+        "Only in Slide Show view",
+        "Only for Ink Equations"
+      ],
+      "answer": 0,
+      "explanation": "The exercise section on Page 8 confirms that the Lasso Select tool is used to select objects.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "Page 8"
+    },
+    {
+      "id": "BOOK-C03-Q050",
+      "question": "True or False: You cannot correct any part of the equation after you finish writing it using Ink Equation.",
+      "options": [
+        "True",
+        "False",
+        "Only if you used a mouse",
+        "Only if you didn't click Insert"
+      ],
+      "answer": 1,
+      "explanation": "The statement is false because the Note section on Page 3 states that you can correct any part of the equation at any time by selecting the Select and Correct option.",
+      "difficulty": "hard",
+      "topic": "Ink Equations",
+      "source": "Page 8"
+    }
+  ]
+} 
