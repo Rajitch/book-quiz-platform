@@ -4,20 +4,755 @@
   "chapter": "Powerpoint",
   "questions": [
     {
-  	"id": "Q001",
-  	"question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
-  	"options": [
-  	  "Screen Recording",
-  	  "Photo Album",
-  	  "Slide Zoom",
-  	  "Ink Annotation"
-  	],
-  	"answer": 1,
-  	"explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
-  	"difficulty": "easy",
-  	"topic": "Photo Album",
-  	"source": "Sample content \u2014 replace with questions verified against your textbook."
+      "id": "Q001",
+      "question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
+      "options": [
+        "Screen Recording",
+        "Photo Album",
+        "Slide Zoom",
+        "Ink Annotation"
+      ],
+      "answer": 1,
+      "explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 37,reference: Creating Photo Album"
+    },
+    {
+      "id": "Q002",
+      "question": "By default, how many pictures appear on each slide when using the Photo Album feature?",
+      "options": [
+        "One picture",
+        "Two pictures",
+        "Three pictures",
+        "Four pictures"
+      ],
+      "answer": 0,
+      "explanation": "The chapter says that by default only one picture appears on each slide.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 37 reference: Creating Photo Album"
+    },
+    {
+      "id": "Q003",
+      "question": "Which tab contains the New Photo Album option described in the chapter?",
+      "options": [
+        "View",
+        "Design",
+        "Insert",
+        "Draw"
+      ],
+      "answer": 2,
+      "explanation": "The steps instruct the user to go to the Insert tab and select New Photo Album from the Photo Album drop-down menu.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q004",
+      "question": "In the Photo Album dialog box, which tab is selected to pick pictures from the computer?",
+      "options": [
+        "File/Disk",
+        "Preview",
+        "Album Layout",
+        "Picture Options"
+      ],
+      "answer": 0,
+      "explanation": "The chapter instructs the user to choose the File/Disk tab under the Insert pictures from section.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q005",
+      "question": "After pictures are selected in the Photo Album dialog box, where are they listed so that their order can be changed?",
+      "options": [
+        "Preview pane",
+        "Album Layout section",
+        "Picture Options section",
+        "Pictures in album box"
+      ],
+      "answer": 3,
+      "explanation": "The selected pictures are added under the Pictures in album box, where their order can be rearranged using the up and down arrows.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q006",
+      "question": "A student wants to control both the arrangement of pictures and the shape of their frames in a Photo Album. Which pair of settings should the student use?",
+      "options": [
+        "Picture Layout and Frame Shape",
+        "Preview and File/Disk",
+        "Picture Options and Preview",
+        "Album Content and File/Disk"
+      ],
+      "answer": 0,
+      "explanation": "The chapter specifically instructs users to choose the picture layout and frame shape in the Album Layout section.",
+      "difficulty": "hard",
+      "topic": "Photo Album",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q007",
+      "question": "What happens after all pictures have been added and the album settings have been chosen?",
+      "options": [
+        "The pictures are deleted",
+        "The presentation is closed",
+        "The Create button is clicked to finish the photo album",
+        "The Slide Zoom dialog box opens"
+      ],
+      "answer": 2,
+      "explanation": "The chapter states that once the pictures have been added, the Create button is clicked and the photo album presentation is ready.",
+      "difficulty": "easy",
+      "topic": "Photo Album",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q008",
+      "question": "Which feature lets a user add mathematical equations to a presentation?",
+      "options": [
+        "Ink Equation",
+        "Slide Zoom",
+        "Screen Recording",
+        "Photo Album"
+      ],
+      "answer": 0,
+      "explanation": "The chapter describes Ink Equations as a feature for adding mathematical equations to a presentation.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q009",
+      "question": "According to the chapter, Ink Equation is especially easy to use when the computer has which type of device?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Projector",
+        "Touch-enabled device"
+      ],
+      "answer": 3,
+      "explanation": "The chapter says Ink Equation is easy to use if a touch-enabled device is connected to the system.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q010",
+      "question": "If a touch device is not available, what does the chapter say can be used to write an equation?",
+      "options": [
+        "A printer",
+        "A mouse",
+        "A projector",
+        "A speaker"
+      ],
+      "answer": 1,
+      "explanation": "The chapter states that a mouse can be used to write equations if a touch device is unavailable.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q011",
+      "question": "After the Ink Equation option is selected, which dialog box appears?",
+      "options": [
+        "Photo Album dialog box",
+        "Insert Slide Zoom dialog box",
+        "Math Input Control dialog box",
+        "Screen Recording dialog box"
+      ],
+      "answer": 2,
+      "explanation": "The chapter states that selecting Ink Equation opens the Math Input Control dialog box.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q012",
+      "question": "Where should the mouse pointer be placed before beginning to write an equation in the Math Input Control dialog box?",
+      "options": [
+        "On the light-yellow grid area",
+        "On the title bar",
+        "On the toolbar",
+        "On the preview image"
+      ],
+      "answer": 0,
+      "explanation": "The chapter instructs the user to bring the mouse pointer onto the light-yellow coloured grid area before writing.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q013",
+      "question": "After finishing an equation in the Math Input Control dialog box, which button is clicked?",
+      "options": [
+        "Erase",
+        "Select",
+        "Correct",
+        "Insert"
+      ],
+      "answer": 3,
+      "explanation": "The chapter instructs the user to click the Insert button at the bottom of the dialog box after writing the equation.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q014",
+      "question": "Which tool can be used to erase part of an equation while working in the Math Input Control dialog box?",
+      "options": [
+        "Lasso Select",
+        "Erase",
+        "Highlighter",
+        "Ruler"
+      ],
+      "answer": 1,
+      "explanation": "The chapter says the Erase tool can be selected from the toolbar to erase part of the equation.",
+      "difficulty": "easy",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q015",
+      "question": "How can an incorrect part of an equation be corrected according to the chapter?",
+      "options": [
+        "Restart PowerPoint",
+        "Delete the entire equation",
+        "Use Select and Correct in the Math Input Control dialog box",
+        "Open the Photo Album dialog box"
+      ],
+      "answer": 2,
+      "explanation": "The note says that any part of the equation can be corrected by selecting the Select and Correct option from the Math Input Control dialog box.",
+      "difficulty": "medium",
+      "topic": "Ink Equations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q016",
+      "question": "What is the main purpose of Screen Recording?",
+      "options": [
+        "To capture activities performed on the computer screen",
+        "To import photographs",
+        "To create mathematical equations",
+        "To change picture frame shapes"
+      ],
+      "answer": 0,
+      "explanation": "The chapter states that Screen Recording is used to capture activities done on the computer screen.",
+      "difficulty": "easy",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q017",
+      "question": "Which set of equipment is mentioned as necessary when using Screen Recording with sound?",
+      "options": [
+        "Printer, scanner and projector",
+        "Keyboard, mouse and printer",
+        "Camera, projector and scanner",
+        "Sound card, microphone and speakers"
+      ],
+      "answer": 3,
+      "explanation": "The chapter states that a sound card, microphone and speakers are needed to use the sound-recording capability.",
+      "difficulty": "medium",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q018",
+      "question": "Where is the Screen Recording option found?",
+      "options": [
+        "Draw tab, Drawing Tools group",
+        "Insert tab, Media group",
+        "Design tab, Customize group",
+        "Insert tab, Links group"
+      ],
+      "answer": 1,
+      "explanation": "The steps state that Screen Recording is selected from the Media group on the Insert tab.",
+      "difficulty": "easy",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q019",
+      "question": "A student wants to record only part of the screen rather than the whole screen. What should the student do when the Screen Recording controls appear?",
+      "options": [
+        "Select Create and choose a picture",
+        "Click Insert and choose Slide Zoom",
+        "Click Select Area and drag the mouse over the desired region",
+        "Click Erase and remove the unwanted area"
+      ],
+      "answer": 2,
+      "explanation": "The chapter instructs the user to click Select Area and then drag the mouse to highlight the desired screen region.",
+      "difficulty": "hard",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q020",
+      "question": "What can be selected as the area for a screen recording?",
+      "options": [
+        "Only the full screen",
+        "Only one application window",
+        "A specific area or the full screen",
+        "Only the PowerPoint slide"
+      ],
+      "answer": 2,
+      "explanation": "The chapter states that the user may select a specific area or the full screen.",
+      "difficulty": "easy",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q021",
+      "question": "Which option can be turned on if the user wants to include sound in the screen recording?",
+      "options": [
+        "Ruler",
+        "Highlighter",
+        "Preview",
+        "Audio"
+      ],
+      "answer": 3,
+      "explanation": "The chapter says the Audio option can be turned on when sound is required in the screen recording.",
+      "difficulty": "easy",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q022",
+      "question": "What happens when the Record button is clicked after the recording area has been selected?",
+      "options": [
+        "The photo album is created",
+        "The screen recording starts after the countdown",
+        "The equation editor opens",
+        "The selected slide is deleted"
+      ],
+      "answer": 1,
+      "explanation": "The chapter states that clicking Record starts the recording, with a Countdown dialog indicating that recording will begin shortly.",
+      "difficulty": "easy",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q023",
+      "question": "Which shortcut key combination is shown in the chapter for stopping a screen recording?",
+      "options": [
+        "Ctrl + Shift + R",
+        "Alt + Shift + Q",
+        "Windows + Shift + Q",
+        "Windows + Ctrl + S"
+      ],
+      "answer": 2,
+      "explanation": "The Screen Recording section shows Windows + Shift + Q as the shortcut for stopping the recording.",
+      "difficulty": "medium",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q024",
+      "question": "After the recording is stopped, where is the recorded screen video inserted?",
+      "options": [
+        "The current slide",
+        "A new presentation",
+        "The Photo Album dialog box",
+        "The Design tab"
+      ],
+      "answer": 0,
+      "explanation": "The chapter states that the recorded screen video is inserted into the current slide.",
+      "difficulty": "medium",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q025",
+      "question": "Which tab can be used to move, resize, rotate or add special effects to the recorded video?",
+      "options": [
+        "Draw",
+        "Insert",
+        "Design",
+        "Playback"
+      ],
+      "answer": 3,
+      "explanation": "The chapter states that the recorded video can be edited using the special Playback tab that appears on the ribbon.",
+      "difficulty": "medium",
+      "topic": "Screen Recording",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q026",
+      "question": "What does Ink Annotation allow a user to do in PowerPoint?",
+      "options": [
+        "Only insert photographs",
+        "Write notes, create shapes and highlight key concepts",
+        "Only record the screen",
+        "Only create Slide Zooms"
+      ],
+      "answer": 1,
+      "explanation": "The chapter describes Ink Annotation as a feature for writing notes, creating shapes, highlighting key concepts and more.",
+      "difficulty": "easy",
+      "topic": "Ink Annotation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q027",
+      "question": "Which tab and group are used to choose a pen for writing notes?",
+      "options": [
+        "Insert tab, Media group",
+        "Design tab, Customize group",
+        "Draw tab, Drawing Tools group",
+        "Insert tab, Links group"
+      ],
+      "answer": 2,
+      "explanation": "The Writing Text instructions say to select the Draw tab and choose a pen from the Drawing Tools group.",
+      "difficulty": "easy",
+      "topic": "Ink Annotation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q028",
+      "question": "A student has selected a pen and wants to change both its colour and thickness. Which action should the student take?",
+      "options": [
+        "Click the Create button",
+        "Click the Eraser option",
+        "Click the drop-down arrow of the selected pen and choose the required colour and thickness",
+        "Open the Slide Zoom dialog box"
+      ],
+      "answer": 2,
+      "explanation": "The chapter instructs users to open the drop-down arrow of the selected pen and choose the required colour and thickness.",
+      "difficulty": "hard",
+      "topic": "Ink Annotation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q029",
+      "question": "After selecting the ink options, which can be used to write text on the slide?",
+      "options": [
+        "Only a keyboard",
+        "Only a projector",
+        "Only a printer",
+        "A stylus, light pen or mouse"
+      ],
+      "answer": 3,
+      "explanation": "The chapter says that after selecting the ink options, text can be written using a stylus, light pen or mouse.",
+      "difficulty": "easy",
+      "topic": "Ink Annotation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q030",
+      "question": "Which tool can be used to highlight text from the Drawing Tools group?",
+      "options": [
+        "Ruler",
+        "Highlighter",
+        "Eraser",
+        "Lasso Select"
+      ],
+      "answer": 1,
+      "explanation": "The chapter note says that text can be highlighted using the Highlighter tool from the Drawing Tools group on the Draw tab.",
+      "difficulty": "easy",
+      "topic": "Ink Annotation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q031",
+      "question": "Which tab is used when drawing an object or shape with ink?",
+      "options": [
+        "Insert",
+        "Design",
+        "Draw",
+        "View"
+      ],
+      "answer": 2,
+      "explanation": "The Drawing in your Presentation section instructs the user to click the Draw tab.",
+      "difficulty": "easy",
+      "topic": "Drawing in Presentation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q032",
+      "question": "Which option is clicked twice to convert an ink drawing into a uniform geometric shape?",
+      "options": [
+        "Ink to Shape",
+        "Ink Equation",
+        "Slide Zoom",
+        "Select Area"
+      ],
+      "answer": 0,
+      "explanation": "The chapter instructs the user to click the Ink to Shape option twice from the Convert group.",
+      "difficulty": "medium",
+      "topic": "Drawing in Presentation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q033",
+      "question": "What happens to a hand-drawn geometric shape after a successful Ink to Shape conversion?",
+      "options": [
+        "It becomes a screen recording",
+        "It becomes a photo album",
+        "It is erased",
+        "It is converted into a uniform geometric shape"
+      ],
+      "answer": 3,
+      "explanation": "The chapter states that the hand-drawn shape will be converted into a uniform geometrical shape.",
+      "difficulty": "easy",
+      "topic": "Drawing in Presentation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q034",
+      "question": "What kind of drawing can PowerPoint convert using Ink to Shape?",
+      "options": [
+        "Any drawing regardless of its appearance",
+        "Drawings that look similar to common shapes",
+        "Only photographs",
+        "Only mathematical equations"
+      ],
+      "answer": 1,
+      "explanation": "The chapter note says PowerPoint can convert drawings that look similar to common shapes.",
+      "difficulty": "medium",
+      "topic": "Drawing in Presentation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q035",
+      "question": "If a drawing does not look similar to any common geometric shape, what happens according to the chapter?",
+      "options": [
+        "It is automatically deleted",
+        "It becomes a mathematical equation",
+        "The drawing remains unaffected",
+        "It becomes a Slide Zoom"
+      ],
+      "answer": 2,
+      "explanation": "The chapter note states that if a drawing does not match a common geometric shape, the drawing remains unaffected.",
+      "difficulty": "medium",
+      "topic": "Drawing in Presentation",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q036",
+      "question": "Which tool is selected to remove an annotation?",
+      "options": [
+        "Eraser",
+        "Highlighter",
+        "Ruler",
+        "Ink to Shape"
+      ],
+      "answer": 0,
+      "explanation": "The Deleting Annotations section instructs the user to select the Eraser tool.",
+      "difficulty": "easy",
+      "topic": "Deleting Annotations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q037",
+      "question": "Where is the Eraser tool located?",
+      "options": [
+        "Insert tab, Media group",
+        "Insert tab, Links group",
+        "Design tab, Customize group",
+        "Draw tab, Drawing Tools group"
+      ],
+      "answer": 3,
+      "explanation": "The chapter states that the Eraser tool is in the Drawing Tools group on the Draw tab.",
+      "difficulty": "easy",
+      "topic": "Deleting Annotations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q038",
+      "question": "What is selected to choose the required type of eraser?",
+      "options": [
+        "The Audio option",
+        "The drop-down arrow of the Eraser option",
+        "The Create button",
+        "The Zoom button"
+      ],
+      "answer": 1,
+      "explanation": "The chapter instructs the user to click the drop-down arrow of the Eraser option to select the required eraser type.",
+      "difficulty": "medium",
+      "topic": "Deleting Annotations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q039",
+      "question": "After choosing the required eraser type, what should the user do?",
+      "options": [
+        "Click Create",
+        "Select Slide Zoom",
+        "Move the eraser over the text or drawing to be erased",
+        "Open the Photo Album dialog box"
+      ],
+      "answer": 2,
+      "explanation": "The final step says to move the eraser over the text or drawing that the user wants to erase.",
+      "difficulty": "easy",
+      "topic": "Deleting Annotations",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q040",
+      "question": "What is the main benefit of the Slide Zoom feature described in the chapter?",
+      "options": [
+        "It allows navigation between slides in any order without interrupting the presentation flow",
+        "It converts handwriting into geometric shapes",
+        "It records the computer screen",
+        "It imports photographs into a presentation"
+      ],
+      "answer": 0,
+      "explanation": "The chapter explains that Slide Zoom allows navigation between slides in any order without interrupting the flow of the presentation.",
+      "difficulty": "easy",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q041",
+      "question": "Which tab and group contain the Zoom button used to start creating a Slide Zoom?",
+      "options": [
+        "Draw tab, Convert group",
+        "Insert tab, Media group",
+        "Design tab, Customize group",
+        "Insert tab, Links group"
+      ],
+      "answer": 3,
+      "explanation": "The Slide Zoom steps instruct the user to click the Insert tab and then the Zoom button in the Links group.",
+      "difficulty": "medium",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q042",
+      "question": "Which option is selected from the displayed Zoom list to create a Slide Zoom?",
+      "options": [
+        "Summary Zoom",
+        "Slide Zoom",
+        "Section Zoom",
+        "Screen Zoom"
+      ],
+      "answer": 1,
+      "explanation": "The chapter specifically instructs the user to select Slide Zoom from the displayed list of Zoom options.",
+      "difficulty": "easy",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q043",
+      "question": "What appears on the slide after slides are selected and inserted for a Slide Zoom?",
+      "options": [
+        "Full-size copies of the slides",
+        "Audio controls",
+        "Thumbnails of the selected slides",
+        "A screen recording"
+      ],
+      "answer": 2,
+      "explanation": "The chapter states that selected slides appear as thumbnails on the slide where the Slide Zoom has been inserted.",
+      "difficulty": "easy",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q044",
+      "question": "In which mode does the Slide Zoom feature work?",
+      "options": [
+        "Slide Show mode only",
+        "Editing mode only",
+        "Print Preview mode only",
+        "Reading mode only"
+      ],
+      "answer": 0,
+      "explanation": "The chapter explicitly states that this feature works in the slide show mode only.",
+      "difficulty": "easy",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q045",
+      "question": "During a slide show, a student wants to jump to one of the slides represented by a Slide Zoom thumbnail. What should the student do?",
+      "options": [
+        "Press the Create button",
+        "Open the Draw tab",
+        "Click the Audio option",
+        "Click the thumbnail of the slide to be viewed"
+      ],
+      "answer": 3,
+      "explanation": "The chapter instructs the user to play the slide show and click the thumbnail of the slide they want to zoom into.",
+      "difficulty": "hard",
+      "topic": "Slide Zoom",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q046",
+      "question": "In the practice activity, which option is used to create two parallel lines?",
+      "options": [
+        "Highlighter",
+        "Ruler",
+        "Ink to Shape",
+        "Screen Recording"
+      ],
+      "answer": 1,
+      "explanation": "The practice instructions say to choose another pen colour and click the Ruler option from the Stencils group, then draw two parallel lines.",
+      "difficulty": "easy",
+      "topic": "Practice Activity",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q047",
+      "question": "Which option is used in the practice activity to create a mathematical equation?",
+      "options": [
+        "Ink to Shape",
+        "Slide Zoom",
+        "Ink to Math",
+        "Screen Recording"
+      ],
+      "answer": 2,
+      "explanation": "The practice activity instructs the user to click Ink to Math from the Convert group and write a mathematical equation.",
+      "difficulty": "medium",
+      "topic": "Practice Activity",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q048",
+      "question": "What is the final action listed in the practice activity after drawing two parallel lines?",
+      "options": [
+        "Save the file and run the presentation",
+        "Delete the annotations",
+        "Open the Photo Album dialog box",
+        "Select the Audio option"
+      ],
+      "answer": 0,
+      "explanation": "The practice instructions end by telling the student to save the file and run the presentation.",
+      "difficulty": "easy",
+      "topic": "Practice Activity",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q049",
+      "question": "A student needs to move to different slides during a presentation without interrupting its flow. Which chapter feature directly supports this requirement?",
+      "options": [
+        "Photo Album",
+        "Ink Equation",
+        "Screen Recording",
+        "Slide Zoom"
+      ],
+      "answer": 3,
+      "explanation": "The chapter describes Slide Zoom as allowing navigation between slides in any order without interrupting the flow of the presentation.",
+      "difficulty": "hard",
+      "topic": "Application and Reasoning",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
+    },
+    {
+      "id": "Q050",
+      "question": "A student draws a triangle by hand and wants it converted into a regular geometric shape. Which feature should the student use?",
+      "options": [
+        "Ink Equation",
+        "Ink to Shape",
+        "Screen Recording",
+        "Slide Zoom"
+      ],
+      "answer": 1,
+      "explanation": "The chapter explains that Ink to Shape can convert suitable hand-drawn shapes into uniform geometric shapes.",
+      "difficulty": "hard",
+      "topic": "Application and Reasoning",
+      "source": "textbook_page: 38, reference: Creating a Photo Album"
     }
   ]
-  
-} 
+}
+ 
