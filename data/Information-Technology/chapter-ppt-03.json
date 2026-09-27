@@ -1,0 +1,114 @@
+{
+  "question_bank": {
+    "title": "PowerPoint Chapter Question Bank",
+    "question_count": 50,
+    "source": "Supplied textbook chapter screenshots",
+    "source_pages": "37-44",
+    "questions": [
+      {
+        "id": "Q001",
+        "type": "multiple_choice",
+        "question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
+        "options": {
+          "A": "Screen Recording",
+          "B": "Photo Album",
+          "C": "Slide Zoom",
+          "D": "Ink Annotation"
+        },
+        "correct_option": "B",
+        "explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
+        "difficulty": "easy",
+        "topic": "Photo Album",
+        "source": {
+          "textbook_page": 37,
+          "reference": "Creating Photo Album"
+        },
+        "manual_review": false
+      },
+      {
+        "id": "Q002",
+        "type": "multiple_choice",
+        "question": "By default, how many pictures appear on each slide when using the Photo Album feature?",
+        "options": {
+          "A": "One picture",
+          "B": "Two pictures",
+          "C": "Three pictures",
+          "D": "Four pictures"
+        },
+        "correct_option": "A",
+        "explanation": "The chapter says that by default only one picture appears on each slide.",
+        "difficulty": "easy",
+        "topic": "Photo Album",
+        "source": {
+          "textbook_page": 37,
+          "reference": "Creating Photo Album"
+        },
+        "manual_review": false
+      },
+      {
+        "id": "Q003",
+        "type": "multiple_choice",
+        "question": "Which tab contains the New Photo Album option described in the chapter?",
+        "options": {
+          "A": "View",
+          "B": "Design",
+          "C": "Insert",
+          "D": "Draw"
+        },
+        "correct_option": "C",
+        "explanation": "The steps instruct the user to go to the Insert tab and select New Photo Album from the Photo Album drop-down menu.",
+        "difficulty": "easy",
+        "topic": "Photo Album",
+        "source": {
+          "textbook_page": 38,
+          "reference": "Creating a Photo Album"
+        },
+        "manual_review": false
+      },
+      {
+        "id": "Q004",
+        "type": "multiple_choice",
+        "question": "In the Photo Album dialog box, which tab is selected to pick pictures from the computer?",
+        "options": {
+          "A": "File/Disk",
+          "B": "Preview",
+          "C": "Album Layout",
+          "D": "Picture Options"
+        },
+        "correct_option": "A",
+        "explanation": "The chapter instructs the user to choose the File/Disk tab under the Insert pictures from section.",
+        "difficulty": "easy",
+        "topic": "Photo Album",
+        "source": {
+          "textbook_page": 38,
+          "reference": "Photo Album Dialog Box"
+        },
+        "manual_review": false
+      },
+      {
+        "id": "Q005",
+        "type": "multiple_choice",
+        "question": "After pictures are selected in the Photo Album dialog box, where are they listed so that their order can be changed?",
+        "options": {
+          "A": "Preview pane",
+          "B": "Album Layout section",
+          "C": "Picture Options section",
+          "D": "Pictures in album box"
+        },
+        "correct_option": "D",
+        "explanation": "The selected pictures are added under the Pictures in album box, where their order can be rearranged using the up and down arrows.",
+        "difficulty": "easy",
+        "topic": "Photo Album",
+        "source": {
+          "textbook_page": 38,
+          "reference": "Photo Album Dialog Box"
+        },
+        "manual_review": false
+      },
+      {
+        "id": "Q006",
+        "type": "multiple_choice",
+        "question": "A student wants to control both the arrangement of pictures and the shape of their frames in a Photo Album. Which pair of settings should the student use?",
+        "options": {
+          "A": "Picture Layout and Frame Shape",
+          "B": "Preview and File/Disk",
