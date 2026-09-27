@@ -3,43 +3,21 @@
   "book": "Information-Technology",
   "chapter": "Powerpoint",
   "questions": [
-      {
-        "id": "Q001",
-        "type": "multiple_choice",
-        "question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
-        "options": {
-          "A": "Screen Recording",
-          "B": "Photo Album",
-          "C": "Slide Zoom",
-          "D": "Ink Annotation"
-        },
-        "correct_option": "B",
-        "explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
-        "difficulty": "easy",
-        "topic": "Photo Album",
-        "source": {
-          "textbook_page": 37,
-          "reference": "Creating Photo Album"
-        }
-      },
-      {
-        "id": "Q050",
-        "type": "multiple_choice",
-        "question": "A student draws a triangle by hand and wants it converted into a regular geometric shape. Which feature should the student use?",
-        "options": {
-          "A": "Ink Equation",
-          "B": "Ink to Shape",
-          "C": "Screen Recording",
-          "D": "Slide Zoom"
-        },
-        "correct_option": "B",
-        "explanation": "The chapter explains that Ink to Shape can convert suitable hand-drawn shapes into uniform geometric shapes.",
-        "difficulty": "hard",
-        "topic": "Application and Reasoning",
-        "source": {
-          "textbook_page": 41,
-          "reference": "Ink to Shape"
-        }      
-      }
-    ]
- }
+    {
+  	"id": "Q001",
+  	"question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
+  	"options": [
+  	  "Screen Recording",
+  	  "Photo Album",
+  	  "Slide Zoom",
+  	  "Ink Annotation"
+  	],
+  	"answer": "1",
+  	"explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
+  	"difficulty": "easy",
+  	"topic": "Photo Album",
+  	"source": "Sample content \u2014 replace with questions verified against your textbook."
+    }
+  ]
+  
+} 
