@@ -21,6 +21,19 @@
           "file": "data/science/chapter-02.json"
         }
       ]
+    },
+	{
+      "id": "Information-Technology",
+      "title": "Information-Technology",
+      "chapters": [
+        {
+          "id": "IT-PowerPoint-Ch-03",
+          "number": 1,
+          "title": "Powerpoint",
+          "description": "Powerpoint Sample chapter generated.",
+          "file": "data/Information-Technology/chapter-ppt-03.json"
+        }
+      ]
     }
   ]
 }
