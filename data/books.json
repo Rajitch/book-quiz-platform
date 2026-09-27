@@ -22,7 +22,7 @@
         }
 		{
           "id": "science-ch03",
-          "number": 2,
+          "number": 3,
           "title": "IT-PPT",
           "description": "Generated PPT chapter.",
           "file": "data/Information-Technology/chapter-ppt-03.json"
