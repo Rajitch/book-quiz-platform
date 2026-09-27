@@ -1,3 +1,4 @@
+/*
 #  Cache static assets for a long time. HTML and data remain revalidated.
 
 Cache-Control: public, max-age=31536000, immutable
