@@ -32,6 +32,26 @@
           "title": "PPT",
           "description": "PPT Questions generated.",
           "file": "data/Information-Technology/chapter-ppt-03.json"
+        },
+		{
+          "id": "science-ppt-ch02",
+          "number": 2,
+          "title": "PPT-Advance",
+          "description": "PPT Questions hard.",
+          "file": "data/Information-Technology/chapter-ppt-adv-04.json"
+        }
+      ]
+    },
+	{
+      "id": "English",
+      "title": "English",
+      "chapters": [
+        {
+          "id": "english-gmmr-ch01",
+          "number": 1,
+          "title": "Transitive_Intransitive",
+          "description": "Transitive_Intransitive Questions generated.",
+          "file": "data/English/chapter-tran_intran-01.json"
         }
       ]
     }

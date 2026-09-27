@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "book": "English",
+  "chapter": "Transitive and Intransitive Verbs",
+  "questions": [
+    {
+      "id": "BOOK-C04-Q001",
+      "question": "What is a direct object?",
+      "options": [
+        "A noun or pronoun that receives the action of the verb",
+        "A word that tells to whom or for whom the action is done",
+        "A word that completes an intransitive verb",
+        "A verb that does not need an object"
+      ],
+      "answer": 0,
+      "explanation": "A direct object is defined as a noun or pronoun that receives the action of the verb.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q002",
+      "question": "Which question helps identify the direct object of a verb?",
+      "options": [
+        "Who or what?",
+        "To whom or for whom?",
+        "When?",
+        "Why?"
+      ],
+      "answer": 0,
+      "explanation": "A direct object is identified by asking who or what in relation to the verb.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q003",
+      "question": "What does an indirect object tell us?",
+      "options": [
+        "To whom or for whom the action is performed",
+        "What receives the action",
+        "How the action is done",
+        "Where the action happens"
+      ],
+      "answer": 0,
+      "explanation": "An indirect object is a noun or pronoun that tells us to whom or for whom the action of the verb is performed.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q004",
+      "question": "Which question is used to identify an indirect object?",
+      "options": [
+        "To whom or for whom?",
+        "Who or what?",
+        "Which one?",
+        "How many?"
+      ],
+      "answer": 0,
+      "explanation": "An indirect object answers the question to whom or for whom the action is done.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q005",
+      "question": "True or False: An indirect object can exist in a sentence without a direct object.",
+      "options": [
+        "True",
+        "False",
+        "Only in questions",
+        "Only in passive voice"
+      ],
+      "answer": 1,
+      "explanation": "The text states that for a verb to have an indirect object, there must also be a direct object.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q006",
+      "question": "In a sentence with both objects, where does the indirect object usually appear?",
+      "options": [
+        "Before the direct object",
+        "After the direct object",
+        "At the end of the sentence",
+        "Before the verb"
+      ],
+      "answer": 0,
+      "explanation": "The indirect object usually appears before the direct object.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q007",
+      "question": "How can you reverse the usual order of direct and indirect objects?",
+      "options": [
+        "By using a preposition such as to or for with the indirect object",
+        "By changing the verb to passive",
+        "By adding an adverb",
+        "By placing the indirect object after the verb"
+      ],
+      "answer": 0,
+      "explanation": "The order can be reversed by using a preposition (to, for) with the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q008",
+      "question": "In 'She gave me a book,' what is 'me'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Me' tells to whom the book was given, so it is the indirect object.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q009",
+      "question": "In 'He brought her some flowers,' what is 'some flowers'?",
+      "options": [
+        "Direct object",
+        "Indirect object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Some flowers' receives the action of the verb brought, so it is the direct object.",
+      "difficulty": "easy",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q010",
+      "question": "In 'My father gifted me a nice watch,' what is 'me'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Me' tells to whom the watch was gifted, so it is the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q011",
+      "question": "In 'Shala stitched a dress for her baby sister,' what is 'a dress'?",
+      "options": [
+        "Direct object",
+        "Indirect object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'A dress' receives the action of stitching, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q012",
+      "question": "In 'Deepak lent his friend his binoculars,' what is 'his binoculars'?",
+      "options": [
+        "Direct object",
+        "Indirect object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'His binoculars' is the thing being lent, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q013",
+      "question": "In 'Renu fed her dog biscuits,' what is 'her dog'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Her dog' tells to whom the biscuits were fed, so it is the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q014",
+      "question": "In 'He bought me an expensive pen,' what is 'an expensive pen'?",
+      "options": [
+        "Direct object",
+        "Indirect object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'An expensive pen' is the thing bought, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q015",
+      "question": "In 'The judge awarded the criminal a life sentence,' what is 'the criminal'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'The criminal' tells to whom the sentence was awarded, so it is the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q016",
+      "question": "In 'They sent you a mail,' what is 'a mail'?",
+      "options": [
+        "Direct object",
+        "Indirect object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'A mail' is the thing sent, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q017",
+      "question": "In 'My mother taught me English,' what is 'me'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Me' tells to whom English was taught, so it is the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q018",
+      "question": "In 'She showed us all the gifts,' what is 'us'?",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Complement"
+      ],
+      "answer": 0,
+      "explanation": "'Us' tells to whom the gifts were shown, so it is the indirect object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q019",
+      "question": "In 'Ranjini sold her old typewriter to the antique collector,' what is the direct object?",
+      "options": [
+        "her old typewriter",
+        "the antique collector",
+        "Ranjini",
+        "sold"
+      ],
+      "answer": 0,
+      "explanation": "'Her old typewriter' is the thing sold, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q020",
+      "question": "In 'Prem saw a rare species of vulture on his travels,' what is the direct object?",
+      "options": [
+        "a rare species of vulture",
+        "Prem",
+        "his travels",
+        "saw"
+      ],
+      "answer": 0,
+      "explanation": "'A rare species of vulture' receives the action of saw, so it is the direct object.",
+      "difficulty": "medium",
+      "topic": "Direct and Indirect Objects",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q021",
+      "question": "In 'We walked on the beach and ate ice creams,' which verb is transitive?",
+      "options": [
+        "ate",
+        "walked",
+        "on",
+        "beach"
+      ],
+      "answer": 0,
+      "explanation": "'Ate' is transitive because 'ice creams' is its direct object; 'walked' is intransitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C04-Q022",
+      "question": "What is a transitive verb?",
+      "options": [
+        "A verb that needs an object to complete its meaning",
+        "A verb that never takes an object",
+        "A verb that only appears in passive voice",
+        "A word that describes a noun"
+      ],
+      "answer": 0,
+      "explanation": "A transitive verb is a verb which needs an object to complete its meaning.",
+      "difficulty": "easy",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q023",
+      "question": "What is an intransitive verb?",
+      "options": [
+        "A verb that makes complete sense by itself without an object",
+        "A verb that always takes two objects",
+        "A verb that needs an object",
+        "A verb that links a subject to a complement"
+      ],
+      "answer": 0,
+      "explanation": "An intransitive verb makes complete sense by itself and does not need an object.",
+      "difficulty": "easy",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q024",
+      "question": "In 'They bought some vegetables,' why is 'bought' transitive?",
+      "options": [
+        "Because vegetables is the direct object",
+        "Because it has no object",
+        "Because it is in past tense",
+        "Because some is an adjective"
+      ],
+      "answer": 0,
+      "explanation": "'Bought' has the direct object 'vegetables', so it is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q025",
+      "question": "In 'The race began,' why is 'began' intransitive?",
+      "options": [
+        "Because it does not need an object to make complete sense",
+        "Because race is the object",
+        "Because it has an indirect object",
+        "Because began is a linking verb"
+      ],
+      "answer": 0,
+      "explanation": "The sentence makes complete sense without an object, so 'began' is intransitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q026",
+      "question": "Which sentence has an intransitive verb?",
+      "options": [
+        "The cat is sleeping on the couch.",
+        "The cat chased the mice.",
+        "Rabbits love carrots.",
+        "My mother stitched a skirt."
+      ],
+      "answer": 0,
+      "explanation": "'Sleeping' does not take an object, so it is intransitive.",
+      "difficulty": "easy",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q027",
+      "question": "Which sentence has a transitive verb?",
+      "options": [
+        "Mother boils eggs for breakfast.",
+        "Water boils at 100 degrees Celsius.",
+        "The rabbit is going into its burrow.",
+        "The race began."
+      ],
+      "answer": 0,
+      "explanation": "'Boils' has the object 'eggs', so it is transitive in this sentence.",
+      "difficulty": "easy",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q028",
+      "question": "What does the 'Watch Out!' section teach about some verbs?",
+      "options": [
+        "The same verb can be transitive or intransitive depending on how it is used.",
+        "All verbs are either always transitive or always intransitive.",
+        "Intransitive verbs cannot be used in the past tense.",
+        "Transitive verbs do not need objects."
+      ],
+      "answer": 0,
+      "explanation": "The same verbs can be transitive or intransitive, depending on how the verb is used.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q029",
+      "question": "In 'Water boils at 100 degrees Celsius,' the verb 'boils' is:",
+      "options": [
+        "intransitive",
+        "transitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "There is no object, so 'boils' is intransitive here.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q030",
+      "question": "In 'Mother boils eggs for breakfast,' the verb 'boils' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'Eggs' is the direct object, so 'boils' is transitive here.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C04-Q031",
+      "question": "What is a verb of incomplete predication?",
+      "options": [
+        "An intransitive verb that needs other words to complete its meaning",
+        "A verb that always has a direct object",
+        "A verb that cannot be used in questions",
+        "A verb that shows strong emotion"
+      ],
+      "answer": 0,
+      "explanation": "Intransitive verbs which need words other than objects to complete their meaning are called intransitive verbs of incomplete predication.",
+      "difficulty": "medium",
+      "topic": "Verbs of Incomplete Predication",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q032",
+      "question": "In 'Sanjay seems angry,' why is 'seems' a verb of incomplete predication?",
+      "options": [
+        "Because it needs 'angry' to complete the meaning",
+        "Because it has a direct object",
+        "Because it is transitive",
+        "Because it is in past tense"
+      ],
+      "answer": 0,
+      "explanation": "'Seems' needs the complement 'angry' to complete the meaning of the sentence.",
+      "difficulty": "medium",
+      "topic": "Verbs of Incomplete Predication",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q033",
+      "question": "What is a subjective complement?",
+      "options": [
+        "A word that completes the meaning of a verb and tells about the subject",
+        "A word that receives the action of the verb",
+        "A word that tells to whom the action is done",
+        "A verb that does not need an object"
+      ],
+      "answer": 0,
+      "explanation": "Subjective complements give information about the subject of a sentence.",
+      "difficulty": "easy",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q034",
+      "question": "In 'King Krishnadeva Raya was wise,' what is 'wise'?",
+      "options": [
+        "Subjective complement",
+        "Direct object",
+        "Indirect object",
+        "Transitive verb"
+      ],
+      "answer": 0,
+      "explanation": "'Wise' tells us about the subject and completes the meaning of 'was', so it is a subjective complement.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q035",
+      "question": "What is an objective complement?",
+      "options": [
+        "A word that gives information about the object of the verb",
+        "A word that gives information about the subject",
+        "A word that receives the action",
+        "A verb that needs no object"
+      ],
+      "answer": 0,
+      "explanation": "Complements that give information about the object of the verb are called objective complements.",
+      "difficulty": "easy",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q036",
+      "question": "In 'The prince appointed him minister,' what is 'minister'?",
+      "options": [
+        "Objective complement",
+        "Subjective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Minister' tells us what the man was appointed as, so it is an objective complement.",
+      "difficulty": "hard",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q037",
+      "question": "In 'Pritha found the extra classes useful,' what is 'useful'?",
+      "options": [
+        "Objective complement",
+        "Subjective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Useful' tells us how Pritha found the classes, so it is an objective complement.",
+      "difficulty": "hard",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q038",
+      "question": "Which statement is true according to the chapter?",
+      "options": [
+        "Transitive verbs too can take complements.",
+        "Only intransitive verbs can take complements.",
+        "Complements are always adverbs.",
+        "Transitive verbs never take complements."
+      ],
+      "answer": 0,
+      "explanation": "The text states that transitive verbs too take complements.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q039",
+      "question": "A complement of a verb can be which of the following?",
+      "options": [
+        "A noun, an adjective, or an adverb",
+        "Only a noun",
+        "Only an adjective",
+        "Only a pronoun"
+      ],
+      "answer": 0,
+      "explanation": "The text says the complement can be a noun, an adjective, or an adverb.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q040",
+      "question": "In 'The little boy became a hero,' what is 'a hero'?",
+      "options": [
+        "Subjective complement",
+        "Objective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'A hero' tells us what the little boy became, so it is a subjective complement.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q041",
+      "question": "In 'He saw three woodcutters,' the verb 'saw' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'Three woodcutters' is the direct object, so 'saw' is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q042",
+      "question": "In 'The surgeon is very skillful,' what is 'skillful'?",
+      "options": [
+        "Subjective complement",
+        "Objective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Skillful' tells us about the subject, so it is a subjective complement.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q043",
+      "question": "In 'I found the conversation disturbing,' what is 'disturbing'?",
+      "options": [
+        "Objective complement",
+        "Subjective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Disturbing' tells us about the object 'conversation', so it is an objective complement.",
+      "difficulty": "hard",
+      "topic": "Complements",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C04-Q044",
+      "question": "In 'They are theatre artists,' what is 'theatre artists'?",
+      "options": [
+        "Subjective complement",
+        "Objective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Theatre artists' tells us what the subject is, so it is a subjective complement.",
+      "difficulty": "medium",
+      "topic": "Complements",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q045",
+      "question": "In 'He cannot reach the jar on the top shelf,' the verb 'reach' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'The jar' is the direct object, so 'reach' is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q046",
+      "question": "In 'I will meet you at the guest house,' the verb 'meet' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'You' is the direct object, so 'meet' is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q047",
+      "question": "In 'The detective found the ruined building empty,' what is 'empty'?",
+      "options": [
+        "Objective complement",
+        "Subjective complement",
+        "Direct object",
+        "Indirect object"
+      ],
+      "answer": 0,
+      "explanation": "'Empty' tells us about the object 'building', so it is an objective complement.",
+      "difficulty": "hard",
+      "topic": "Complements",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q048",
+      "question": "In 'I invited my cousins to my house,' the verb 'invited' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'My cousins' is the direct object, so 'invited' is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q049",
+      "question": "In 'The little boy stood still,' the verb 'stood' is:",
+      "options": [
+        "intransitive",
+        "transitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'Stood' does not take an object, so it is intransitive.",
+      "difficulty": "easy",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C04-Q050",
+      "question": "In 'Officers immediately caught them,' the verb 'caught' is:",
+      "options": [
+        "transitive",
+        "intransitive",
+        "linking",
+        "auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'Them' is the direct object, so 'caught' is transitive.",
+      "difficulty": "medium",
+      "topic": "Transitive and Intransitive Verbs",
+      "source": "Page 4"
+    }
+  ]
+} 
