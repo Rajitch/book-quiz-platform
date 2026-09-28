@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "book": "English Grammar Textbook",
+  "chapter": "Agreement of Subject and Verb",
+  "questions": [
+    {
+      "id": "BOOK-C05-Q001",
+      "question": "What is subject-verb agreement?",
+      "options": [
+        "The verb must agree with the object in number.",
+        "The subject must agree with the object.",
+        "The verb must agree with the subject in person and number.",
+        "The verb must always be singular."
+      ],
+      "answer": 2,
+      "explanation": "For a sentence to be grammatically correct, the main verb should agree with the subject in person and number.",
+      "difficulty": "easy",
+      "topic": "Subject-Verb Agreement Basics",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q002",
+      "question": "When the subject is singular, the verb should be:",
+      "options": [
+        "Plural",
+        "Singular",
+        "Either singular or plural",
+        "Always past tense"
+      ],
+      "answer": 1,
+      "explanation": "When the subject is singular, the verb should be singular.",
+      "difficulty": "easy",
+      "topic": "Subject-Verb Agreement Basics",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q003",
+      "question": "When the subject is plural, the verb is:",
+      "options": [
+        "Singular",
+        "Either singular or plural",
+        "Always future tense",
+        "Plural"
+      ],
+      "answer": 3,
+      "explanation": "When the subject is plural, the verb is also plural.",
+      "difficulty": "easy",
+      "topic": "Subject-Verb Agreement Basics",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q004",
+      "question": "In 'I speak Telugu, but Ajith speaks Kannada,' why do the verbs differ?",
+      "options": [
+        "Because one is past tense",
+        "Because one is a collective noun",
+        "Because the subjects differ in person",
+        "Because Ajith is plural"
+      ],
+      "answer": 2,
+      "explanation": "The verb takes different forms depending on whether the subject pronoun is in first, second, or third person.",
+      "difficulty": "medium",
+      "topic": "Subject-Verb Agreement Basics",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q005",
+      "question": "In 'Valli likes to build robots as a hobby,' why is the verb 'likes' singular?",
+      "options": [
+        "The object robots is plural",
+        "The subject Valli is singular",
+        "The sentence is in past tense",
+        "Likes is always singular"
+      ],
+      "answer": 1,
+      "explanation": "Valli is a singular subject, so it takes the singular verb 'likes'.",
+      "difficulty": "easy",
+      "topic": "Subject-Verb Agreement Basics",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q006",
+      "question": "Two or more subjects joined by 'and' take:",
+      "options": [
+        "A singular verb",
+        "A verb of incomplete predication",
+        "No verb",
+        "A plural verb"
+      ],
+      "answer": 3,
+      "explanation": "Rule 1 states that two or more subjects joined by 'and' take a plural verb.",
+      "difficulty": "easy",
+      "topic": "Subjects joined by 'and'",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q007",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Sunil, Renu, Medha and I is good friends.",
+        "Sunil, Renu, Medha and I are good friends.",
+        "Sunil, Renu, Medha and I am good friends.",
+        "Sunil, Renu, Medha and I was good friends."
+      ],
+      "answer": 1,
+      "explanation": "Multiple subjects joined by 'and' take the plural verb 'are'.",
+      "difficulty": "easy",
+      "topic": "Subjects joined by 'and'",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q008",
+      "question": "Bread, butter and jam ______ common breakfast items.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "The compound subject 'Bread, butter and jam' is plural, so it takes 'are'.",
+      "difficulty": "easy",
+      "topic": "Subjects joined by 'and'",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q009",
+      "question": "Which rule applies to 'Professor Jaya Shekar and Professor Maya Patkar are doing a combined project'?",
+      "options": [
+        "Collective nouns take singular verbs.",
+        "Titles of books take singular verbs.",
+        "Pair of takes a singular verb.",
+        "Two subjects joined by 'and' take a plural verb."
+      ],
+      "answer": 3,
+      "explanation": "The two professors are joined by 'and', so the plural verb 'are' is used.",
+      "difficulty": "medium",
+      "topic": "Subjects joined by 'and'",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q010",
+      "question": "Anusha and her sisters ______ at university.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Two subjects joined by 'and' take a plural verb, so 'are' is correct.",
+      "difficulty": "easy",
+      "topic": "Subjects joined by 'and'",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C05-Q011",
+      "question": "In 'The noise of the chirping crickets was a constant feature,' why is the verb 'was' singular?",
+      "options": [
+        "The subject is 'crickets,' which is plural.",
+        "The verb is always singular.",
+        "The subject is 'noise,' which is singular.",
+        "'Noise' is a collective noun."
+      ],
+      "answer": 2,
+      "explanation": "The subject is 'noise', not 'crickets'. The phrase 'of the chirping crickets' is extra information, so the singular verb 'was' agrees with 'noise'.",
+      "difficulty": "medium",
+      "topic": "Intervening phrases",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q012",
+      "question": "The list of invitees ______ ready.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "The subject is 'list', which is singular; 'of invitees' is an intervening phrase.",
+      "difficulty": "medium",
+      "topic": "Intervening phrases",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C05-Q013",
+      "question": "All his mother's hopes ______ on his shoulders.",
+      "options": [
+        "rests",
+        "is resting",
+        "has rested",
+        "rest"
+      ],
+      "answer": 3,
+      "explanation": "The subject is 'hopes', which is plural, so the plural verb 'rest' is correct.",
+      "difficulty": "medium",
+      "topic": "Intervening phrases",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C05-Q014",
+      "question": "What should you do when the subject and verb are separated by several other words?",
+      "options": [
+        "Identify the actual subject and make the verb agree with it.",
+        "Make the verb agree with the nearest noun.",
+        "Always use a plural verb.",
+        "Always use a singular verb."
+      ],
+      "answer": 0,
+      "explanation": "Rule 2 states that in such cases, you should identify the subject and verb correctly.",
+      "difficulty": "easy",
+      "topic": "Intervening phrases",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q015",
+      "question": "A collective noun thought of as a single unit takes:",
+      "options": [
+        "A plural verb",
+        "Either singular or plural",
+        "A singular verb",
+        "No verb"
+      ],
+      "answer": 2,
+      "explanation": "Rule 3 states that collective nouns thought of as a single unit take a singular verb.",
+      "difficulty": "easy",
+      "topic": "Collective nouns",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q016",
+      "question": "A team of expert lawyers ______ investigating the case.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "'A team' is a collective noun thought of as a single unit, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Collective nouns",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q017",
+      "question": "The committee ______ agreed to meet next Wednesday.",
+      "options": [
+        "have",
+        "are",
+        "were",
+        "has"
+      ],
+      "answer": 3,
+      "explanation": "'The committee' is a collective noun acting as a single unit, so it takes 'has'.",
+      "difficulty": "medium",
+      "topic": "Collective nouns",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q018",
+      "question": "When members of a collective noun are thought of as individual units, the verb is:",
+      "options": [
+        "Plural",
+        "Singular",
+        "Always past tense",
+        "Always future tense"
+      ],
+      "answer": 0,
+      "explanation": "Rule 4 states that when members of a collective noun are thought of as individual units, it takes a plural verb.",
+      "difficulty": "easy",
+      "topic": "Collective nouns",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q019",
+      "question": "The jury ______ divided in their opinion about the guilty verdict.",
+      "options": [
+        "was",
+        "is",
+        "were",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "The members of the jury are thought of as individual persons, so the plural verb 'were' is used.",
+      "difficulty": "hard",
+      "topic": "Collective nouns",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q020",
+      "question": "Subjects with 'pair of' take:",
+      "options": [
+        "A plural verb",
+        "A singular verb",
+        "Either singular or plural",
+        "No verb"
+      ],
+      "answer": 1,
+      "explanation": "Rule 5 states that subjects with the phrase 'pair of' take a singular verb because 'pair' refers to one thing.",
+      "difficulty": "easy",
+      "topic": "Pair of",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q021",
+      "question": "A pair of jeans ______ all that he bought from the shop.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "'A pair of jeans' is treated as a single unit, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Pair of",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q022",
+      "question": "A pair of scissors ______ needed to cut the ribbon.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "'A pair of scissors' is treated as a single unit, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Pair of",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C05-Q023",
+      "question": "Where ______ my new pair of spectacles?",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "'A pair of spectacles' is singular in this context, so 'is' is correct.",
+      "difficulty": "medium",
+      "topic": "Pair of",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C05-Q024",
+      "question": "Two singular nouns joined by 'or' take:",
+      "options": [
+        "A plural verb",
+        "Either singular or plural",
+        "No verb",
+        "A singular verb"
+      ],
+      "answer": 3,
+      "explanation": "Rule 6 states that two singular nouns joined by 'or' take a singular verb.",
+      "difficulty": "easy",
+      "topic": "Or / Either...or / Neither...nor",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q025",
+      "question": "Mary or John ______ going to escort the chief guest.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "Two singular nouns joined by 'or' take a singular verb, so 'is' is correct.",
+      "difficulty": "medium",
+      "topic": "Or / Either...or / Neither...nor",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q026",
+      "question": "Neither Janani nor Jatin ______ ready with the presentation.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "Two singular nouns joined by 'neither...nor' take a singular verb.",
+      "difficulty": "medium",
+      "topic": "Or / Either...or / Neither...nor",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q027",
+      "question": "When two or more nouns are joined by correlative conjunctions, the verb agrees with:",
+      "options": [
+        "The first noun",
+        "The subject as a whole",
+        "The noun or pronoun closest to it",
+        "The object"
+      ],
+      "answer": 2,
+      "explanation": "Rule 7 states that the verb agrees with the noun or pronoun placed closest to it.",
+      "difficulty": "medium",
+      "topic": "Correlative conjunctions",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q028",
+      "question": "Either my friends or my brother ______ going to book the tickets.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "The verb agrees with the nearest noun 'brother', which is singular, so 'is' is correct.",
+      "difficulty": "hard",
+      "topic": "Correlative conjunctions",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q029",
+      "question": "Either my brother or my friends ______ coming to pick me up from the station.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "The verb agrees with the nearest noun 'friends', which is plural, so 'are' is correct.",
+      "difficulty": "hard",
+      "topic": "Correlative conjunctions",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q030",
+      "question": "Neither the director nor the actor ______ patient or reasonable.",
+      "options": [
+        "was",
+        "were",
+        "have",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "Two singular nouns joined by 'neither...nor' take a singular verb, so 'was' is correct.",
+      "difficulty": "medium",
+      "topic": "Or / Either...or / Neither...nor",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C05-Q031",
+      "question": "Either Dhoni or Kohli ______ going to captain the team tomorrow.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "Two singular nouns joined by 'either...or' take a singular verb.",
+      "difficulty": "easy",
+      "topic": "Or / Either...or / Neither...nor",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C05-Q032",
+      "question": "Neither my brother nor my parents ______ about my grade card.",
+      "options": [
+        "knows",
+        "has known",
+        "is knowing",
+        "know"
+      ],
+      "answer": 3,
+      "explanation": "The verb agrees with the nearest noun 'parents', which is plural, so 'know' is correct.",
+      "difficulty": "hard",
+      "topic": "Correlative conjunctions",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C05-Q033",
+      "question": "Indefinite pronouns such as 'everything' and 'nothing' usually take:",
+      "options": [
+        "A plural verb",
+        "A singular verb",
+        "Either singular or plural",
+        "No verb"
+      ],
+      "answer": 1,
+      "explanation": "Rule 8 states that indefinite pronouns such as much, many, anything, nothing, everything, something, either and neither usually take a singular verb.",
+      "difficulty": "easy",
+      "topic": "Indefinite pronouns",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q034",
+      "question": "Neither of the two houses ______ a balcony.",
+      "options": [
+        "has",
+        "have",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "'Neither' is an indefinite pronoun that takes a singular verb, so 'has' is correct.",
+      "difficulty": "medium",
+      "topic": "Indefinite pronouns",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q035",
+      "question": "Everything ______ very expensive these days.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "'Everything' is an indefinite pronoun that takes a singular verb.",
+      "difficulty": "easy",
+      "topic": "Indefinite pronouns",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q036",
+      "question": "Much money ______ been spent on renovating the house.",
+      "options": [
+        "have",
+        "were",
+        "are",
+        "has"
+      ],
+      "answer": 3,
+      "explanation": "'Much' is an indefinite pronoun that takes a singular verb, so 'has' is correct.",
+      "difficulty": "medium",
+      "topic": "Indefinite pronouns",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q037",
+      "question": "Nothing ______ worth losing sleep over.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "'Nothing' is an indefinite pronoun that takes a singular verb.",
+      "difficulty": "easy",
+      "topic": "Indefinite pronouns",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C05-Q038",
+      "question": "Singular subjects followed by 'as well as,' 'along with,' and 'besides' take:",
+      "options": [
+        "A singular verb",
+        "A plural verb",
+        "Either singular or plural",
+        "No verb"
+      ],
+      "answer": 0,
+      "explanation": "Rule 9 states that singular subjects followed by these words take a singular verb.",
+      "difficulty": "medium",
+      "topic": "As well as / Along with / Besides",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q039",
+      "question": "The teacher, along with her students, ______ down to watch a film.",
+      "options": [
+        "sit",
+        "were sitting",
+        "sits",
+        "have sat"
+      ],
+      "answer": 2,
+      "explanation": "The subject is 'teacher' (singular), and 'along with her students' does not change the agreement, so 'sits' is correct.",
+      "difficulty": "medium",
+      "topic": "As well as / Along with / Besides",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q040",
+      "question": "A good book as well as the company of friends ______ her happy.",
+      "options": [
+        "make",
+        "were making",
+        "have made",
+        "makes"
+      ],
+      "answer": 3,
+      "explanation": "The subject is 'book' (singular), so the singular verb 'makes' is correct.",
+      "difficulty": "medium",
+      "topic": "As well as / Along with / Besides",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q041",
+      "question": "The dolphins, along with the orca, ______ together in the ocean.",
+      "options": [
+        "is swimming",
+        "are swimming",
+        "swims",
+        "was swimming"
+      ],
+      "answer": 1,
+      "explanation": "The subject is 'dolphins' (plural), so the plural verb 'are swimming' is correct.",
+      "difficulty": "medium",
+      "topic": "As well as / Along with / Besides",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q042",
+      "question": "Distances, periods of time and sums of money, when considered as a single unit, take:",
+      "options": [
+        "A singular verb",
+        "A plural verb",
+        "Either singular or plural",
+        "No verb"
+      ],
+      "answer": 0,
+      "explanation": "Rule 10 states that distances, periods of time, and sums of money considered as a single unit take a singular verb.",
+      "difficulty": "easy",
+      "topic": "Distances, time, money",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q043",
+      "question": "Ten miles ______ a long distance to walk.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "'Ten miles' is considered a single unit, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Distances, time, money",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q044",
+      "question": "Five years ______ a long time to not meet your friends.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "'Five years' is considered a single period of time, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Distances, time, money",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q045",
+      "question": "Ten thousand dollars ______ the prize money offered in the game show.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "'Ten thousand dollars' is a sum of money considered as a single unit, so it takes 'is'.",
+      "difficulty": "medium",
+      "topic": "Distances, time, money",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q046",
+      "question": "Words like 'all,' 'none,' 'some,' and 'most' take a singular verb when:",
+      "options": [
+        "The subject is plural",
+        "The sentence is negative",
+        "The subject is singular",
+        "The verb is in past tense"
+      ],
+      "answer": 2,
+      "explanation": "Rule 11 states that these words take a singular verb when the subject is singular and a plural verb when the subject is plural.",
+      "difficulty": "medium",
+      "topic": "Quantity words",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q047",
+      "question": "Most of the pie ______ already been eaten.",
+      "options": [
+        "has",
+        "have",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "The subject 'pie' is singular, so 'most of the pie' takes the singular verb 'has'.",
+      "difficulty": "medium",
+      "topic": "Quantity words",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C05-Q048",
+      "question": "Some of the jury members ______ in a meeting right now.",
+      "options": [
+        "is",
+        "was",
+        "has",
+        "are"
+      ],
+      "answer": 3,
+      "explanation": "The subject 'jury members' is plural, so 'some of the jury members' takes the plural verb 'are'.",
+      "difficulty": "medium",
+      "topic": "Quantity words",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C05-Q049",
+      "question": "Titles of books always take:",
+      "options": [
+        "A plural verb",
+        "A singular verb",
+        "Either singular or plural",
+        "No verb"
+      ],
+      "answer": 1,
+      "explanation": "Rule 12 states that titles of books always take a singular verb even if the name has plural nouns.",
+      "difficulty": "easy",
+      "topic": "Titles of books",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C05-Q050",
+      "question": "American Gods ______ a book by Neil Gaiman that has been adapted for television.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "The title of the book 'American Gods' is singular, so it takes the singular verb 'is'.",
+      "difficulty": "medium",
+      "topic": "Titles of books",
+      "source": "Page 4"
+    }
+  ]
+}
