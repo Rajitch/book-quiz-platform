@@ -66,6 +66,13 @@
           "title": "Primary and Modal Auxiliaries",
           "description": "Agreement of Subject and Verb Questions generated.",
           "file": "data/English/chapter-prim_mod_aux-03.json"
+        },
+		{
+          "id": "english-gmmr-ch04",
+          "number": 4,
+          "title": "Expressing the Present",
+          "description": "Expressing the Present Questions generated.",
+          "file": "data/English/chapter-exp_pres-04.json"
         }
       ]
     }
