@@ -80,6 +80,13 @@
           "title": "Expressing the Past",
           "description": "Expressing the Past Questions generated.",
           "file": "data/English/chapter-exp_past-05.json"
+        },
+		{
+          "id": "english-gmmr-ch06",
+          "number": 5,
+          "title": "Expressing the Future",
+          "description": "Expressing the Future Questions generated.",
+          "file": "data/English/chapter-exp_fut-06.json"
         }
       ]
     }
