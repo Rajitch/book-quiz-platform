@@ -52,6 +52,13 @@
           "title": "Transitive_Intransitive",
           "description": "Transitive_Intransitive Questions generated.",
           "file": "data/English/chapter-tran_intran-01.json"
+        },
+		{
+          "id": "english-gmmr-ch02",
+          "number": 2,
+          "title": "Agreement of Subject and Verb",
+          "description": "Agreement of Subject and Verb Questions generated.",
+          "file": "data/English/chapter-agr_sub_verb-02.json.json"
         }
       ]
     }
