@@ -1,0 +1,1507 @@
+{
+  "version": 1,
+  "book": "English Grammar Textbook",
+  "chapter": "Expressing the Past",
+  "questions": [
+    {
+      "id": "BOOK-C08-Q001",
+      "question": "How many forms does the past tense take?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "The past tense takes four forms: the simple past, past continuous, past perfect and past perfect continuous.",
+      "difficulty": "easy",
+      "topic": "Past Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q002",
+      "question": "Which of the following is NOT a form of the past tense?",
+      "options": [
+        "Simple past",
+        "Past continuous",
+        "Past perfect",
+        "Past future"
+      ],
+      "answer": 3,
+      "explanation": "The four past tense forms are simple past, past continuous, past perfect and past perfect continuous. 'Past future' is not a form.",
+      "difficulty": "easy",
+      "topic": "Past Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q003",
+      "question": "The various forms of the past tense are used to talk about:",
+      "options": [
+        "Past actions",
+        "Present actions",
+        "Future actions",
+        "Habitual actions only"
+      ],
+      "answer": 0,
+      "explanation": "We use the various forms of the past tense to talk about past actions.",
+      "difficulty": "easy",
+      "topic": "Past Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q004",
+      "question": "The simple past tense is used to express an action that has already been completed and usually has:",
+      "options": [
+        "A time reference",
+        "A modal verb",
+        "An indirect object",
+        "A subjective complement"
+      ],
+      "answer": 0,
+      "explanation": "The simple past tense is used to express an action that has already been completed and usually has a time reference.",
+      "difficulty": "easy",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q005",
+      "question": "In 'The producers released the film last week,' the simple past is used for:",
+      "options": [
+        "A past habit",
+        "An action completed with a time reference",
+        "An action going on over a period of time",
+        "An action before another past action"
+      ],
+      "answer": 1,
+      "explanation": "This sentence expresses an action that has already been completed and has a time reference ('last week').",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q006",
+      "question": "In 'We listened to the children's programme on All India Radio on Sundays,' the simple past is used for:",
+      "options": [
+        "A request",
+        "A completed action",
+        "A past habit",
+        "An action before another past action"
+      ],
+      "answer": 2,
+      "explanation": "The simple past is used to talk about past habits. The phrase 'on Sundays' indicates a repeated past action.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q007",
+      "question": "What is the form of the simple past tense in an affirmative sentence?",
+      "options": [
+        "Past form of the verb",
+        "Did not + base form of the verb",
+        "Was/were + -ing form of the verb",
+        "Had + past participle form of the verb"
+      ],
+      "answer": 0,
+      "explanation": "In an affirmative sentence, the simple past takes the past form of the verb.",
+      "difficulty": "easy",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q008",
+      "question": "What is the form of the simple past tense in a negative sentence?",
+      "options": [
+        "Past form of the verb + not",
+        "Did not + base form of the verb",
+        "Was/were + not + -ing form of the verb",
+        "Had + not + past participle form of the verb"
+      ],
+      "answer": 1,
+      "explanation": "In a negative sentence, the simple past takes 'did not' + base form of the verb.",
+      "difficulty": "easy",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q009",
+      "question": "What is the form of the simple past tense in an interrogative sentence?",
+      "options": [
+        "Was/were + subject + past participle",
+        "Had + subject + past participle",
+        "Did + subject + base form of the verb",
+        "Was/were + subject + -ing form of the verb"
+      ],
+      "answer": 2,
+      "explanation": "In an interrogative sentence, the simple past takes 'did' + subject + base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q010",
+      "question": "Fill in: It ______ (be) a wonder of nature.",
+      "options": [
+        "is",
+        "were",
+        "had been",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "The simple past 'was' is used to describe a past state.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q011",
+      "question": "Fill in: Three leopards in an African forest ______ (play) with a young fawn.",
+      "options": [
+        "played",
+        "were playing",
+        "had played",
+        "had been playing"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'played' is used to describe a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q012",
+      "question": "Fill in: But they ______ (do) not harm him.",
+      "options": [
+        "does",
+        "did",
+        "do",
+        "had"
+      ],
+      "answer": 1,
+      "explanation": "The negative simple past is formed with 'did not' + base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q013",
+      "question": "Fill in: The fawn ______ (walk) around the predators on unsteady legs.",
+      "options": [
+        "walks",
+        "was walking",
+        "walked",
+        "had walked"
+      ],
+      "answer": 2,
+      "explanation": "The simple past 'walked' is used to describe a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q014",
+      "question": "Fill in using simple past: While they ______ (lick) the little thing.",
+      "options": [
+        "lick",
+        "licked",
+        "were licking",
+        "had licked"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'licked' is used for a completed action in the past narrative, as specified by the instruction.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q015",
+      "question": "Fill in: After a while, they ______ (turn) it go.",
+      "options": [
+        "turned",
+        "were turning",
+        "had turned",
+        "had been turning"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'turned' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q016",
+      "question": "Fill in: Was it one of those incredible stories of predators who ______ (capture) the incredible incident?",
+      "options": [
+        "capture",
+        "captured",
+        "had captured",
+        "were capturing"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'captured' is used to describe a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q017",
+      "question": "Fill in: The wildlife photographer who ______ (disagree).",
+      "options": [
+        "disagree",
+        "was disagreeing",
+        "disagreed",
+        "had disagreed"
+      ],
+      "answer": 2,
+      "explanation": "The simple past 'disagreed' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q018",
+      "question": "Fill in: The photos soon ______ (make) their way into social media.",
+      "options": [
+        "make",
+        "were making",
+        "had made",
+        "made"
+      ],
+      "answer": 3,
+      "explanation": "The simple past 'made' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q019",
+      "question": "Fill in: The newspaper headlines ______ (declare).",
+      "options": [
+        "declared",
+        "declare",
+        "were declaring",
+        "had declared"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'declared' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q020",
+      "question": "Fill in: Rupa ______ (finish) her MA in 2015.",
+      "options": [
+        "finishes",
+        "finished",
+        "has finished",
+        "had finished"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'finished' is used with a specific past time reference ('in 2015').",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q021",
+      "question": "Fill in: She ______ (join) the University of Reading for her PhD.",
+      "options": [
+        "joins",
+        "has joined",
+        "joined",
+        "had joined"
+      ],
+      "answer": 2,
+      "explanation": "The simple past 'joined' is used to describe a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q022",
+      "question": "Fill in: She ______ (never go) to the United Kingdom.",
+      "options": [
+        "never went",
+        "never goes",
+        "has never gone",
+        "had never gone"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'never went' is used for a past action with a negative frequency adverb.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q023",
+      "question": "Fill in: But she ______ (live) in the USA for a year as an exchange student.",
+      "options": [
+        "lived",
+        "lives",
+        "has lived",
+        "had lived"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'lived' is used to talk about an action that took place over a period of time in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q024",
+      "question": "Fill in: Oh no! I ______ (lose) my phone!",
+      "options": [
+        "lose",
+        "lost",
+        "have lost",
+        "had lost"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'lost' is used for an action completed in the recent past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q025",
+      "question": "Fill in: Jonas ______ (read) seven books last week.",
+      "options": [
+        "reads",
+        "was reading",
+        "read",
+        "had read"
+      ],
+      "answer": 2,
+      "explanation": "The simple past 'read' is used with a specific past time reference ('last week').",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q026",
+      "question": "Fill in: Thomas ______ (visit) Australia when he was young.",
+      "options": [
+        "visits",
+        "was visiting",
+        "had visited",
+        "visited"
+      ],
+      "answer": 3,
+      "explanation": "The simple past 'visited' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q027",
+      "question": "Fill in: The ship's crew ______ (launch) the lifeboats as soon as they noticed the fault.",
+      "options": [
+        "launched",
+        "launch",
+        "were launching",
+        "had launched"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'launched' is used for a completed action in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q028",
+      "question": "Fill in: Sana and Rosa ______ (live) in eight countries.",
+      "options": [
+        "live",
+        "lived",
+        "are living",
+        "had lived"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'lived' is used to talk about an action that took place over a period of time in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q029",
+      "question": "Fill in: Ouch! I just ______ (cut) my hand using the can opener.",
+      "options": [
+        "cut",
+        "cuts",
+        "am cutting",
+        "had cut"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'cut' is used for an action completed in the recent past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q030",
+      "question": "In 'I wanted to ask you for help,' the simple past is used to:",
+      "options": [
+        "Talk about a past habit",
+        "Make a request",
+        "Describe a past action over time",
+        "Show an action before another past action"
+      ],
+      "answer": 1,
+      "explanation": "The simple past is used to make requests. 'I wanted to ask you for help' is a polite request.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C08-Q031",
+      "question": "What does 'used to' describe?",
+      "options": [
+        "Actions which happened often in the past but no longer occur in the present",
+        "Actions happening now",
+        "Actions that will happen in the future",
+        "Actions completed before another past action"
+      ],
+      "answer": 0,
+      "explanation": "We use 'used to' for describing actions which happened often in the past but no longer occur in the present.",
+      "difficulty": "easy",
+      "topic": "Used To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q032",
+      "question": "In 'Sheeba used to have long hair when she was young,' 'used to' indicates:",
+      "options": [
+        "A future action",
+        "A past habit that no longer occurs",
+        "An action happening now",
+        "An action before another past action"
+      ],
+      "answer": 1,
+      "explanation": "'Used to' describes an action which happened often in the past but no longer occurs.",
+      "difficulty": "medium",
+      "topic": "Used To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q033",
+      "question": "Rewrite with 'used to': Grandma walked four kilometres every day to go to school.",
+      "options": [
+        "Grandma used to walking four kilometres",
+        "Grandma is used to walk four kilometres",
+        "Grandma used to walk four kilometres",
+        "Grandma was used to walk four kilometres"
+      ],
+      "answer": 2,
+      "explanation": "'Used to' is followed by the base form of the verb: 'Grandma used to walk four kilometres.'",
+      "difficulty": "medium",
+      "topic": "Used To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q034",
+      "question": "Which sentence correctly uses 'used to'?",
+      "options": [
+        "She used to playing badminton in college.",
+        "She used to plays badminton in college.",
+        "She used to played badminton in college.",
+        "She used to play badminton in college."
+      ],
+      "answer": 3,
+      "explanation": "'Used to' is always followed by the base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Used To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q035",
+      "question": "In 'My mother used to play badminton in college,' the sentence describes:",
+      "options": [
+        "A past habit no longer occurring",
+        "An action happening now",
+        "A future plan",
+        "An action before another past action"
+      ],
+      "answer": 0,
+      "explanation": "'Used to' describes actions which happened often in the past but no longer occur in the present.",
+      "difficulty": "medium",
+      "topic": "Used To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q036",
+      "question": "What is the difference between the simple past and the present perfect?",
+      "options": [
+        "There is no difference",
+        "Simple past describes a completed action; present perfect describes an action whose effects remain",
+        "Simple past is for future actions; present perfect is for past actions",
+        "Simple past uses 'had'; present perfect uses 'did'"
+      ],
+      "answer": 1,
+      "explanation": "The simple past describes a completed action while the present perfect describes an action completed in the past whose effects can still be felt in the present.",
+      "difficulty": "medium",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q037",
+      "question": "The teacher scolded the students. This sentence is in the:",
+      "options": [
+        "Present perfect tense",
+        "Past continuous tense",
+        "Simple past tense",
+        "Past perfect tense"
+      ],
+      "answer": 2,
+      "explanation": "The verb 'scolded' is in the simple past tense, and the action is complete.",
+      "difficulty": "easy",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q038",
+      "question": "The principal has asked the students to wear blazers in winter. This sentence is in the:",
+      "options": [
+        "Simple past tense",
+        "Past continuous tense",
+        "Past perfect tense",
+        "Present perfect tense"
+      ],
+      "answer": 3,
+      "explanation": "The verb 'has asked' is in the present perfect tense; the action was done in the past but its effects remain.",
+      "difficulty": "easy",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q039",
+      "question": "Which of the following is a common expression of time used with the simple past tense?",
+      "options": [
+        "Yesterday",
+        "Already",
+        "Just",
+        "Yet"
+      ],
+      "answer": 0,
+      "explanation": "Common expressions of time used with the simple past include yesterday, the week before, last month, in 2006.",
+      "difficulty": "easy",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q040",
+      "question": "Which of the following is a common expression of time used with the present perfect tense?",
+      "options": [
+        "Yesterday",
+        "Already",
+        "Last month",
+        "In 2006"
+      ],
+      "answer": 1,
+      "explanation": "Common expressions of time used with the present perfect include already, just, yet, before, after, still, for, since.",
+      "difficulty": "easy",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q041",
+      "question": "Why is 'I have gone to Taiwan in 2011' incorrect?",
+      "options": [
+        "Because 'gone' is not a past participle",
+        "Because 'Taiwan' should be spelled differently",
+        "Because we do not use expressions indicating past time with the present perfect tense",
+        "Because 'have' should be 'has'"
+      ],
+      "answer": 2,
+      "explanation": "We do not use expressions indicating past time with the present perfect tense. 'In 2011' is a past time expression, so the simple past should be used.",
+      "difficulty": "hard",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q042",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I have gone to Taiwan in 2011.",
+        "I have gone to Taiwan yesterday.",
+        "I went to Taiwan in 2011.",
+        "I have went to Taiwan in 2011."
+      ],
+      "answer": 2,
+      "explanation": "With a specific past time expression like 'in 2011', the simple past 'went' is correct.",
+      "difficulty": "hard",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q043",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I have gone to Taiwan.",
+        "I have went to Taiwan.",
+        "I went to Taiwan since 2011.",
+        "I have go to Taiwan."
+      ],
+      "answer": 0,
+      "explanation": "'I have gone to Taiwan' is correct as it uses the present perfect without a past time expression.",
+      "difficulty": "medium",
+      "topic": "Simple Past vs Present Perfect",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C08-Q044",
+      "question": "The past continuous tense is used to talk about:",
+      "options": [
+        "Actions completed before another past action",
+        "Actions that went on for some time in the past",
+        "Actions that will happen in the future",
+        "Habitual actions in the present"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous tense is used to talk about actions that went on for some time in the past.",
+      "difficulty": "easy",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q045",
+      "question": "What is the form of the past continuous tense?",
+      "options": [
+        "Did + base form of the verb",
+        "Had + past participle form of the verb",
+        "Was/were + -ing form of the verb",
+        "Had been + -ing form of the verb"
+      ],
+      "answer": 2,
+      "explanation": "The past continuous tense takes the form was/were + -ing form of the verb.",
+      "difficulty": "easy",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q046",
+      "question": "What is the negative form of the past continuous tense?",
+      "options": [
+        "Did not + base form of the verb",
+        "Had not + past participle",
+        "Had not been + -ing form",
+        "Was/were + not + -ing form of the verb"
+      ],
+      "answer": 3,
+      "explanation": "The negative form of the past continuous is was/were + not + -ing form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q047",
+      "question": "What is the interrogative form of the past continuous tense?",
+      "options": [
+        "Was/were + subject + -ing form of the verb",
+        "Did + subject + base form of the verb",
+        "Had + subject + past participle",
+        "Had + subject + been + -ing form"
+      ],
+      "answer": 0,
+      "explanation": "The interrogative form of the past continuous is was/were + subject + -ing form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q048",
+      "question": "In 'It was raining heavily,' the past continuous is used for:",
+      "options": [
+        "An action before another past action",
+        "An action that started and continued for some time in the past",
+        "A past habit",
+        "A completed action with time reference"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous is used to talk about an action that started and continued for some time in the past.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q049",
+      "question": "In 'I was ironing my uniform when the doorbell rang,' the past continuous 'was ironing' describes:",
+      "options": [
+        "The later action",
+        "A completed action",
+        "The earlier action when two past actions are described",
+        "A future action"
+      ],
+      "answer": 2,
+      "explanation": "The past continuous is used to talk about the earlier action when two past actions are described.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q050",
+      "question": "Fill in: When I ______ (reach) home, everyone ______ (sleep).",
+      "options": [
+        "reached, was sleeping",
+        "was reaching, slept",
+        "reached, slept",
+        "reached, were sleeping"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'reached' is used for the action, and the past continuous 'was sleeping' describes the ongoing action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q051",
+      "question": "Fill in: While travelling to Delhi by train, we ______ (make) lots of new friends.",
+      "options": [
+        "made",
+        "were making",
+        "had made",
+        "had been making"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'made' is used for a completed action during a past journey.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q052",
+      "question": "Fill in: Although it ______ (snow), the plane ______ (take off).",
+      "options": [
+        "snowed, was taking off",
+        "was snowing, took off",
+        "was snowing, was taking off",
+        "snowed, took off"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was snowing' describes the ongoing weather condition, and the simple past 'took off' describes the completed action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q053",
+      "question": "Fill in: Katrina ______ (cycle) when she ______ (have) an accident.",
+      "options": [
+        "cycled, was having",
+        "was cycling, had",
+        "cycled, had",
+        "was cycling, was having"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was cycling' describes the earlier ongoing action, and the simple past 'had' describes the action that interrupted it.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q054",
+      "question": "Fill in: The grandchildren ______ (wrap) birthday gifts when their grandfather ______ (walk) into the room.",
+      "options": [
+        "wrapped, was walking",
+        "were wrapping, walked",
+        "wrapped, walked",
+        "were wrapping, was walking"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'were wrapping' describes the ongoing action, and the simple past 'walked' describes the interrupting action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q055",
+      "question": "Fill in: I ______ (walk) home yesterday evening when the lights ______ (go) off.",
+      "options": [
+        "was walking, went",
+        "walked, were going",
+        "walked, went",
+        "was walking, were going"
+      ],
+      "answer": 0,
+      "explanation": "The past continuous 'was walking' describes the ongoing action, and the simple past 'went' describes the interrupting action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q056",
+      "question": "Fill in: Sindhu ______ (sit) in a café when you ______ (call).",
+      "options": [
+        "sat, were calling",
+        "was sitting, called",
+        "sat, called",
+        "was sitting, were calling"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was sitting' describes the ongoing action, and the simple past 'called' describes the interrupting action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q057",
+      "question": "Fill in: Who ______ (wait) for Vinod when he ______ (arrive) at the dentist's clinic?",
+      "options": [
+        "waited, was arriving",
+        "was waiting, arrived",
+        "waited, arrived",
+        "was waiting, was arriving"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was waiting' describes the ongoing action, and the simple past 'arrived' describes the action that occurred.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q058",
+      "question": "Which sentence correctly uses the past continuous?",
+      "options": [
+        "She was danced when I saw her.",
+        "She was dance when I saw her.",
+        "She danced when I was seeing her.",
+        "She was dancing when I saw her."
+      ],
+      "answer": 3,
+      "explanation": "The past continuous 'was dancing' is used for an ongoing action, and the simple past 'saw' describes the interrupting action.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q059",
+      "question": "Which sentence correctly uses the past continuous to describe an action that continued for some time in the past?",
+      "options": [
+        "They discussed the plans all through the day.",
+        "They have discussed the plans all through the day.",
+        "They had discussed the plans all through the day.",
+        "They were discussing the plans all through the day."
+      ],
+      "answer": 3,
+      "explanation": "The past continuous 'were discussing' describes an action that continued for some time in the past.",
+      "difficulty": "medium",
+      "topic": "Past Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C08-Q060",
+      "question": "The past perfect tense is used to talk about:",
+      "options": [
+        "An action happening now",
+        "A past action completed before another past action began",
+        "An action that will happen in the future",
+        "A habitual action in the present"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect tense is used to talk about a past action that was completed before another past action began.",
+      "difficulty": "easy",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q061",
+      "question": "What is the form of the past perfect tense?",
+      "options": [
+        "Did + base form of the verb",
+        "Was/were + -ing form of the verb",
+        "Had + past participle form of the verb",
+        "Had been + -ing form of the verb"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect tense takes the form had + past participle form of the verb.",
+      "difficulty": "easy",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q062",
+      "question": "What is the negative form of the past perfect tense?",
+      "options": [
+        "Did not + base form of the verb",
+        "Was/were + not + -ing form",
+        "Had not been + -ing form",
+        "Had + not + past participle form of the verb"
+      ],
+      "answer": 3,
+      "explanation": "The negative form of the past perfect is had + not + past participle form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q063",
+      "question": "What is the interrogative form of the past perfect tense?",
+      "options": [
+        "Had + subject + past participle form of the verb",
+        "Did + subject + base form of the verb",
+        "Was/were + subject + -ing form",
+        "Had + subject + been + -ing form"
+      ],
+      "answer": 0,
+      "explanation": "The interrogative form of the past perfect is had + subject + past participle form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q064",
+      "question": "In 'She had just got the ingredients for dinner together when the oven broke down,' the past perfect 'had got' describes:",
+      "options": [
+        "The later action",
+        "An action completed before another past action began",
+        "An ongoing action",
+        "A past habit"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect describes an action which was completed in the past before another action began.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q065",
+      "question": "In 'Megha said that they had bought a new car,' the past perfect is used to:",
+      "options": [
+        "Describe a past habit",
+        "Show an ongoing action",
+        "Describe a past action in reported speech",
+        "Make a request"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect is used to describe a past action in reported speech.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q066",
+      "question": "With which verbs do we use the past perfect to talk about a past hope or intention that has not been realized?",
+      "options": [
+        "Go, come, run",
+        "Hope, expect, think",
+        "Eat, sleep, play",
+        "Sing, dance, write"
+      ],
+      "answer": 1,
+      "explanation": "With verbs such as hope, expect and think, the past perfect is used to talk about a past hope, desire or intention that has not been realized in the present.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q067",
+      "question": "In 'I had expected India to win the match, but we lost,' the past perfect is used to show:",
+      "options": [
+        "A past hope that was not realized",
+        "A completed action before another",
+        "A reported speech",
+        "An ongoing past action"
+      ],
+      "answer": 0,
+      "explanation": "The past perfect 'had expected' shows a past hope or intention that has not been realized.",
+      "difficulty": "medium",
+      "topic": "Past Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C08-Q068",
+      "question": "Fill in: I'm sure I ______ (turn) the gas off before I ______ (go) to the gym.",
+      "options": [
+        "turned, went",
+        "had turned, went",
+        "had turned, had gone",
+        "turned, had gone"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect 'had turned' describes the earlier action, and the simple past 'went' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q069",
+      "question": "Fill in: She ______ (think) of inviting many people to the party initially, but she ______ (change) her mind later.",
+      "options": [
+        "thought, changed",
+        "had thought, changed",
+        "had thought, had changed",
+        "thought, had changed"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect 'had thought' describes the earlier action, and the simple past 'changed' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q070",
+      "question": "Fill in: Geeta ______ (live) in Delhi all her life until she ______ (move) to Kolkata.",
+      "options": [
+        "lived, moved",
+        "had lived, moved",
+        "had lived, had moved",
+        "lived, had moved"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect 'had lived' describes the earlier action, and the simple past 'moved' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q071",
+      "question": "Fill in: Dhanush told us that he ______ (already sell) his house.",
+      "options": [
+        "had already sold",
+        "already sold",
+        "has already sold",
+        "was already selling"
+      ],
+      "answer": 0,
+      "explanation": "The past perfect 'had already sold' is used in reported speech to describe an action completed before another past action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q072",
+      "question": "Fill in: I ______ (already wait) for the taxi for an hour before I ______ (realise) that it wasn't coming.",
+      "options": [
+        "waited, realised",
+        "had already been waiting, realised",
+        "had already waited, had realised",
+        "was already waiting, realised"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect continuous 'had already been waiting' describes the earlier ongoing action, and the simple past 'realised' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q073",
+      "question": "Fill in: The students ______ (complete) several chapters by the time the teachers ______ (inform) them that the exam had been cancelled.",
+      "options": [
+        "completed, informed",
+        "had completed, informed",
+        "had completed, had informed",
+        "completed, had informed"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect 'had completed' describes the earlier action, and the simple past 'informed' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q074",
+      "question": "Fill in: James ______ (exclaim) that he ______ (forget) to bring the birthday gift.",
+      "options": [
+        "exclaimed, forgot",
+        "had exclaimed, forgot",
+        "exclaimed, had forgotten",
+        "had exclaimed, had forgotten"
+      ],
+      "answer": 2,
+      "explanation": "The simple past 'exclaimed' is used for the main action, and the past perfect 'had forgotten' is used in reported speech.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q075",
+      "question": "Fill in: Suneet ______ (finish) his assignments, so he ______ (come) to watch a film with us.",
+      "options": [
+        "had finished, came",
+        "finished, came",
+        "finished, had come",
+        "had finished, had come"
+      ],
+      "answer": 0,
+      "explanation": "The past perfect 'had finished' describes the earlier action, and the simple past 'came' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q076",
+      "question": "The past perfect continuous tense is used to talk about:",
+      "options": [
+        "An action completed before another past action",
+        "An action that took place in the past and continued for a period of time before it was completed",
+        "An action happening now",
+        "A habitual action in the past"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect continuous tense is used to talk about an action that took place in the past and continued for a period of time before it was completed.",
+      "difficulty": "easy",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q077",
+      "question": "What is the form of the past perfect continuous tense?",
+      "options": [
+        "Had + past participle",
+        "Was/were + -ing form",
+        "Had been + -ing form of the verb",
+        "Did + base form of the verb"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect continuous tense takes the form had been + -ing form of the verb.",
+      "difficulty": "easy",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q078",
+      "question": "What is the negative form of the past perfect continuous tense?",
+      "options": [
+        "Had + not + past participle",
+        "Was/were + not + -ing form",
+        "Did not + base form of the verb",
+        "Had not been + -ing form of the verb"
+      ],
+      "answer": 3,
+      "explanation": "The negative form of the past perfect continuous is had not been + -ing form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q079",
+      "question": "What is the interrogative form of the past perfect continuous tense?",
+      "options": [
+        "Had + subject + been + -ing form of the verb",
+        "Had + subject + past participle",
+        "Was/were + subject + -ing form",
+        "Did + subject + base form of the verb"
+      ],
+      "answer": 0,
+      "explanation": "The interrogative form of the past perfect continuous is had + subject + been + -ing form of the verb.",
+      "difficulty": "medium",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q080",
+      "question": "In 'She had been waiting for two hours,' the past perfect continuous describes:",
+      "options": [
+        "An action completed before another",
+        "An action that continued for a period of time before it was completed",
+        "A past habit",
+        "A reported speech"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect continuous describes an action that took place in the past and continued for a period of time before it was completed.",
+      "difficulty": "medium",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q081",
+      "question": "Fill in: My sister ______ (try) to repair the cooler all day.",
+      "options": [
+        "tried",
+        "was trying",
+        "had been trying",
+        "had tried"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect continuous 'had been trying' is used for an action that continued for a period of time before it was completed.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q082",
+      "question": "Fill in: Sidney ______ (sing) for two years before he ______ (meet) David and they ______ (form) a band together.",
+      "options": [
+        "sang, met, formed",
+        "had been singing, met, formed",
+        "had sung, had met, had formed",
+        "was singing, met, formed"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect continuous 'had been singing' describes the earlier ongoing action, and the simple past 'met' and 'formed' describe later completed actions.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q083",
+      "question": "Fill in: I ______ (study) for two hours by the time the clock ______ (strike) one.",
+      "options": [
+        "had been studying, struck",
+        "studied, struck",
+        "had studied, had struck",
+        "was studying, struck"
+      ],
+      "answer": 0,
+      "explanation": "The past perfect continuous 'had been studying' describes the earlier ongoing action, and the simple past 'struck' describes the later action.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q084",
+      "question": "Fill in: The brother-sister duo ______ (take) care of animals at their shelter for ten years.",
+      "options": [
+        "took",
+        "had been taking",
+        "were taking",
+        "had taken"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect continuous 'had been taking' describes an action that continued for a period of time before it was completed.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q085",
+      "question": "Fill in: Sarah ______ (practise) her badminton shots for an hour.",
+      "options": [
+        "practised",
+        "was practising",
+        "had been practising",
+        "had practised"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect continuous 'had been practising' is used for an action that continued for a period of time before it was completed.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C08-Q086",
+      "question": "Fill in the passage: The ferry ______ (wait) at its usual post by the ghat.",
+      "options": [
+        "waits",
+        "was waiting",
+        "had waited",
+        "had been waiting"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was waiting' describes an ongoing action in the past.",
+      "difficulty": "hard",
+      "topic": "Mixed Past Tenses",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q087",
+      "question": "Fill in: It ______ (be) 1 o'clock.",
+      "options": [
+        "was",
+        "were",
+        "had been",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'was' is used to describe a past state.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q088",
+      "question": "Fill in: By that time, the flower seller ______ (peddle) her wares for two hours.",
+      "options": [
+        "peddled",
+        "was peddling",
+        "had been peddling",
+        "had peddled"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect continuous 'had been peddling' is used for an action that continued for a period of time before a specific past time.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q089",
+      "question": "Fill in: The fruit seller ______ (do) brisk business through the day.",
+      "options": [
+        "did",
+        "was doing",
+        "had done",
+        "had been doing"
+      ],
+      "answer": 3,
+      "explanation": "The past perfect continuous 'had been doing' describes an action that continued for a period of time before it was completed.",
+      "difficulty": "hard",
+      "topic": "Past Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q090",
+      "question": "Fill in: His mangoes ______ (be) especially popular.",
+      "options": [
+        "was",
+        "were",
+        "had been",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "The simple past 'were' is used to describe a past state with a plural subject.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q091",
+      "question": "Fill in: No one knew when it ______ (happen).",
+      "options": [
+        "happened",
+        "happens",
+        "had happened",
+        "was happening"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect 'had happened' is used because the action occurred before the past time of 'knew'.",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q092",
+      "question": "Fill in: All of a sudden, there ______ (be) a shrill cry.",
+      "options": [
+        "was",
+        "were",
+        "had been",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'was' is used to describe a past event.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q093",
+      "question": "Fill in: A minute ago, she ______ (mind) her younger son.",
+      "options": [
+        "minds",
+        "was minding",
+        "had minded",
+        "had been minding"
+      ],
+      "answer": 1,
+      "explanation": "The past continuous 'was minding' describes an ongoing action in the past.",
+      "difficulty": "hard",
+      "topic": "Past Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q094",
+      "question": "Fill in: She ______ (not notice) that the elder one ______ (inch) towards the water.",
+      "options": [
+        "did not notice, was inching",
+        "was not noticing, inched",
+        "had not noticed, had inched",
+        "did not notice, had inched"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'did not notice' and the past continuous 'was inching' describe simultaneous past actions.",
+      "difficulty": "hard",
+      "topic": "Mixed Past Tenses",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q095",
+      "question": "Fill in: The boy's saviour ______ (be) an unlikely one.",
+      "options": [
+        "was",
+        "were",
+        "had been",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'was' is used to describe a past state.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q096",
+      "question": "Fill in using simple past: One of the stray dogs who ______ (hang) around the ghat ______ (jump) into the water.",
+      "options": [
+        "hung, jumped",
+        "had hung, jumped",
+        "was hanging, jumped",
+        "hanged, jumped"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'hung' and 'jumped' describe completed actions in the past narrative, as specified by the instruction.",
+      "difficulty": "hard",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q097",
+      "question": "Fill in: The brave creature ______ (hold) on to the boy's shirt by his teeth and ______ (drag) him back to the ghat.",
+      "options": [
+        "held, dragged",
+        "was holding, dragged",
+        "had held, had dragged",
+        "held, was dragging"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'held' and 'dragged' describe completed actions in the past.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q098",
+      "question": "Fill in: Why ______ (do) he do it?",
+      "options": [
+        "does",
+        "did",
+        "do",
+        "had"
+      ],
+      "answer": 1,
+      "explanation": "The simple past interrogative uses 'did' + subject + base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q099",
+      "question": "Fill in: Perhaps it ______ (be) the universal kindness that binds all of God's creatures together.",
+      "options": [
+        "was",
+        "were",
+        "had been",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "The simple past 'was' is used to describe a past state.",
+      "difficulty": "medium",
+      "topic": "Simple Past",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C08-Q100",
+      "question": "Complete meaningfully: Vimal had finished his breakfast before ______.",
+      "options": [
+        "he went to school",
+        "he goes to school",
+        "he is going to school",
+        "he will go to school"
+      ],
+      "answer": 0,
+      "explanation": "The past perfect 'had finished' describes an action completed before another past action in the simple past ('went').",
+      "difficulty": "hard",
+      "topic": "Past Perfect",
+      "source": "Page 6"
+    }
+  ]
+}
