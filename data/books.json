@@ -83,7 +83,7 @@
         },
 		{
           "id": "english-gmmr-ch06",
-          "number": 5,
+          "number": 6,
           "title": "Expressing the Future",
           "description": "Expressing the Future Questions generated.",
           "file": "data/English/chapter-exp_fut-06.json"
