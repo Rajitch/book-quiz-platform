@@ -1,0 +1,1507 @@
+{
+  "version": 1,
+  "book": "English Grammar Textbook",
+  "chapter": "Expressing the Present",
+  "questions": [
+    {
+      "id": "BOOK-C07-Q001",
+      "question": "What does the tense of a verb indicate?",
+      "options": [
+        "Only whether an action is complete",
+        "Present, past and future time and whether the action is complete, ongoing or continued",
+        "Only the number of the subject",
+        "Only the person of the subject"
+      ],
+      "answer": 1,
+      "explanation": "The tense of a verb indicates present, past and future time, and also whether the action is complete, is going on, has been completed in the recent past, or whether it started earlier and has continued into the present.",
+      "difficulty": "easy",
+      "topic": "Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C07-Q002",
+      "question": "How many forms does the present tense take?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "The present tense takes four forms: simple present, present continuous, present perfect and present perfect continuous.",
+      "difficulty": "easy",
+      "topic": "Tense Overview",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q003",
+      "question": "Which of the following is NOT a form of the present tense?",
+      "options": [
+        "Simple present",
+        "Present continuous",
+        "Present future",
+        "Present perfect continuous"
+      ],
+      "answer": 2,
+      "explanation": "The four present tense forms are simple present, present continuous, present perfect and present perfect continuous. 'Present future' is not a form.",
+      "difficulty": "easy",
+      "topic": "Tense Overview",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q004",
+      "question": "What is the form of the simple present tense for I/We/You/They?",
+      "options": [
+        "Base form of verb + -s/-es",
+        "Am/is/are + -ing form",
+        "Has/have + past participle",
+        "Base form of verb"
+      ],
+      "answer": 3,
+      "explanation": "For I/We/You/They, the simple present tense uses the base form of the verb.",
+      "difficulty": "easy",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q005",
+      "question": "What is the form of the simple present tense for He/She/It?",
+      "options": [
+        "Base form of verb + -s/-es",
+        "Base form of verb",
+        "Is + -ing form",
+        "Has + past participle"
+      ],
+      "answer": 0,
+      "explanation": "For He/She/It, the simple present tense uses the base form of the verb + -s/-es.",
+      "difficulty": "easy",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q006",
+      "question": "Which is the correct negative form of the simple present for 'She plays the guitar'?",
+      "options": [
+        "She does not plays the guitar.",
+        "She do not play the guitar.",
+        "She does not play the guitar.",
+        "She is not play the guitar."
+      ],
+      "answer": 2,
+      "explanation": "For He/She/It, the negative is formed with 'does not' + base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q007",
+      "question": "Which is the correct interrogative form of the simple present for 'They play the guitar'?",
+      "options": [
+        "Does they play the guitar?",
+        "Do they play the guitar?",
+        "Are they play the guitar?",
+        "Have they play the guitar?"
+      ],
+      "answer": 1,
+      "explanation": "For I/We/You/They, questions are formed with 'Do' + subject + base form of the verb.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q008",
+      "question": "The simple present tense is used to express:",
+      "options": [
+        "Actions happening at the moment of speaking",
+        "Actions completed in the recent past",
+        "Actions that started in the past and are still going on",
+        "Habitual or repeated actions"
+      ],
+      "answer": 3,
+      "explanation": "The simple present tense is used to express habitual or repeated actions.",
+      "difficulty": "easy",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q009",
+      "question": "In 'She speaks politely,' the simple present is used to express:",
+      "options": [
+        "A habitual action",
+        "A general truth",
+        "A planned future",
+        "An instruction"
+      ],
+      "answer": 0,
+      "explanation": "'She speaks politely' expresses a habitual action.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q010",
+      "question": "In 'Water boils at 100 degree centigrade,' the simple present is used to express:",
+      "options": [
+        "A habitual action",
+        "A general truth or scientific fact",
+        "A planned future",
+        "An instruction"
+      ],
+      "answer": 1,
+      "explanation": "The simple present is used to express general truths and scientific facts.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q011",
+      "question": "In 'Birds of a feather flock together,' the simple present is used in a:",
+      "options": [
+        "Scientific fact",
+        "Planned future",
+        "Direction",
+        "Proverb"
+      ],
+      "answer": 3,
+      "explanation": "The simple present is used in proverbs.",
+      "difficulty": "easy",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q012",
+      "question": "In 'The train arrives at 6 a.m.,' the simple present is used to express:",
+      "options": [
+        "A habitual action",
+        "A general truth",
+        "A planned future",
+        "A proverb"
+      ],
+      "answer": 2,
+      "explanation": "The simple present is used to express a planned future.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q013",
+      "question": "In 'Drive for a kilometre and then take a right turn,' the simple present is used to:",
+      "options": [
+        "Give instructions or directions",
+        "Express a habit",
+        "State a general truth",
+        "Express a planned future"
+      ],
+      "answer": 0,
+      "explanation": "The simple present is used to give instructions or directions.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q014",
+      "question": "Fill in: The train ______ (arrive) in another ten minutes.",
+      "options": [
+        "arrive",
+        "arrives",
+        "is arriving",
+        "has arrived"
+      ],
+      "answer": 1,
+      "explanation": "The simple present 'arrives' is used for a planned future event.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q015",
+      "question": "Fill in: The Aurora Borealis ______ (light) up the night sky in the Arctic regions.",
+      "options": [
+        "light",
+        "is lighting",
+        "has lit",
+        "lights"
+      ],
+      "answer": 3,
+      "explanation": "The simple present 'lights' is used for a general truth.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q016",
+      "question": "Fill in: Pranesh ______ (draw) water from the well and ______ (water) his plants every day.",
+      "options": [
+        "draws, waters",
+        "draw, water",
+        "is drawing, is watering",
+        "has drawn, has watered"
+      ],
+      "answer": 0,
+      "explanation": "The simple present 'draws' and 'waters' are used for habitual actions with a singular subject.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C07-Q017",
+      "question": "Fill in: Copper ______ (conduct) heat better than iron.",
+      "options": [
+        "conduct",
+        "is conducting",
+        "conducts",
+        "has conducted"
+      ],
+      "answer": 2,
+      "explanation": "The simple present 'conducts' is used for a scientific fact.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q018",
+      "question": "Fill in: The Orion constellation ______ (resemble) a warrior with a sword.",
+      "options": [
+        "resemble",
+        "resembles",
+        "is resembling",
+        "has resembled"
+      ],
+      "answer": 1,
+      "explanation": "The simple present 'resembles' is used for a general truth.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q019",
+      "question": "Fill in: The flight ______ (depart) at 6 a.m.",
+      "options": [
+        "depart",
+        "is departing",
+        "has departed",
+        "departs"
+      ],
+      "answer": 3,
+      "explanation": "The simple present 'departs' is used for a planned future event.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q020",
+      "question": "Which time expressions are used with the simple present tense?",
+      "options": [
+        "Now, today, at the moment",
+        "Since, for",
+        "Always, never, often, usually, sometimes, every day",
+        "Yesterday, last week"
+      ],
+      "answer": 2,
+      "explanation": "With the simple present tense, we use expressions of time such as always, never, often, usually, sometimes, every day.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q021",
+      "question": "What does the present continuous tense describe?",
+      "options": [
+        "A continued or ongoing action in the present time",
+        "A completed action",
+        "An action that started in the past and continues into the present",
+        "A habitual action"
+      ],
+      "answer": 0,
+      "explanation": "The present continuous tense is used to describe a continued or an ongoing action in the present time.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q022",
+      "question": "What is another name for the present continuous tense?",
+      "options": [
+        "Simple tense",
+        "Progressive tense",
+        "Perfect tense",
+        "Perfect continuous tense"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous tense is also known as the progressive tense.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q023",
+      "question": "What is the form of the present continuous tense?",
+      "options": [
+        "Base form of verb",
+        "Has/have + past participle",
+        "Has/have been + verb + -ing",
+        "Am/is/are + verb + -ing"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous tense takes the form am/is/are + verb + -ing.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q024",
+      "question": "Which is the correct negative form of the present continuous for 'She is sleeping'?",
+      "options": [
+        "She does not sleeping.",
+        "She has not sleeping.",
+        "She is not sleeping.",
+        "She not is sleeping."
+      ],
+      "answer": 2,
+      "explanation": "The negative form of the present continuous is is/are/am + not + verb + -ing.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q025",
+      "question": "Which is the correct interrogative form of the present continuous for 'You are sleeping'?",
+      "options": [
+        "Are you sleeping?",
+        "Do you sleeping?",
+        "Have you sleeping?",
+        "Is you sleeping?"
+      ],
+      "answer": 0,
+      "explanation": "The interrogative form of the present continuous is Am/Are/Is + subject + verb + -ing.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q026",
+      "question": "The present continuous tense is used to describe:",
+      "options": [
+        "Habitual actions",
+        "Actions happening at the time of speaking",
+        "General truths",
+        "Completed actions"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous tense is used to describe actions happening at the time of speaking.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q027",
+      "question": "In 'We are learning grammar now,' the present continuous is used for:",
+      "options": [
+        "An action going on for a period but not necessarily at the time of speaking",
+        "A near future action",
+        "A habitual action",
+        "An action happening at the time of speaking"
+      ],
+      "answer": 3,
+      "explanation": "'We are learning grammar now' describes an action happening at the time of speaking.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q028",
+      "question": "In 'They are changing the telephone cables in our locality,' the present continuous is used for:",
+      "options": [
+        "An action going on for a period but not necessarily at the time of speaking",
+        "An action happening at the time of speaking",
+        "A near future action",
+        "A general truth"
+      ],
+      "answer": 0,
+      "explanation": "This describes an action which has been going on for a period of time, but which may not necessarily be happening at the time of speaking.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q029",
+      "question": "In 'The guests are arriving in the evening,' the present continuous is used for:",
+      "options": [
+        "An action happening now",
+        "A habitual action",
+        "An action that may take place in the near future",
+        "A general truth"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous is used for actions that may take place in the near future.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q030",
+      "question": "Which time expressions are used with the present continuous tense?",
+      "options": [
+        "Always, never, often",
+        "Now, today, at the moment",
+        "Since, for",
+        "Yesterday, last week"
+      ],
+      "answer": 1,
+      "explanation": "With the present continuous tense, we use expressions of time such as now, today, at the moment.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q031",
+      "question": "Which type of verbs are NOT used in the present continuous tense?",
+      "options": [
+        "Action verbs",
+        "Dynamic verbs",
+        "Regular verbs",
+        "Stative verbs (verbs of senses, feeling, thinking, possession)"
+      ],
+      "answer": 3,
+      "explanation": "Stative verbs such as verbs of senses, feeling, thinking, and possession are not used in the present continuous tense.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q032",
+      "question": "Which of the following is a verb of sense?",
+      "options": [
+        "See",
+        "Know",
+        "Own",
+        "Believe"
+      ],
+      "answer": 0,
+      "explanation": "Verbs of senses include see, hear, smell and taste.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q033",
+      "question": "Which of the following is a verb of feeling?",
+      "options": [
+        "Taste",
+        "Contain",
+        "Love",
+        "Resemble"
+      ],
+      "answer": 2,
+      "explanation": "Verbs of feeling include like, care, fear, love, hate.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q034",
+      "question": "Which of the following is a verb showing possession?",
+      "options": [
+        "Think",
+        "Own",
+        "Hear",
+        "Seem"
+      ],
+      "answer": 1,
+      "explanation": "Verbs showing possession include own, belong, possess, has and have.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q035",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The pudding is tasting delicious.",
+        "The pudding tasting delicious.",
+        "The pudding has tasting delicious.",
+        "The pudding tastes delicious."
+      ],
+      "answer": 3,
+      "explanation": "'Taste' is a verb of sense and is not used in the present continuous. The simple present 'tastes' is correct.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q036",
+      "question": "Which sentence is correct?",
+      "options": [
+        "She has two brothers.",
+        "She is having two brothers.",
+        "She having two brothers.",
+        "She has having two brothers."
+      ],
+      "answer": 0,
+      "explanation": "'Have' in the sense of ownership is not used in the present continuous. The simple present 'has' is correct.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q037",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I have a sandwich.",
+        "I having a sandwich.",
+        "I am having a sandwich.",
+        "I has a sandwich."
+      ],
+      "answer": 2,
+      "explanation": "'Have' in the sense of eating is used in the present continuous. 'I am having a sandwich' is correct.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q038",
+      "question": "Which sentence is INCORRECT?",
+      "options": [
+        "I am having a sandwich.",
+        "We are having a screening of the film tomorrow.",
+        "Shireen is having a swim in the pool.",
+        "I am having a house in Coimbatore."
+      ],
+      "answer": 3,
+      "explanation": "'Have' in the sense of ownership is not used in the present continuous. 'I have a house in Coimbatore' is correct.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q039",
+      "question": "Fill in: I ______ (work) now.",
+      "options": [
+        "work",
+        "have worked",
+        "have been working",
+        "am working"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous 'am working' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q040",
+      "question": "Fill in: Mary ______ (love) orange juice.",
+      "options": [
+        "loves",
+        "is loving",
+        "has loved",
+        "has been loving"
+      ],
+      "answer": 0,
+      "explanation": "'Love' is a verb of feeling and is not used in the present continuous. The simple present 'loves' is correct.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q041",
+      "question": "Fill in: They ______ (vacate) the house tomorrow.",
+      "options": [
+        "vacate",
+        "have vacated",
+        "are vacating",
+        "have been vacating"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous 'are vacating' is used for a near future action.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q042",
+      "question": "Fill in: They ______ (pack) at the moment.",
+      "options": [
+        "pack",
+        "are packing",
+        "have packed",
+        "have been packing"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous 'are packing' is used for an action happening at the moment.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q043",
+      "question": "Fill in: The moon ______ (revolve) around the earth.",
+      "options": [
+        "is revolving",
+        "has revolved",
+        "has been revolving",
+        "revolves"
+      ],
+      "answer": 3,
+      "explanation": "The simple present 'revolves' is used for a general truth.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q044",
+      "question": "Fill in: The moon ______ (shine) brightly tonight.",
+      "options": [
+        "is shining",
+        "shines",
+        "has shone",
+        "has been shining"
+      ],
+      "answer": 0,
+      "explanation": "The present continuous 'is shining' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q045",
+      "question": "Fill in: Mr Sinha ______ (go) for a jog in the park every day.",
+      "options": [
+        "is going",
+        "has gone",
+        "goes",
+        "has been going"
+      ],
+      "answer": 2,
+      "explanation": "The simple present 'goes' is used for a habitual action.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q046",
+      "question": "Fill in: I ______ (think) I ______ (have) a fever.",
+      "options": [
+        "am thinking, am having",
+        "think, have",
+        "have thought, have had",
+        "have been thinking, have been having"
+      ],
+      "answer": 1,
+      "explanation": "'Think' and 'have' (in the sense of physical condition) are stative verbs and take the simple present.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q047",
+      "question": "Fill in: Can't you see Ritika? She ______ (read) under the banyan tree.",
+      "options": [
+        "reads",
+        "has read",
+        "has been reading",
+        "is reading"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous 'is reading' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q048",
+      "question": "Fill in: Our school's annual play ______ (start) at 6 p.m.",
+      "options": [
+        "starts",
+        "is starting",
+        "has started",
+        "has been starting"
+      ],
+      "answer": 0,
+      "explanation": "The simple present 'starts' is used for a planned future event.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q049",
+      "question": "Fill in: My mother always ______ (go) to the market herself, but today my father ______ (accompany) her.",
+      "options": [
+        "is going, accompanies",
+        "has gone, has accompanied",
+        "goes, is accompanying",
+        "has been going, has been accompanying"
+      ],
+      "answer": 2,
+      "explanation": "'Goes' is simple present for a habit, and 'is accompanying' is present continuous for today's action.",
+      "difficulty": "hard",
+      "topic": "Mixed Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q050",
+      "question": "Correct the error: 'I am not understanding this sum.'",
+      "options": [
+        "I am not understand this sum.",
+        "I do not understand this sum.",
+        "I have not understanding this sum.",
+        "I not understand this sum."
+      ],
+      "answer": 1,
+      "explanation": "'Understand' is a stative verb and is not used in the present continuous. The simple present 'do not understand' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q051",
+      "question": "Correct the error: 'Devika sleeps now.'",
+      "options": [
+        "Devika sleep now.",
+        "Devika has slept now.",
+        "Devika has been sleeping now.",
+        "Devika is sleeping now."
+      ],
+      "answer": 3,
+      "explanation": "'Now' indicates an action happening at the moment, so the present continuous 'is sleeping' is correct.",
+      "difficulty": "medium",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q052",
+      "question": "Correct the error: 'I am apologizing for keeping you waiting.'",
+      "options": [
+        "I apologize for keeping you waiting.",
+        "I apologizing for keeping you waiting.",
+        "I have apologizing for keeping you waiting.",
+        "I do apologizing for keeping you waiting."
+      ],
+      "answer": 0,
+      "explanation": "'Apologize' is a verb of feeling and is not used in the present continuous. The simple present 'apologize' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q053",
+      "question": "Correct the error: 'The baby is liking to eat bananas.'",
+      "options": [
+        "The baby liking to eat bananas.",
+        "The baby has liking to eat bananas.",
+        "The baby likes to eat bananas.",
+        "The baby do likes to eat bananas."
+      ],
+      "answer": 2,
+      "explanation": "'Like' is a verb of feeling and is not used in the present continuous. The simple present 'likes' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q054",
+      "question": "Correct the error: 'Jeevan will help you if you are asking him.'",
+      "options": [
+        "Jeevan will help you if you asked him.",
+        "Jeevan will help you if you ask him.",
+        "Jeevan will help you if you have asking him.",
+        "Jeevan will help you if you do asking him."
+      ],
+      "answer": 1,
+      "explanation": "The simple present 'ask' is used in conditional clauses referring to the future.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q055",
+      "question": "Correct the error: 'Keeping fit is depending on regular exercise.'",
+      "options": [
+        "Keeping fit depending on regular exercise.",
+        "Keeping fit has depending on regular exercise.",
+        "Keeping fit do depends on regular exercise.",
+        "Keeping fit depends on regular exercise."
+      ],
+      "answer": 3,
+      "explanation": "'Depend' is a stative verb and is not used in the present continuous. The simple present 'depends' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q056",
+      "question": "Correct the error: 'The lasagne is tasting delicious.'",
+      "options": [
+        "The lasagne tastes delicious.",
+        "The lasagne tasting delicious.",
+        "The lasagne has tasting delicious.",
+        "The lasagne do tastes delicious."
+      ],
+      "answer": 0,
+      "explanation": "'Taste' is a verb of sense and is not used in the present continuous. The simple present 'tastes' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q057",
+      "question": "Correct the error: 'I am hearing that it's going to get even hotter.'",
+      "options": [
+        "I hearing that it's going to get even hotter.",
+        "I have hearing that it's going to get even hotter.",
+        "I hear that it's going to get even hotter.",
+        "I do hearing that it's going to get even hotter."
+      ],
+      "answer": 2,
+      "explanation": "'Hear' is a verb of sense and is not used in the present continuous. The simple present 'hear' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q058",
+      "question": "Correct the error: 'My father usually is giving me a present for Diwali.'",
+      "options": [
+        "My father usually giving me a present for Diwali.",
+        "My father usually gives me a present for Diwali.",
+        "My father usually has giving me a present for Diwali.",
+        "My father usually do gives me a present for Diwali."
+      ],
+      "answer": 1,
+      "explanation": "'Usually' indicates a habit, so the simple present 'gives' is correct.",
+      "difficulty": "hard",
+      "topic": "Error Correction",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q059",
+      "question": "What does the present perfect tense talk about?",
+      "options": [
+        "An action that is happening now",
+        "An action that will happen in the future",
+        "A habitual action",
+        "An action completed in the recent past but whose effects still remain"
+      ],
+      "answer": 3,
+      "explanation": "The present perfect tense is used to talk about an action completed in the recent past but whose effects still remain.",
+      "difficulty": "easy",
+      "topic": "Present Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q060",
+      "question": "What is the form of the present perfect tense?",
+      "options": [
+        "Has/have + past participle form of the verb",
+        "Am/is/are + verb + -ing",
+        "Has/have been + verb + -ing",
+        "Base form of the verb"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect tense takes the form has/have + past participle form of the verb.",
+      "difficulty": "easy",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q061",
+      "question": "Which is the correct negative form of the present perfect for 'The boy has done the work'?",
+      "options": [
+        "The boy does not done the work.",
+        "The boy is not done the work.",
+        "The boy has not done the work.",
+        "The boy not has done the work."
+      ],
+      "answer": 2,
+      "explanation": "The negative form of the present perfect is has/have + not + past participle.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q062",
+      "question": "Which is the correct interrogative form of the present perfect for 'She has returned my book'?",
+      "options": [
+        "Does she returned my book?",
+        "Has she returned my book?",
+        "Is she returned my book?",
+        "Have she returned my book?"
+      ],
+      "answer": 1,
+      "explanation": "The interrogative form of the present perfect is has/have + subject + past participle.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q063",
+      "question": "In 'They have just arrived,' the present perfect is used for:",
+      "options": [
+        "An action completed at an unknown time",
+        "An action with present impact",
+        "An action that started in the past and continues",
+        "An action completed in the recent past"
+      ],
+      "answer": 3,
+      "explanation": "'They have just arrived' talks about an action completed in the recent past.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q064",
+      "question": "In 'I have visited the Taj Mahal,' the present perfect is used for:",
+      "options": [
+        "An action completed at some time in the past but whose exact time may not be known",
+        "An action completed in the recent past",
+        "An action with present impact",
+        "An action that started in the past and continues"
+      ],
+      "answer": 0,
+      "explanation": "This talks about an action completed at some time in the past, but whose exact time of completion may not be known.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q065",
+      "question": "In 'She has made the tea,' the present perfect is used for:",
+      "options": [
+        "An action completed in the recent past",
+        "An action completed at an unknown time",
+        "A past action that has some impact in the present",
+        "An action that started in the past and continues"
+      ],
+      "answer": 2,
+      "explanation": "This talks about a past action that has some impact in the present (so we can have it now).",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q066",
+      "question": "In 'Medha has been a teacher in this school for the past five years,' the present perfect is used for:",
+      "options": [
+        "An action completed in the recent past",
+        "Something that started in the past and has continued into the present",
+        "An action completed at an unknown time",
+        "A past action with present impact"
+      ],
+      "answer": 1,
+      "explanation": "This describes something that started in the past and has continued into the present.",
+      "difficulty": "hard",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q067",
+      "question": "Fill in: The bird ______ (build) the nest.",
+      "options": [
+        "builds",
+        "is building",
+        "has been building",
+        "has built"
+      ],
+      "answer": 3,
+      "explanation": "The present perfect 'has built' is used for a completed action.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q068",
+      "question": "Fill in: The players ______ (return) to the field.",
+      "options": [
+        "have returned",
+        "return",
+        "are returning",
+        "have been returning"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect 'have returned' is used for a completed action.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q069",
+      "question": "Fill in: We ______ (not see) the film yet.",
+      "options": [
+        "do not see",
+        "are not seeing",
+        "have not seen",
+        "have not been seeing"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect negative 'have not seen' is used with 'yet'.",
+      "difficulty": "medium",
+      "topic": "Present Perfect",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q070",
+      "question": "What does the present perfect continuous tense describe?",
+      "options": [
+        "An action completed in the recent past",
+        "An action that started in the past but is still going on at the time of speaking",
+        "An action happening at the moment",
+        "A habitual action"
+      ],
+      "answer": 1,
+      "explanation": "The present perfect continuous tense is used to talk about an action that started in the past but is still going on at the time of speaking.",
+      "difficulty": "easy",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q071",
+      "question": "What is the form of the present perfect continuous tense?",
+      "options": [
+        "Am/is/are + verb + -ing",
+        "Has/have + past participle",
+        "Base form of the verb",
+        "Has/have been + verb + -ing"
+      ],
+      "answer": 3,
+      "explanation": "The present perfect continuous tense takes the form has/have been + -ing form of the verb.",
+      "difficulty": "easy",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q072",
+      "question": "Which is the correct negative form of the present perfect continuous for 'The baby has been sleeping well'?",
+      "options": [
+        "The baby has not been sleeping well.",
+        "The baby does not been sleeping well.",
+        "The baby is not been sleeping well.",
+        "The baby not has been sleeping well."
+      ],
+      "answer": 0,
+      "explanation": "The negative form of the present perfect continuous is has/have + not + been + -ing form.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q073",
+      "question": "Which is the correct interrogative form of the present perfect continuous for 'She has been missing class'?",
+      "options": [
+        "Does she been missing class?",
+        "Is she been missing class?",
+        "Has she been missing class?",
+        "Have she been missing class?"
+      ],
+      "answer": 2,
+      "explanation": "The interrogative form of the present perfect continuous is has/have + subject + been + -ing form.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q074",
+      "question": "Which word is used to indicate a point of time with the present perfect continuous tense?",
+      "options": [
+        "For",
+        "Since",
+        "Always",
+        "Never"
+      ],
+      "answer": 1,
+      "explanation": "'Since' is used to indicate a point of time.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q075",
+      "question": "Which word is used to indicate a period of time with the present perfect continuous tense?",
+      "options": [
+        "Since",
+        "Now",
+        "Today",
+        "For"
+      ],
+      "answer": 3,
+      "explanation": "'For' is used to indicate a period of time.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q076",
+      "question": "In 'She has been trying to solve the puzzle for half an hour,' the present perfect continuous is used because:",
+      "options": [
+        "The action started in the past and is still going on",
+        "The action is completed",
+        "The action is habitual",
+        "The action is a general truth"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect continuous describes an action that began in the past and is still going on.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q077",
+      "question": "What is the difference between 'The bird is building a nest' and 'The bird has been building the nest for the past one hour'?",
+      "options": [
+        "The first is present perfect, the second is present continuous",
+        "Both are present continuous",
+        "The first is present continuous, the second is present perfect continuous indicating duration",
+        "Both are present perfect continuous"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous is used for an action going on at the present moment, while the present perfect continuous indicates the duration for which the action has been going on.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q078",
+      "question": "Fill in: Mary ______ (draw) water from the new well for washing clothes.",
+      "options": [
+        "draws",
+        "is drawing",
+        "has drawn",
+        "has been drawing"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous 'is drawing' is used for an action happening now. 'For washing clothes' indicates purpose, not duration.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q079",
+      "question": "Fill in: Sujan ______ (draft) the letter at the moment.",
+      "options": [
+        "drafts",
+        "has drafted",
+        "has been drafting",
+        "is drafting"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous 'is drafting' is used for an action happening at the moment.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q080",
+      "question": "Fill in: The kids ______ (play) computer games for two hours now.",
+      "options": [
+        "have been playing",
+        "play",
+        "are playing",
+        "have played"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect continuous 'have been playing' is used because the action started in the past and is still going on, with duration indicated by 'for two hours now'.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q081",
+      "question": "Fill in: It ______ (snow) all week in Srinagar.",
+      "options": [
+        "snows",
+        "is snowing",
+        "has been snowing",
+        "has snowed"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect continuous 'has been snowing' is used because the action started in the past and is still going on, with duration indicated by 'all week'.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q082",
+      "question": "Fill in: We ______ (wait) for Trisha since 9 a.m.",
+      "options": [
+        "wait",
+        "have been waiting",
+        "are waiting",
+        "have waited"
+      ],
+      "answer": 1,
+      "explanation": "The present perfect continuous 'have been waiting' is used because the action started in the past and is still going on, with 'since 9 a.m.' indicating a point of time.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q083",
+      "question": "Fill in: What is that sound? I wonder if the neighbour's baby ______ (cry) again.",
+      "options": [
+        "cries",
+        "has cried",
+        "has been crying",
+        "is crying"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous 'is crying' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Present Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q084",
+      "question": "Fill in: You look very sleepy. ______ (you, get) enough sleep lately?",
+      "options": [
+        "Have you been getting",
+        "Do you get",
+        "Are you getting",
+        "Have you got"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect continuous 'Have you been getting' is used with 'lately' to ask about an ongoing action.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q085",
+      "question": "Fill in: Our maths teacher ______ (feel) unwell for the past week.",
+      "options": [
+        "feels",
+        "is feeling",
+        "has been feeling",
+        "has felt"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect continuous 'has been feeling' is used because the action started in the past and is still going on, with duration indicated by 'for the past week'.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q086",
+      "question": "Fill in: Tulika is fluent in Chinese now. She ______ (go) for weekly Chinese classes.",
+      "options": [
+        "goes",
+        "has been going",
+        "is going",
+        "has gone"
+      ],
+      "answer": 1,
+      "explanation": "The present perfect continuous 'has been going' is used because the action started in the past and is still going on.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q087",
+      "question": "Fill in: Sweta ______ (watch) films all day.",
+      "options": [
+        "watches",
+        "is watching",
+        "has watched",
+        "has been watching"
+      ],
+      "answer": 3,
+      "explanation": "The present perfect continuous 'has been watching' is used because the action started in the past and is still going on, with duration indicated by 'all day'.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q088",
+      "question": "Which sentence correctly uses the present perfect continuous?",
+      "options": [
+        "I have been waiting for his call for two hours.",
+        "I have been knowing him for years.",
+        "I have been having a house in Coimbatore.",
+        "I have been understanding the lesson."
+      ],
+      "answer": 0,
+      "explanation": "'Wait' is an action verb that can be used in the present perfect continuous. 'Know', 'have' (ownership), and 'understand' are stative verbs not used in continuous forms.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q089",
+      "question": "Which sentence correctly uses the simple present?",
+      "options": [
+        "She is knowing the answer.",
+        "She has been knowing the answer.",
+        "She knows the answer.",
+        "She is knowing the answer since morning."
+      ],
+      "answer": 2,
+      "explanation": "'Know' is a stative verb and takes the simple present 'knows', not continuous forms.",
+      "difficulty": "hard",
+      "topic": "Simple Present",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q090",
+      "question": "Which sentence correctly uses the present continuous?",
+      "options": [
+        "I am believing you.",
+        "I am thinking about the problem.",
+        "I am agreeing with you.",
+        "I am knowing the solution."
+      ],
+      "answer": 1,
+      "explanation": "'Think' can be used in the present continuous when it means actively considering something. 'Believe', 'agree', and 'know' are stative verbs.",
+      "difficulty": "hard",
+      "topic": "Present Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C07-Q091",
+      "question": "Which sentence correctly expresses a completed action with a specific past time?",
+      "options": [
+        "I have seen that film yesterday.",
+        "I have been seeing that film yesterday.",
+        "I am seeing that film yesterday.",
+        "I saw that film yesterday."
+      ],
+      "answer": 3,
+      "explanation": "The present perfect is not used with a specific past time expression like 'yesterday'. The simple past 'saw' is correct.",
+      "difficulty": "hard",
+      "topic": "Present Perfect",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C07-Q092",
+      "question": "What is the structure of the affirmative present perfect continuous?",
+      "options": [
+        "Has/have been + -ing form of the verb",
+        "Has/have + past participle",
+        "Am/is/are + -ing form of the verb",
+        "Base form + -s/-es"
+      ],
+      "answer": 0,
+      "explanation": "The affirmative present perfect continuous takes the form has/have been + -ing form of the verb.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q093",
+      "question": "Which time expression is used with the present perfect continuous?",
+      "options": [
+        "Every day",
+        "At the moment",
+        "Since morning",
+        "Usually"
+      ],
+      "answer": 2,
+      "explanation": "'Since morning' indicates a point of time and is used with the present perfect continuous.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 6"
+    },
+    {
+      "id": "BOOK-C07-Q094",
+      "question": "What does the Grammar Byte say about the present continuous and present perfect continuous?",
+      "options": [
+        "The present continuous is for duration, the present perfect continuous is for actions happening now",
+        "The present continuous is for actions going on at the time of speaking, the present perfect continuous indicates duration",
+        "Both are used for habitual actions",
+        "Both are used for completed actions"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous is used for an action going on at the time of speaking, while the present perfect continuous is used when we want to indicate the duration for which the action has been going on.",
+      "difficulty": "hard",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q095",
+      "question": "Which sentence is in the present perfect continuous tense?",
+      "options": [
+        "The bird builds a nest.",
+        "The bird is building a nest.",
+        "The bird has built a nest.",
+        "The bird has been building its nest."
+      ],
+      "answer": 3,
+      "explanation": "'Has been building' is the present perfect continuous form.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C07-Q096",
+      "question": "Which sentence is in the simple present tense?",
+      "options": [
+        "Remya makes cookies.",
+        "Remya is making cookies.",
+        "Remya has made cookies.",
+        "Remya has been making cookies."
+      ],
+      "answer": 0,
+      "explanation": "'Makes' is the simple present form.",
+      "difficulty": "easy",
+      "topic": "Simple Present",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C07-Q097",
+      "question": "Which sentence is in the present continuous tense?",
+      "options": [
+        "Remya makes cookies.",
+        "Remya has made cookies.",
+        "Remya is making cookies.",
+        "Remya has been making cookies."
+      ],
+      "answer": 2,
+      "explanation": "'Is making' is the present continuous form.",
+      "difficulty": "easy",
+      "topic": "Present Continuous",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C07-Q098",
+      "question": "Which sentence is in the present perfect tense?",
+      "options": [
+        "Remya makes cookies.",
+        "Remya has made cookies.",
+        "Remya is making cookies.",
+        "Remya has been making cookies."
+      ],
+      "answer": 1,
+      "explanation": "'Has made' is the present perfect form.",
+      "difficulty": "easy",
+      "topic": "Present Perfect",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C07-Q099",
+      "question": "Fill in: The next season of this drama ______ (begin) in September.",
+      "options": [
+        "begin",
+        "is beginning",
+        "has begun",
+        "begins"
+      ],
+      "answer": 3,
+      "explanation": "The simple present 'begins' is used for a planned future event.",
+      "difficulty": "medium",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C07-Q100",
+      "question": "Fill in: ______ we wait until he ______ (finish) his work?",
+      "options": [
+        "Can, finishes",
+        "Can, is finishing",
+        "Can, has finished",
+        "Can, has been finishing"
+      ],
+      "answer": 0,
+      "explanation": "'Can' is the modal, and 'finishes' is the simple present used for a future event in a time clause.",
+      "difficulty": "hard",
+      "topic": "Simple Present",
+      "source": "Page 3"
+    }
+  ]
+}
