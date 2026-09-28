@@ -59,6 +59,13 @@
           "title": "Agreement of Subject and Verb",
           "description": "Agreement of Subject and Verb Questions generated.",
           "file": "data/English/chapter-agr_sub_verb-02.json"
+        },
+		{
+          "id": "english-gmmr-ch03",
+          "number": 3,
+          "title": "Primary and Modal Auxiliaries",
+          "description": "Agreement of Subject and Verb Questions generated.",
+          "file": "data/English/chapter-prim_mod_aux-03.json"
         }
       ]
     }
