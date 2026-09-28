@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "book": "English Grammar Textbook",
+  "chapter": "Primary and Modal Auxiliaries",
+  "questions": [
+    {
+      "id": "BOOK-C06-Q001",
+      "question": "What is a main verb?",
+      "options": [
+        "A verb used with another verb to complete meaning",
+        "A verb that can stand on its own in a sentence",
+        "A verb that only forms questions",
+        "A verb that never changes form"
+      ],
+      "answer": 1,
+      "explanation": "Main verbs are those which can stand on their own in a sentence.",
+      "difficulty": "easy",
+      "topic": "Main vs Auxiliary Verbs",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C06-Q002",
+      "question": "What is an auxiliary verb?",
+      "options": [
+        "A verb that can stand alone",
+        "A verb that shows ownership only",
+        "A verb that is always in past tense",
+        "A verb used with other verbs to complete the meaning of a sentence"
+      ],
+      "answer": 3,
+      "explanation": "Auxiliary or helping verbs are used with other verbs to complete the meaning of a sentence.",
+      "difficulty": "easy",
+      "topic": "Main vs Auxiliary Verbs",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C06-Q003",
+      "question": "Which of the following is a primary auxiliary?",
+      "options": [
+        "be",
+        "can",
+        "should",
+        "might"
+      ],
+      "answer": 0,
+      "explanation": "The primary auxiliaries are be, have, and do.",
+      "difficulty": "easy",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q004",
+      "question": "In 'I shall finish my work by evening,' which word is the auxiliary verb?",
+      "options": [
+        "I",
+        "finish",
+        "shall",
+        "work"
+      ],
+      "answer": 2,
+      "explanation": "'Shall' is the auxiliary verb that helps the main verb 'finish'.",
+      "difficulty": "easy",
+      "topic": "Main vs Auxiliary Verbs",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C06-Q005",
+      "question": "In 'Black clouds covered the sun,' the verb 'covered' is a:",
+      "options": [
+        "main verb",
+        "helping verb",
+        "modal auxiliary",
+        "primary auxiliary"
+      ],
+      "answer": 0,
+      "explanation": "'Covered' can stand on its own, so it is a main verb.",
+      "difficulty": "easy",
+      "topic": "Main vs Auxiliary Verbs",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C06-Q006",
+      "question": "The primary auxiliaries are:",
+      "options": [
+        "can, could, may, might",
+        "shall, should, will, would",
+        "must, ought, need, dare",
+        "be, have, do"
+      ],
+      "answer": 3,
+      "explanation": "The verbs be, have, and do are the primary auxiliaries.",
+      "difficulty": "easy",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q007",
+      "question": "Which of these is NOT a primary auxiliary?",
+      "options": [
+        "be",
+        "can",
+        "have",
+        "do"
+      ],
+      "answer": 1,
+      "explanation": "'Can' is a modal auxiliary, not a primary auxiliary.",
+      "difficulty": "easy",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q008",
+      "question": "The verb 'be' is used to form which tenses?",
+      "options": [
+        "simple present and simple past",
+        "present perfect and past perfect",
+        "present and past continuous",
+        "future and future perfect"
+      ],
+      "answer": 2,
+      "explanation": "The verb be forms the present and the past continuous tenses.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q009",
+      "question": "The verb 'do' is used to:",
+      "options": [
+        "emphasize, ask a question, or form negatives in simple present and simple past",
+        "form present and past continuous tenses",
+        "form present perfect and past perfect tenses",
+        "indicate ownership only"
+      ],
+      "answer": 0,
+      "explanation": "The verb do is used to emphasize, ask a question, or form negatives in the simple present and simple past tenses.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q010",
+      "question": "The verb 'have' is used to form which tenses?",
+      "options": [
+        "present and past continuous",
+        "simple present and simple past",
+        "future and future continuous",
+        "present perfect and past perfect"
+      ],
+      "answer": 3,
+      "explanation": "The verb have forms the present perfect and the past perfect tenses.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q011",
+      "question": "In 'Tina has a pet dog called Fanny,' the verb 'has' acts as a:",
+      "options": [
+        "helping verb",
+        "main verb indicating ownership",
+        "modal auxiliary",
+        "semi-modal"
+      ],
+      "answer": 1,
+      "explanation": "'Has' indicates ownership, so it acts as a main verb.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q012",
+      "question": "In 'They are making a film,' the verb 'are' acts as a:",
+      "options": [
+        "main verb",
+        "modal auxiliary",
+        "helping verb",
+        "semi-modal"
+      ],
+      "answer": 2,
+      "explanation": "'Are' helps the main verb 'making' and indicates the continuous tense.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q013",
+      "question": "In 'We are ready to leave now,' the verb 'are' acts as a:",
+      "options": [
+        "helping verb",
+        "modal auxiliary",
+        "semi-modal",
+        "main verb showing state"
+      ],
+      "answer": 3,
+      "explanation": "'Are' indicates the state of the subject, so it acts as a main verb.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C06-Q014",
+      "question": "In 'Do you like horror stories?' the verb 'do' acts as a:",
+      "options": [
+        "helping verb forming a question",
+        "main verb",
+        "modal auxiliary",
+        "semi-modal"
+      ],
+      "answer": 0,
+      "explanation": "'Do' is used to form a question in the present tense, so it is a helping verb.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q015",
+      "question": "In 'She did her work before anyone else,' the verb 'did' acts as a:",
+      "options": [
+        "helping verb",
+        "main verb",
+        "modal auxiliary",
+        "semi-modal"
+      ],
+      "answer": 1,
+      "explanation": "'Did' stands on its own and means performed, so it is a main verb.",
+      "difficulty": "medium",
+      "topic": "Primary Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q016",
+      "question": "Modal auxiliaries give additional information about the:",
+      "options": [
+        "object of the sentence",
+        "number of the subject",
+        "function of the main verbs that follow them",
+        "tense of the subject"
+      ],
+      "answer": 2,
+      "explanation": "Modal auxiliaries give additional information about the function of the main verbs that follow them.",
+      "difficulty": "easy",
+      "topic": "Modal Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q017",
+      "question": "Which of the following is NOT indicated by modal auxiliaries?",
+      "options": [
+        "likelihood",
+        "ability",
+        "permission",
+        "number and person of the subject"
+      ],
+      "answer": 3,
+      "explanation": "Modals indicate likelihood, ability, capability, willingness, possibility, permission, and obligation, but not the number and person of the subject.",
+      "difficulty": "medium",
+      "topic": "Modal Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q018",
+      "question": "Modals do not change form according to:",
+      "options": [
+        "the number or person of the subject or the tense of the main verb",
+        "the meaning of the sentence",
+        "the object of the verb",
+        "the presence of an adverb"
+      ],
+      "answer": 0,
+      "explanation": "Modals do not change form according to the number or person of the subject or the tense of the main verb.",
+      "difficulty": "medium",
+      "topic": "Modal Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q019",
+      "question": "According to the Grammar Byte, which modals are exceptions that can change form?",
+      "options": [
+        "can, may, must",
+        "can, shall, may",
+        "will, would, should",
+        "must, ought, need"
+      ],
+      "answer": 1,
+      "explanation": "The Grammar Byte states that the exceptions are can, shall, and may.",
+      "difficulty": "hard",
+      "topic": "Modal Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q020",
+      "question": "Modals are always followed by:",
+      "options": [
+        "an object",
+        "a preposition",
+        "the main verb",
+        "an adverb"
+      ],
+      "answer": 2,
+      "explanation": "Modals are always followed by the main verb.",
+      "difficulty": "easy",
+      "topic": "Modal Auxiliaries",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q021",
+      "question": "'Can' can indicate all of the following EXCEPT:",
+      "options": [
+        "ability",
+        "possibility",
+        "permission",
+        "obligation"
+      ],
+      "answer": 3,
+      "explanation": "'Can' indicates ability, possibility, suggestion, and permission, but not obligation.",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q022",
+      "question": "'Could' can indicate:",
+      "options": [
+        "past ability",
+        "prohibition",
+        "strong deduction",
+        "future action"
+      ],
+      "answer": 0,
+      "explanation": "'Could' can indicate ability in the past, as in 'I could jog for an hour when I was young.'",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q023",
+      "question": "'Will' can indicate:",
+      "options": [
+        "permission",
+        "future action",
+        "past habit",
+        "advice"
+      ],
+      "answer": 1,
+      "explanation": "'Will' can indicate future action, as in 'I will visit them next month.'",
+      "difficulty": "easy",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q024",
+      "question": "'Would' can indicate:",
+      "options": [
+        "obligation",
+        "prohibition",
+        "past habit",
+        "strong deduction"
+      ],
+      "answer": 2,
+      "explanation": "'Would' can indicate a past habit, as in 'When I was little, I would sing to myself.'",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q025",
+      "question": "'Shall' can indicate:",
+      "options": [
+        "ability",
+        "permission",
+        "past habit",
+        "suggestion"
+      ],
+      "answer": 3,
+      "explanation": "'Shall' can indicate a suggestion, as in 'Shall we get him a gift before he leaves?'",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q026",
+      "question": "'Should' can indicate:",
+      "options": [
+        "advice",
+        "past ability",
+        "prohibition",
+        "future action"
+      ],
+      "answer": 0,
+      "explanation": "'Should' can indicate advice, as in 'You should practise hard in order to excel in tennis.'",
+      "difficulty": "easy",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q027",
+      "question": "'May' can indicate:",
+      "options": [
+        "past habit",
+        "formal permission",
+        "strong deduction",
+        "past ability"
+      ],
+      "answer": 1,
+      "explanation": "'May' can indicate formal permission, as in 'May I leave now?'",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q028",
+      "question": "'Might' can indicate:",
+      "options": [
+        "strong obligation",
+        "prohibition",
+        "conditional",
+        "past habit"
+      ],
+      "answer": 2,
+      "explanation": "'Might' can indicate a conditional, as in 'I might come with you, if I don't have a prior appointment.'",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q029",
+      "question": "'Must' can indicate:",
+      "options": [
+        "past ability",
+        "future action",
+        "formal permission",
+        "prohibition"
+      ],
+      "answer": 3,
+      "explanation": "'Must' can indicate prohibition, as in 'You must not enter the premises without permission.'",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q030",
+      "question": "Which modal indicates strong deduction based on evidence?",
+      "options": [
+        "must",
+        "can",
+        "may",
+        "shall"
+      ],
+      "answer": 0,
+      "explanation": "'Must' can indicate deduction based on evidence, as in 'The ground is wet. It must have rained at night.'",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q031",
+      "question": "Ought, need, and dare are known as:",
+      "options": [
+        "primary auxiliaries",
+        "semi or quasi modal auxiliaries",
+        "main verbs",
+        "regular modals"
+      ],
+      "answer": 1,
+      "explanation": "Ought, need, and dare are known as semi or quasi modal auxiliaries.",
+      "difficulty": "easy",
+      "topic": "Semi-modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q032",
+      "question": "Ought and need are always followed by:",
+      "options": [
+        "an object",
+        "a gerund",
+        "to",
+        "a noun"
+      ],
+      "answer": 2,
+      "explanation": "Ought and need are always followed by 'to'.",
+      "difficulty": "medium",
+      "topic": "Semi-modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q033",
+      "question": "In 'He dare not wake up the ogre,' the word 'dare' is used as a:",
+      "options": [
+        "main verb",
+        "primary auxiliary",
+        "regular modal",
+        "semi-modal auxiliary"
+      ],
+      "answer": 3,
+      "explanation": "'Dare' is used as a semi-modal auxiliary in this sentence.",
+      "difficulty": "hard",
+      "topic": "Semi-modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q034",
+      "question": "In indirect speech, the modal 'can' becomes:",
+      "options": [
+        "could",
+        "would",
+        "should",
+        "might"
+      ],
+      "answer": 0,
+      "explanation": "The modals can, will, shall, and may become could, would, should, and might in indirect speech.",
+      "difficulty": "medium",
+      "topic": "Modals in Indirect Speech",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q035",
+      "question": "In indirect speech, the modal 'will' becomes:",
+      "options": [
+        "could",
+        "would",
+        "should",
+        "might"
+      ],
+      "answer": 1,
+      "explanation": "'Will' becomes 'would' in indirect speech.",
+      "difficulty": "easy",
+      "topic": "Modals in Indirect Speech",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q036",
+      "question": "In indirect speech, the modal 'shall' becomes:",
+      "options": [
+        "could",
+        "would",
+        "should",
+        "might"
+      ],
+      "answer": 2,
+      "explanation": "'Shall' becomes 'should' in indirect speech.",
+      "difficulty": "medium",
+      "topic": "Modals in Indirect Speech",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q037",
+      "question": "In indirect speech, the modal 'may' becomes:",
+      "options": [
+        "could",
+        "would",
+        "should",
+        "might"
+      ],
+      "answer": 3,
+      "explanation": "'May' becomes 'might' in indirect speech.",
+      "difficulty": "medium",
+      "topic": "Modals in Indirect Speech",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q038",
+      "question": "In 'You should practise hard in order to excel,' 'should' indicates:",
+      "options": [
+        "advice",
+        "past ability",
+        "prohibition",
+        "future action"
+      ],
+      "answer": 0,
+      "explanation": "'Should' indicates advice in this sentence.",
+      "difficulty": "easy",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q039",
+      "question": "In 'It may rain any time today,' 'may' indicates:",
+      "options": [
+        "advice",
+        "possibility",
+        "prohibition",
+        "past habit"
+      ],
+      "answer": 1,
+      "explanation": "'May' indicates possibility in this sentence.",
+      "difficulty": "easy",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q040",
+      "question": "In 'You must not enter the premises without permission,' 'must' indicates:",
+      "options": [
+        "advice",
+        "possibility",
+        "prohibition",
+        "past habit"
+      ],
+      "answer": 2,
+      "explanation": "'Must' indicates prohibition in this sentence.",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q041",
+      "question": "In 'You must exercise for an hour every day,' 'must' indicates:",
+      "options": [
+        "prohibition",
+        "deduction",
+        "permission",
+        "strong recommendation"
+      ],
+      "answer": 3,
+      "explanation": "'Must' indicates a strong recommendation in this sentence.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q042",
+      "question": "In 'The ground is wet. It must have rained at night,' 'must' indicates:",
+      "options": [
+        "deduction based on evidence",
+        "prohibition",
+        "permission",
+        "past habit"
+      ],
+      "answer": 0,
+      "explanation": "'Must' indicates deduction based on evidence in this sentence.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q043",
+      "question": "In 'I would rather go to the library today,' 'would' indicates:",
+      "options": [
+        "past ability",
+        "preference",
+        "prohibition",
+        "future action"
+      ],
+      "answer": 1,
+      "explanation": "'Would' indicates preference in this sentence.",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q044",
+      "question": "In 'I would like to have some more rice,' 'would' indicates:",
+      "options": [
+        "advice",
+        "prohibition",
+        "a wish",
+        "past ability"
+      ],
+      "answer": 2,
+      "explanation": "'Would' is used to express a wish in this sentence.",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q045",
+      "question": "In 'Shall we get him a gift before he leaves?' 'shall' indicates:",
+      "options": [
+        "past ability",
+        "prohibition",
+        "strong deduction",
+        "suggestion"
+      ],
+      "answer": 3,
+      "explanation": "'Shall' indicates a suggestion in this sentence.",
+      "difficulty": "medium",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q046",
+      "question": "In 'You need to spend more time on this chapter,' 'need' is followed by:",
+      "options": [
+        "to",
+        "an object",
+        "a gerund",
+        "a noun"
+      ],
+      "answer": 0,
+      "explanation": "'Need' is followed by 'to' in this sentence.",
+      "difficulty": "easy",
+      "topic": "Semi-modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q047",
+      "question": "Which sentence uses 'could' to indicate permission?",
+      "options": [
+        "I could jog for an hour when I was young.",
+        "Could I come and meet you tomorrow in your office?",
+        "Could I get knee pain if I did this exercise?",
+        "You could fix an appointment with the doctor."
+      ],
+      "answer": 1,
+      "explanation": "'Could I come and meet you tomorrow in your office?' uses 'could' to ask for permission.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C06-Q048",
+      "question": "Which sentence uses 'might' to indicate suggestion?",
+      "options": [
+        "I might not be able to come to your party.",
+        "I might come with you, if I don't have a prior appointment.",
+        "You might visit the palace during your visit.",
+        "It might rain any time today."
+      ],
+      "answer": 2,
+      "explanation": "'You might visit the palace during your visit' uses 'might' to make a suggestion.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q049",
+      "question": "Which sentence uses 'must' to indicate strong possibility?",
+      "options": [
+        "You must sign a contract with us.",
+        "You must not enter the premises.",
+        "You must exercise for an hour.",
+        "She must be very tired."
+      ],
+      "answer": 3,
+      "explanation": "'She must be very tired' uses 'must' to indicate strong possibility.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C06-Q050",
+      "question": "Which sentence uses 'will' to indicate general truth?",
+      "options": [
+        "This bottle will hold up to one litre of water.",
+        "I will visit them next month.",
+        "I will never speak to her again.",
+        "Will you help me?"
+      ],
+      "answer": 0,
+      "explanation": "'This bottle will hold up to one litre of water' uses 'will' to state a general truth.",
+      "difficulty": "hard",
+      "topic": "Functions of Modals",
+      "source": "Page 3"
+    }
+  ]
+}
