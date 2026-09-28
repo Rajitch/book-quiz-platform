@@ -1,0 +1,1507 @@
+{
+  "version": 1,
+  "book": "English Grammar Textbook",
+  "chapter": "Expressing the Future",
+  "questions": [
+    {
+      "id": "BOOK-C09-Q001",
+      "question": "How many forms does the future tense take?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "In future time, the verb takes four forms: the simple future, future continuous, future perfect and future perfect continuous.",
+      "difficulty": "easy",
+      "topic": "Future Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q002",
+      "question": "Which of the following is NOT a form of the future tense?",
+      "options": [
+        "Simple future",
+        "Future continuous",
+        "Future past",
+        "Future perfect continuous"
+      ],
+      "answer": 2,
+      "explanation": "The four future tense forms are simple future, future continuous, future perfect and future perfect continuous. 'Future past' is not a form.",
+      "difficulty": "easy",
+      "topic": "Future Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q003",
+      "question": "The future tense is used to talk about actions that will take place:",
+      "options": [
+        "In the past",
+        "In the present",
+        "In the future",
+        "At all times"
+      ],
+      "answer": 2,
+      "explanation": "The future tense is used to talk about actions that will take place in the future.",
+      "difficulty": "easy",
+      "topic": "Future Tense Overview",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q004",
+      "question": "What is the form of the simple future tense?",
+      "options": [
+        "Will/shall + base form of the verb",
+        "Will be + base form + -ing",
+        "Will have + past participle",
+        "Will have been + participle form"
+      ],
+      "answer": 0,
+      "explanation": "The simple future tense takes the form will/shall + base form of the verb.",
+      "difficulty": "easy",
+      "topic": "Simple Future",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q005",
+      "question": "What is the form of the future continuous tense?",
+      "options": [
+        "Will/shall + base form of the verb",
+        "Will have + past participle",
+        "Will be + base form of the verb + -ing",
+        "Will have been + participle form"
+      ],
+      "answer": 2,
+      "explanation": "The future continuous tense takes the form will be + base form of the verb + -ing.",
+      "difficulty": "easy",
+      "topic": "Future Continuous",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q006",
+      "question": "What is the form of the future perfect tense?",
+      "options": [
+        "Will have + past participle form of the verb",
+        "Will/shall + base form of the verb",
+        "Will be + base form + -ing",
+        "Will have been + participle form"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect tense takes the form will have + past participle form of the verb.",
+      "difficulty": "easy",
+      "topic": "Future Perfect",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q007",
+      "question": "What is the form of the future perfect continuous tense?",
+      "options": [
+        "Will/shall + base form of the verb",
+        "Will have + past participle",
+        "Will be + base form + -ing",
+        "Will have been + participle form of the verb"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous tense takes the form will have been + participle form of the verb.",
+      "difficulty": "easy",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q008",
+      "question": "Will and shall are used to talk about something we have:",
+      "options": [
+        "Just decided to do",
+        "Already completed",
+        "Never planned",
+        "Done in the past"
+      ],
+      "answer": 0,
+      "explanation": "Will and shall are used to talk about something we have just decided to do.",
+      "difficulty": "easy",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q009",
+      "question": "In 'I will help you organize your birthday party,' 'will' expresses:",
+      "options": [
+        "Willingness to do something",
+        "A past habit",
+        "A completed action",
+        "An obligation"
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to express willingness to do something.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q010",
+      "question": "In 'I will finish my homework today,' 'will' expresses:",
+      "options": [
+        "A past habit",
+        "A request",
+        "An intention",
+        "A permission"
+      ],
+      "answer": 2,
+      "explanation": "'Will' is used to express an intention.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q011",
+      "question": "In 'I hope we will go for a long holiday,' 'will' is used to talk about:",
+      "options": [
+        "Something we hope or expect will happen",
+        "Something we have just decided",
+        "Willingness",
+        "An intention"
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to talk about something we hope or expect will happen.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q012",
+      "question": "What does 'going to' refer to?",
+      "options": [
+        "Actions that happened in the past",
+        "Actions that will happen in the future",
+        "Actions happening now",
+        "Habitual actions"
+      ],
+      "answer": 1,
+      "explanation": "Going to is often used to refer to actions that will happen in the future.",
+      "difficulty": "easy",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q013",
+      "question": "In 'I am going to call you,' 'going to' indicates:",
+      "options": [
+        "An indefinite time in the future",
+        "A past habit",
+        "A definite intention in the near future",
+        "A completed action"
+      ],
+      "answer": 2,
+      "explanation": "'I am going to call you' indicates a definite intention in the near future.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q014",
+      "question": "In 'We are going to spend the holidays at my grandmother's house,' 'going to' is used for:",
+      "options": [
+        "Something already planned or decided",
+        "Something that happened in the past",
+        "A habitual action",
+        "An action happening now"
+      ],
+      "answer": 0,
+      "explanation": "We use 'going to' to talk about something we have already planned or decided to do.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q015",
+      "question": "In 'The clouds are very dark. It is going to rain,' 'going to' is used for:",
+      "options": [
+        "A past action",
+        "Something we expect to happen in the immediate future",
+        "A habitual action",
+        "A completed action"
+      ],
+      "answer": 1,
+      "explanation": "'Going to' is used to talk about something we expect to happen in the immediate future.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q016",
+      "question": "Underline the correct option: Are you going to/Will you answer the phone for me, please? I'm working.",
+      "options": [
+        "Are you going to",
+        "Neither is correct",
+        "Both are equally correct",
+        "Will you"
+      ],
+      "answer": 3,
+      "explanation": "'Will you' is used for a polite request.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q017",
+      "question": "Underline the correct option: I hope Sachin will/is going to visit us soon.",
+      "options": [
+        "will",
+        "is going to",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to talk about something we hope will happen.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q018",
+      "question": "Underline the correct option: As decided, we will/are going to watch a film tonight.",
+      "options": [
+        "are going to",
+        "will",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 0,
+      "explanation": "'Are going to' is used for something already planned or decided.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q019",
+      "question": "Underline the correct option: Watch out! That vase will/is going to fall on you!",
+      "options": [
+        "will",
+        "is going to",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 1,
+      "explanation": "'Is going to' is used for something we expect to happen in the immediate future.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q020",
+      "question": "Underline the correct option: Please take an umbrella. It looks like it will/is going to rain.",
+      "options": [
+        "is going to",
+        "will",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 0,
+      "explanation": "'Is going to' is used for something we expect to happen in the immediate future.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q021",
+      "question": "The simple future tense is used for actions that:",
+      "options": [
+        "Happened in the past",
+        "Will happen at some point of time in the future",
+        "Are happening now",
+        "Are habitual"
+      ],
+      "answer": 1,
+      "explanation": "The simple future tense is used for actions that will happen at some point of time in the future.",
+      "difficulty": "easy",
+      "topic": "Simple Future",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q022",
+      "question": "In 'Bipin will play as the main striker in the football match,' the simple future is used for:",
+      "options": [
+        "A past action",
+        "A habitual action",
+        "An action that will happen in the future",
+        "An action happening now"
+      ],
+      "answer": 2,
+      "explanation": "The simple future 'will play' describes an action that will happen in the future.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q023",
+      "question": "In 'It will rain tomorrow,' 'will' is used to:",
+      "options": [
+        "Predict an event in the near future",
+        "Make an offer",
+        "Ask for advice",
+        "Express a past habit"
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to predict an event in the immediate or near future.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q024",
+      "question": "In 'We will buy the house,' 'will' is used to:",
+      "options": [
+        "Predict an event",
+        "Ask for advice",
+        "Make an offer",
+        "Express a decision or willingness"
+      ],
+      "answer": 3,
+      "explanation": "'Will' is used to express a decision or willingness to do something.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q025",
+      "question": "In 'Shall I get some coffee for you?' 'shall' is used to:",
+      "options": [
+        "Make an offer or suggestion",
+        "Ask for advice",
+        "Predict an event",
+        "Express a past habit"
+      ],
+      "answer": 0,
+      "explanation": "'Shall' is used to make an offer or a suggestion.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q026",
+      "question": "In 'What shall I make for dinner?' 'shall' is used to:",
+      "options": [
+        "Make an offer",
+        "Predict an event",
+        "Ask for advice or instructions",
+        "Express a decision"
+      ],
+      "answer": 2,
+      "explanation": "'Shall' is used to ask for advice or instructions.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q027",
+      "question": "The simple present tense can be used to describe:",
+      "options": [
+        "Only past actions",
+        "Future actions or events, especially those that are part of a schedule",
+        "Only present actions",
+        "Only habitual actions"
+      ],
+      "answer": 1,
+      "explanation": "The simple present tense can be used to describe future actions or events, especially actions that take place in the future as part of a schedule.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q028",
+      "question": "In 'The film starts at 8 p.m. tonight,' the simple present 'starts' refers to:",
+      "options": [
+        "A present action",
+        "A past action",
+        "A future action",
+        "A habitual action"
+      ],
+      "answer": 2,
+      "explanation": "The simple present is used for future events that are part of a schedule. 'The film starts at 8 p.m. tonight' refers to a future action.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q029",
+      "question": "In 'Our school re-opens after vacations next week,' the simple present 're-opens' refers to:",
+      "options": [
+        "A future action",
+        "A present action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 0,
+      "explanation": "The simple present is used for future events that are part of a schedule. 'Re-opens' refers to a future action.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q030",
+      "question": "The present continuous may be used to refer to future events or actions, especially when they are:",
+      "options": [
+        "Part of a definite plan",
+        "Habitual actions",
+        "Completed actions",
+        "Past actions"
+      ],
+      "answer": 0,
+      "explanation": "The present continuous may be used to refer to future events or actions, especially when they are part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q031",
+      "question": "In 'We are having a birthday party on Saturday,' the present continuous 'are having' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q032",
+      "question": "In 'I am meeting my cousins today,' the present continuous 'am meeting' refers to:",
+      "options": [
+        "A present action",
+        "A past action",
+        "A future action",
+        "A habitual action"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q033",
+      "question": "In 'Tara is having lunch with me in the afternoon,' the present continuous 'is having' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 1,
+      "explanation": "The present continuous is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q034",
+      "question": "In 'We are visiting our cousins next week,' the present continuous 'are visiting' refers to:",
+      "options": [
+        "A present action",
+        "A habitual action",
+        "A past action",
+        "A future action"
+      ],
+      "answer": 3,
+      "explanation": "The present continuous is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q035",
+      "question": "In 'The mall closes at 6 p.m. today,' the simple present 'closes' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 1,
+      "explanation": "The simple present is used for future events that are part of a schedule.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q036",
+      "question": "In 'We are having dinner,' the present continuous 'are having' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 0,
+      "explanation": "'We are having dinner' describes an action happening at the moment of speaking.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q037",
+      "question": "In 'I begin my music classes soon,' the simple present 'begin' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 1,
+      "explanation": "The simple present is used for future events that are part of a schedule.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q038",
+      "question": "In 'I visit my friends on weekends,' the simple present 'visit' refers to:",
+      "options": [
+        "A present action",
+        "A future action",
+        "A past action",
+        "A habitual action"
+      ],
+      "answer": 3,
+      "explanation": "'I visit my friends on weekends' describes a habitual action.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q039",
+      "question": "The future continuous tense is used for actions that:",
+      "options": [
+        "Will start in the future and continue for some time",
+        "Happened in the past",
+        "Are happening now",
+        "Are habitual"
+      ],
+      "answer": 0,
+      "explanation": "The future continuous tense is used for actions that will start in the future and continue for some time.",
+      "difficulty": "easy",
+      "topic": "Future Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q040",
+      "question": "In 'Prerita will be starting dance classes from next week,' the future continuous is used for:",
+      "options": [
+        "An action that will start in the future and continue",
+        "A completed action",
+        "A past habit",
+        "An action happening now"
+      ],
+      "answer": 0,
+      "explanation": "The future continuous 'will be starting' describes an action that will start in the future and continue for some time.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q041",
+      "question": "Fill in: I have severe toothache. I ______ the dentist. (visit)",
+      "options": [
+        "will visit",
+        "will be visiting",
+        "will have visited",
+        "will have been visiting"
+      ],
+      "answer": 1,
+      "explanation": "The future continuous 'will be visiting' is used for an action that will start in the future and continue.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q042",
+      "question": "Fill in: Dina ______ for the birthday party. (come)",
+      "options": [
+        "will come",
+        "will have come",
+        "will be coming",
+        "will have been coming"
+      ],
+      "answer": 2,
+      "explanation": "The future continuous 'will be coming' is used for an action that will start in the future and continue.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q043",
+      "question": "Fill in: We ______ our holidays in Delhi this year. (spend)",
+      "options": [
+        "will spend",
+        "will have spent",
+        "will have been spending",
+        "will be spending"
+      ],
+      "answer": 3,
+      "explanation": "The future continuous 'will be spending' is used for an action that will start in the future and continue.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q044",
+      "question": "Fill in: We ______ lots of mangoes from Mumbai. (get)",
+      "options": [
+        "will be getting",
+        "will get",
+        "will have got",
+        "will have been getting"
+      ],
+      "answer": 0,
+      "explanation": "The future continuous 'will be getting' is used for an action that will start in the future and continue.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q045",
+      "question": "Fill in: By this time next week, I ______ in Singapore. (work)",
+      "options": [
+        "will work",
+        "will be working",
+        "will have worked",
+        "will have been working"
+      ],
+      "answer": 1,
+      "explanation": "The future continuous 'will be working' is used for an action that will be in progress at a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q046",
+      "question": "Fill in: ______ you ______ the concert this year? (attend)",
+      "options": [
+        "Will, attend",
+        "Will, have attended",
+        "Will, be attending",
+        "Will, have been attending"
+      ],
+      "answer": 2,
+      "explanation": "The future continuous 'will be attending' is used for an action that will be in progress.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q047",
+      "question": "Fill in: The Ghosh family ______ to Kerala this summer. (fly)",
+      "options": [
+        "will fly",
+        "will have flown",
+        "will be flying",
+        "will have been flying"
+      ],
+      "answer": 2,
+      "explanation": "The future continuous 'will be flying' is used for an action that will start in the future and continue.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q048",
+      "question": "Fill in: ______ Tandra ______ with you in April? (stay)",
+      "options": [
+        "Will, stay",
+        "Will, have stayed",
+        "Will, have been staying",
+        "Will, be staying"
+      ],
+      "answer": 3,
+      "explanation": "The future continuous 'will be staying' is used for an action that will be in progress.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q049",
+      "question": "The future perfect tense is used to talk about a future activity that:",
+      "options": [
+        "Will be finished by or before a specific time in the future",
+        "Happened in the past",
+        "Is happening now",
+        "Will start and continue"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect tense is used to talk about a future activity that will be finished by or before a specific time in the future.",
+      "difficulty": "easy",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q050",
+      "question": "In 'By 4 o'clock tomorrow, the train will have left,' the future perfect is used for:",
+      "options": [
+        "An action that will be finished before a specific future time",
+        "An action happening now",
+        "A past action",
+        "An ongoing future action"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect 'will have left' describes an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q051",
+      "question": "Fill in: Tarun and Aditi ______ by this time tomorrow. (arrive)",
+      "options": [
+        "will arrive",
+        "will have arrived",
+        "will be arriving",
+        "will have been arriving"
+      ],
+      "answer": 1,
+      "explanation": "The future perfect 'will have arrived' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q052",
+      "question": "Fill in: I ______ my homework by tomorrow. (complete)",
+      "options": [
+        "will complete",
+        "will be completing",
+        "will have completed",
+        "will have been completing"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have completed' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q053",
+      "question": "Fill in: Daniel ______ a complaint against his landlord by this evening. (lodge)",
+      "options": [
+        "will lodge",
+        "will be lodging",
+        "will have been lodging",
+        "will have lodged"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect 'will have lodged' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q054",
+      "question": "Fill in: Sunita's mother ______ her lunch before she leaves for work. (pack)",
+      "options": [
+        "will have packed",
+        "will pack",
+        "will be packing",
+        "will have been packing"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect 'will have packed' is used for an action that will be finished before another future action.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q055",
+      "question": "Fill in: The old man ______ the puppy by noon. (feed)",
+      "options": [
+        "will feed",
+        "will have fed",
+        "will be feeding",
+        "will have been feeding"
+      ],
+      "answer": 1,
+      "explanation": "The future perfect 'will have fed' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q056",
+      "question": "Fill in: The parrot ______ a new song by this time next week. (learn)",
+      "options": [
+        "will learn",
+        "will be learning",
+        "will have learned",
+        "will have been learning"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have learned' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q057",
+      "question": "The future perfect continuous tense is used to talk about an ongoing activity which:",
+      "options": [
+        "Has not yet been completed but will be at a specified time in the future",
+        "Was completed in the past",
+        "Is happening now",
+        "Will never be completed"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect continuous tense is used to talk about an ongoing activity which has not yet been completed but will be at a specified time in the future.",
+      "difficulty": "easy",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q058",
+      "question": "In 'Next month, Kiran will have been taking singing lessons for ten years,' the future perfect continuous is used for:",
+      "options": [
+        "A completed action",
+        "A habitual action",
+        "A past action",
+        "An ongoing activity that will continue up to a specified future time"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been taking' describes an ongoing activity that will continue up to a specified time in the future.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q059",
+      "question": "Fill in: By next June, we ______ on the project for three months. (work)",
+      "options": [
+        "will work",
+        "will be working",
+        "will have worked",
+        "will have been working"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been working' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q060",
+      "question": "Fill in: I ______ the house for two hours when it strikes ten. (clean)",
+      "options": [
+        "will have been cleaning",
+        "will clean",
+        "will be cleaning",
+        "will have cleaned"
+      ],
+      "answer": 0,
+      "explanation": "The future perfect continuous 'will have been cleaning' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q061",
+      "question": "Fill in: The class ______ on over one hour by the time the bell rings. (go)",
+      "options": [
+        "will go",
+        "will have been going",
+        "will be going",
+        "will have gone"
+      ],
+      "answer": 1,
+      "explanation": "The future perfect continuous 'will have been going' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q062",
+      "question": "Fill in: Come August, we ______ in Mumbai for five years. (live)",
+      "options": [
+        "will live",
+        "will be living",
+        "will have lived",
+        "will have been living"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been living' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q063",
+      "question": "Fill in: By the time I attend the next school reunion, I ______ for nearly five years. (work)",
+      "options": [
+        "will work",
+        "will have been working",
+        "will be working",
+        "will have worked"
+      ],
+      "answer": 1,
+      "explanation": "The future perfect continuous 'will have been working' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q064",
+      "question": "Fill in: By 2017, Sarojini ______ as a professional singer for a decade. (perform)",
+      "options": [
+        "will perform",
+        "will be performing",
+        "will have performed",
+        "will have been performing"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been performing' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q065",
+      "question": "Fill in: They ______ abroad for two years by this time next year. (stay)",
+      "options": [
+        "will stay",
+        "will have been staying",
+        "will be staying",
+        "will have stayed"
+      ],
+      "answer": 1,
+      "explanation": "The future perfect continuous 'will have been staying' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q066",
+      "question": "Fill in: By today, it ______ for three days continuously. (rain)",
+      "options": [
+        "will rain",
+        "will be raining",
+        "will have rained",
+        "will have been raining"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been raining' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q067",
+      "question": "Which sentence correctly uses the simple future?",
+      "options": [
+        "She will return after one hour.",
+        "She will be returning after one hour.",
+        "She will have returned after one hour.",
+        "She will have been returning after one hour."
+      ],
+      "answer": 0,
+      "explanation": "The simple future 'will return' is used for an action that will happen at some point in the future.",
+      "difficulty": "easy",
+      "topic": "Simple Future",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q068",
+      "question": "Which sentence correctly uses the future continuous?",
+      "options": [
+        "She will be meeting the children on Friday.",
+        "She will meet the children on Friday.",
+        "She will have met the children on Friday.",
+        "She will have been meeting the children on Friday."
+      ],
+      "answer": 0,
+      "explanation": "The future continuous 'will be meeting' is used for an action that will be in progress.",
+      "difficulty": "easy",
+      "topic": "Future Continuous",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q069",
+      "question": "Which sentence correctly uses the future perfect?",
+      "options": [
+        "My elder brother will complete his tenth grade by 2020.",
+        "My elder brother will be completing his tenth grade by 2020.",
+        "My elder brother will have completed his tenth grade by 2020.",
+        "My elder brother will have been completing his tenth grade by 2020."
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have completed' is used for an action that will be finished by a specific time in the future.",
+      "difficulty": "easy",
+      "topic": "Future Perfect",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q070",
+      "question": "Which sentence correctly uses the future perfect continuous?",
+      "options": [
+        "They will work on this project for six months by the end of next week.",
+        "They will be working on this project for six months by the end of next week.",
+        "They will have worked on this project for six months by the end of next week.",
+        "They will have been working on this project for six months by the end of next week."
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been working' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "easy",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q071",
+      "question": "Which sentence uses 'going to' for something already planned or decided?",
+      "options": [
+        "I am going to help my mother in the kitchen today.",
+        "I will help you organize your birthday party.",
+        "I shall get some coffee for you.",
+        "What shall I make for dinner?"
+      ],
+      "answer": 0,
+      "explanation": "'Going to' is used for something already planned or decided. 'I am going to help my mother' expresses a prior decision.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q072",
+      "question": "Which sentence uses 'going to' for something expected to happen in the immediate future?",
+      "options": [
+        "We are going to spend the holidays at my grandmother's house.",
+        "I will finish my homework today.",
+        "Watch out! That tree is going to fall!",
+        "I hope we will go for a long holiday."
+      ],
+      "answer": 2,
+      "explanation": "'Going to' is used to talk about something we expect to happen in the immediate future.",
+      "difficulty": "medium",
+      "topic": "Going To",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q073",
+      "question": "Which sentence uses the simple present for a future scheduled event?",
+      "options": [
+        "The film starts at 8 p.m. tonight.",
+        "The film is starting at 8 p.m. tonight.",
+        "The film will start at 8 p.m. tonight.",
+        "The film will be starting at 8 p.m. tonight."
+      ],
+      "answer": 0,
+      "explanation": "The simple present 'starts' is used for future events that are part of a schedule.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q074",
+      "question": "Which sentence uses the present continuous for a future event that is part of a definite plan?",
+      "options": [
+        "We will have a birthday party on Saturday.",
+        "We will be having a birthday party on Saturday.",
+        "We have a birthday party on Saturday.",
+        "We are having a birthday party on Saturday."
+      ],
+      "answer": 3,
+      "explanation": "The present continuous 'are having' is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q075",
+      "question": "Which sentence correctly uses the future perfect continuous?",
+      "options": [
+        "By this time next year, Mridul will play professional football for two years.",
+        "By this time next year, Mridul will be playing professional football for two years.",
+        "By this time next year, Mridul will have played professional football for two years.",
+        "By this time next year, Mridul will have been playing professional football for two years."
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been playing' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "hard",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q076",
+      "question": "Which sentence correctly uses the future perfect?",
+      "options": [
+        "By the time you get home, I will make dinner.",
+        "By the time you get home, I will be making dinner.",
+        "By the time you get home, I will have made dinner.",
+        "By the time you get home, I will have been making dinner."
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have made' is used for an action that will be finished before another future action.",
+      "difficulty": "hard",
+      "topic": "Future Perfect",
+      "source": "Page 4"
+    },
+    {
+      "id": "BOOK-C09-Q077",
+      "question": "Complete the letter: How ______ (you be, present perfect)?",
+      "options": [
+        "are you",
+        "have you been",
+        "were you",
+        "will you be"
+      ],
+      "answer": 1,
+      "explanation": "The present perfect 'have you been' is used to ask about someone's state.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q078",
+      "question": "Complete the letter: ______ (you come, simple future) home next month?",
+      "options": [
+        "Will you come",
+        "Do you come",
+        "Are you coming",
+        "Have you come"
+      ],
+      "answer": 0,
+      "explanation": "The simple future 'will you come' is used to ask about a future action.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q079",
+      "question": "Complete the letter: I ______ (write, present continuous) to you for some advice.",
+      "options": [
+        "write",
+        "will write",
+        "am writing",
+        "have written"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous 'am writing' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q080",
+      "question": "Complete the letter: I ______ (think, present continuous) of taking up a summer job as an intern with an NGO.",
+      "options": [
+        "think",
+        "will think",
+        "am thinking",
+        "have thought"
+      ],
+      "answer": 2,
+      "explanation": "The present continuous 'am thinking' is used for an action happening now.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q081",
+      "question": "Complete the letter: I ______ (apply, future continuous) to HelpAge India.",
+      "options": [
+        "will apply",
+        "will have applied",
+        "will have been applying",
+        "will be applying"
+      ],
+      "answer": 3,
+      "explanation": "The future continuous 'will be applying' is used for an action that will be in progress.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q082",
+      "question": "Complete the letter: ______ (you know, simple present) of any others that I ______ (can, simple present) apply to?",
+      "options": [
+        "Do you know, can",
+        "Are you knowing, can",
+        "Will you know, can",
+        "Have you known, can"
+      ],
+      "answer": 0,
+      "explanation": "The simple present 'do you know' and 'can' are used in this context.",
+      "difficulty": "hard",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q083",
+      "question": "Complete the letter: I ______ (also look, simple future) at other options for summer employment.",
+      "options": [
+        "also look",
+        "will also look",
+        "am also looking",
+        "have also looked"
+      ],
+      "answer": 1,
+      "explanation": "The simple future 'will also look' is used for a future action.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q084",
+      "question": "Complete the letter: By this time next year, I ______ (volunteer, future perfect continuous) at NGOs for two years.",
+      "options": [
+        "will volunteer",
+        "will be volunteering",
+        "will have volunteered",
+        "will have been volunteering"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been volunteering' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "hard",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q085",
+      "question": "Complete the letter: I ______ (gain, future perfect) useful experience.",
+      "options": [
+        "will gain",
+        "will be gaining",
+        "will have gained",
+        "will have been gaining"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have gained' is used for an action that will be finished by a specific future time.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q086",
+      "question": "Complete the letter: But I ______ (want, simple present) to do more.",
+      "options": [
+        "want",
+        "will want",
+        "am wanting",
+        "have wanted"
+      ],
+      "answer": 0,
+      "explanation": "The simple present 'want' is used for a present state.",
+      "difficulty": "medium",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q087",
+      "question": "Complete the letter: Since you ______ (do, present perfect) such work before, please ______ (send, simple present) me some suggestions.",
+      "options": [
+        "did, send",
+        "have done, send",
+        "will do, send",
+        "are doing, send"
+      ],
+      "answer": 1,
+      "explanation": "The present perfect 'have done' is used for a past action with present relevance, and the simple present 'send' is used for a request.",
+      "difficulty": "hard",
+      "topic": "Mixed Future Tenses",
+      "source": "Page 5"
+    },
+    {
+      "id": "BOOK-C09-Q088",
+      "question": "Fill in using the simple future: Tomorrow's English class ______ for about 30 minutes. (continue)",
+      "options": [
+        "will continue",
+        "will be continuing",
+        "will have continued",
+        "will have been continuing"
+      ],
+      "answer": 0,
+      "explanation": "The simple future 'will continue' is used for an action that will happen in the future.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q089",
+      "question": "Fill in using the future continuous: Meet me at the park tomorrow. I ______ close to the main gate. (sit)",
+      "options": [
+        "will sit",
+        "will be sitting",
+        "will have sat",
+        "will have been sitting"
+      ],
+      "answer": 1,
+      "explanation": "The future continuous 'will be sitting' is used for an action that will be in progress.",
+      "difficulty": "medium",
+      "topic": "Future Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q090",
+      "question": "Fill in: The trophy ______ to the best team. (go)",
+      "options": [
+        "will go",
+        "will be going",
+        "will have gone",
+        "will have been going"
+      ],
+      "answer": 0,
+      "explanation": "The simple future 'will go' is used for an action that will happen in the future.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q091",
+      "question": "Fill in: By this time next year, my sister ______ going to her new school. (start)",
+      "options": [
+        "will start",
+        "will be starting",
+        "will have started",
+        "will have been starting"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect 'will have started' is used for an action that will be finished by a specific future time.",
+      "difficulty": "hard",
+      "topic": "Future Perfect",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q092",
+      "question": "Fill in: Sia ______ for Reema at her house for over two hours now. (wait)",
+      "options": [
+        "will wait",
+        "will be waiting",
+        "will have waited",
+        "will have been waiting"
+      ],
+      "answer": 3,
+      "explanation": "The future perfect continuous 'will have been waiting' is used for an ongoing activity up to a specified future time.",
+      "difficulty": "hard",
+      "topic": "Future Perfect Continuous",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q093",
+      "question": "Fill in using the simple future: I ______ my grandmother next summer. (visit)",
+      "options": [
+        "will visit",
+        "will be visiting",
+        "will have visited",
+        "will have been visiting"
+      ],
+      "answer": 0,
+      "explanation": "The simple future 'will visit' is used for an action that will happen in the future.",
+      "difficulty": "medium",
+      "topic": "Simple Future",
+      "source": "Page 7"
+    },
+    {
+      "id": "BOOK-C09-Q094",
+      "question": "Which sentence correctly uses the simple present for a future scheduled event?",
+      "options": [
+        "The mall is closing at 6 p.m. today.",
+        "The mall will close at 6 p.m. today.",
+        "The mall closes at 6 p.m. today.",
+        "The mall will be closing at 6 p.m. today."
+      ],
+      "answer": 2,
+      "explanation": "The simple present 'closes' is used for future events that are part of a schedule.",
+      "difficulty": "medium",
+      "topic": "Simple Present for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q095",
+      "question": "Which sentence correctly uses the present continuous for a future event?",
+      "options": [
+        "He will leave for Chandigarh at 8 o'clock tonight.",
+        "He leaves for Chandigarh at 8 o'clock tonight.",
+        "He is leaving for Chandigarh at 8 o'clock tonight.",
+        "He will be leaving for Chandigarh at 8 o'clock tonight."
+      ],
+      "answer": 2,
+      "explanation": "The present continuous 'is leaving' is used for a future event that is part of a definite plan.",
+      "difficulty": "medium",
+      "topic": "Present Continuous for Future",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q096",
+      "question": "Which sentence correctly uses 'will' to express an intention?",
+      "options": [
+        "I will finish my homework today.",
+        "I am going to finish my homework today.",
+        "I finish my homework today.",
+        "I will have finished my homework today."
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to express an intention. 'I will finish my homework today' expresses an intention.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 1"
+    },
+    {
+      "id": "BOOK-C09-Q097",
+      "question": "Which sentence correctly uses 'shall' to make a suggestion?",
+      "options": [
+        "Shall I get some coffee for you?",
+        "What shall I make for dinner?",
+        "Shall we go to the park?",
+        "I shall finish my assignment."
+      ],
+      "answer": 2,
+      "explanation": "'Shall' is used to make a suggestion. 'Shall we go to the park?' is a suggestion.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q098",
+      "question": "Which sentence correctly uses 'shall' to ask for advice?",
+      "options": [
+        "Shall I get some coffee for you?",
+        "I shall finish my assignment.",
+        "Shall we go to the park?",
+        "What shall I make for dinner?"
+      ],
+      "answer": 3,
+      "explanation": "'Shall' is used to ask for advice or instructions. 'What shall I make for dinner?' asks for advice.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 3"
+    },
+    {
+      "id": "BOOK-C09-Q099",
+      "question": "Fill in: If you want, I ______ bring a cake for the get-together.",
+      "options": [
+        "will",
+        "am going to",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 0,
+      "explanation": "'Will' is used to express willingness to do something.",
+      "difficulty": "medium",
+      "topic": "Uses of Will and Shall",
+      "source": "Page 2"
+    },
+    {
+      "id": "BOOK-C09-Q100",
+      "question": "They have already decided. Shyam and Ritesh ______ collect all the newspapers and recycle them.",
+      "options": [
+        "will",
+        "are going to",
+        "Both are equally correct",
+        "Neither is correct"
+      ],
+      "answer": 1,
+      "explanation": "'Are going to' is used for something already planned or decided.",
+      "difficulty": "hard",
+      "topic": "Going To",
+      "source": "Page 2"
+    }
+  ]
+}
