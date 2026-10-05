@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "book": "Information-Technology",
+  "chapter": "Powerpoint",
+  "questions": [
+    {
+  	"id": "Q001",
+  	"question": "Which feature of PowerPoint is useful for importing a set of pictures into a presentation?",
+  	"options": [
+  	  "Screen Recording",
+  	  "Photo Album",
+  	  "Slide Zoom",
+  	  "Ink Annotation"
+  	],
+  	"answer": 1,
+  	"explanation": "The chapter states that the Photo Album feature is useful for importing a set of pictures into a presentation.",
+  	"difficulty": "easy",
+  	"topic": "Photo Album",
+  	"source": "Sample content \u2014 replace with questions verified against your textbook."
+    }
+  ]
+  
+} 

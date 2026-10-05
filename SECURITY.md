@@ -1,31 +1,29 @@
-# Security notes
+# MVP-2 Security Notes
 
-This application is intentionally static.
+## SVG handling
 
-## Never place secrets in this repository
+Generated SVG is untrusted content.
 
-Do not add:
+The application does not directly inject generated SVG strings with `innerHTML`.
 
-- API keys
-- passwords
-- access tokens
-- service credentials
-- private API endpoints
+`js/svg.js` parses SVG and permits only a controlled subset of elements and attributes.
 
-Everything under the public website should be considered public.
+Blocked content includes:
+- script
+- iframe
+- object
+- embed
+- foreignObject
+- event handlers
+- external hrefs
+- external url() references
 
-## Content safety
+## Content Security Policy
 
-Question JSON is public application data.
+The `_headers` file includes a restrictive baseline CSP appropriate for this static app.
 
-Do not put private student information in it.
+## Source content
 
-## Future backend
+Only publish textbook-derived content you are authorized to publish.
 
-If a leaderboard or account system is added later:
-
-- validate all incoming data server-side
-- rate-limit write endpoints
-- never trust browser-submitted scores
-- use authentication for private data
-- avoid storing unnecessary personal information
+The question bank should use original question wording and explanations rather than copying long textbook passages.

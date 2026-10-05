@@ -18,5 +18,6 @@
       "topic": "Topic",
       "source": "Chapter 1, page 7"
     }
-  ]
+  ],
+  "_note": "Legacy v1 schema. MVP-2 also supports tools/question-template-v2.json."
 }

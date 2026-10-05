@@ -53,7 +53,7 @@
   function populateBooks() {
     const select = $("bookSelect");
     select.innerHTML = "";
-    state.books.forEach((book, i) => {
+    state.books.forEach(book => {
       const opt = document.createElement("option");
       opt.value = book.id; opt.textContent = book.title;
       select.appendChild(opt);
@@ -96,8 +96,9 @@
     try {
       const chapter = await getChapter();
       state.currentChapter = chapter;
+      const visualCount = chapter.questions.filter(q => hasVisual(q)).length;
       $("chapterInfo").textContent =
-        `${chapter.questions.length} questions available • ${chapter.description || "Ready to practice."}`;
+        `${chapter.questions.length} questions available • ${visualCount} visual question(s) • ${chapter.description || "Ready to practice."}`;
       const max = chapter.questions.length;
       [...$("questionCount").options].forEach(o => {
         if (o.value !== "all") o.disabled = Number(o.value) > max;
@@ -117,13 +118,79 @@
     return a;
   }
 
+  function normalizeQuestion(raw) {
+    // Legacy v1 compatibility.
+    if (Array.isArray(raw.options) && raw.options.every(o => typeof o === "string")) {
+      const answer = Number(raw.answer);
+      const options = raw.options.map((text, index) => ({
+        id: `opt${index + 1}`,
+        text,
+        visual: null,
+        correct: index === answer
+      }));
+      return {
+        ...raw,
+        version: 1,
+        questionVisual: raw.questionVisual || null,
+        options,
+        correctOptionId: options[answer]?.id || "",
+        visualRequired: Boolean(raw.visualRequired)
+      };
+    }
+
+    const options = Array.isArray(raw.options) ? raw.options.map((o, index) => ({
+      id: String(o.id || `opt${index + 1}`),
+      text: String(o.text ?? ""),
+      visual: o.visual || null,
+      correct: String(o.id || `opt${index + 1}`) === String(raw.correctOptionId)
+    })) : [];
+
+    return {
+      ...raw,
+      version: raw.version || 2,
+      questionVisual: raw.questionVisual || null,
+      options,
+      correctOptionId: String(raw.correctOptionId || ""),
+      visualRequired: Boolean(raw.visualRequired)
+    };
+  }
+
   function buildQuiz(questions, count) {
     let chosen = shuffle(questions);
     if (count !== "all") chosen = chosen.slice(0, Math.min(Number(count), chosen.length));
-    return chosen.map(q => ({
-      ...q,
-      options: shuffle(q.options.map((text, index) => ({text, correct:index === q.answer})))
-    }));
+    return chosen.map(q => {
+      const normalized = normalizeQuestion(q);
+      return {
+        ...normalized,
+        options: shuffle(normalized.options)
+      };
+    });
+  }
+
+  function hasVisual(q) {
+    return Boolean(q?.questionVisual?.svg || (q?.options || []).some(o => o.visual?.svg));
+  }
+
+  function renderSVG(container, visual) {
+    if (!visual?.svg) return false;
+    try {
+      const svg = window.SVGGuard.sanitize(visual.svg);
+      if (visual.alt) svg.setAttribute("aria-label", String(visual.alt));
+      container.replaceChildren(svg);
+      return true;
+    } catch (error) {
+      console.warn("Blocked invalid SVG:", error);
+      return false;
+    }
+  }
+
+  function renderQuestionVisual(q) {
+    const wrap = $("questionVisual");
+    wrap.replaceChildren();
+    wrap.classList.add("hidden");
+    if (q.questionVisual?.svg && renderSVG(wrap, q.questionVisual)) {
+      wrap.classList.remove("hidden");
+    }
   }
 
   async function startQuiz(useMistakes = false) {
@@ -154,18 +221,51 @@
     }
   }
 
+  function makeOptionContent(option, index) {
+    const fragment = document.createDocumentFragment();
+
+    const letter = document.createElement("span");
+    letter.className = "option-letter";
+    letter.textContent = `${String.fromCharCode(65 + index)}.`;
+    letter.setAttribute("aria-hidden", "true");
+    fragment.appendChild(letter);
+
+    const body = document.createElement("span");
+    body.className = "option-body";
+
+    if (option.visual?.svg) {
+      const visual = document.createElement("span");
+      visual.className = "option-visual";
+      if (renderSVG(visual, option.visual)) {
+        body.appendChild(visual);
+      }
+    }
+
+    if (option.text) {
+      const text = document.createElement("span");
+      text.className = "option-text";
+      text.textContent = option.text;
+      body.appendChild(text);
+    }
+
+    fragment.appendChild(body);
+    return fragment;
+  }
+
   function renderQuestion() {
     const q = state.quiz[state.index];
     const total = state.quiz.length;
     $("progressText").textContent = `Question ${state.index + 1} of ${total}`;
     $("progressBar").style.width = `${((state.index + 1)/total)*100}%`;
-    const answered = state.answers.filter(a => a.correct).length;
-    $("scoreLive").textContent = `${total ? Math.round(answered/state.answers.length*100) || 0 : 0}%`;
+    const answered = state.answers.length ? state.answers.filter(a => a.correct).length : 0;
+    $("scoreLive").textContent = `${state.answers.length ? Math.round(answered/state.answers.length*100) : 0}%`;
     $("difficultyBadge").textContent = q.difficulty || "Medium";
     $("topicText").textContent = q.topic || "";
     $("questionText").textContent = q.question;
+    renderQuestionVisual(q);
+
     $("feedback").classList.add("hidden");
-    $("feedback").innerHTML = "";
+    $("feedback").replaceChildren();
     $("nextQuestion").classList.add("hidden");
     $("finishQuiz").classList.add("hidden");
 
@@ -175,10 +275,28 @@
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "option";
-      btn.textContent = `${String.fromCharCode(65+i)}. ${option.text}`;
+      btn.setAttribute("aria-label", `${String.fromCharCode(65+i)}. ${option.text || "Visual answer"}`);
+      btn.appendChild(makeOptionContent(option, i));
       btn.addEventListener("click", () => answerQuestion(i));
       options.appendChild(btn);
     });
+  }
+
+  function showFeedback(correct, q) {
+    const feedback = $("feedback");
+    const title = document.createElement("strong");
+    title.textContent = correct ? "Correct!" : "Not quite.";
+    feedback.replaceChildren(title);
+    if (state.mode === "practice") {
+      const p = document.createElement("span");
+      p.textContent = q.explanation || "Review this question in the chapter.";
+      feedback.appendChild(p);
+    } else {
+      const p = document.createElement("span");
+      p.textContent = "Explanation will appear in the review.";
+      feedback.appendChild(p);
+    }
+    feedback.classList.remove("hidden");
   }
 
   function answerQuestion(selectedIndex) {
@@ -187,25 +305,24 @@
     if (buttons.some(b => b.disabled)) return;
 
     const selected = q.options[selectedIndex];
-    const correct = Boolean(selected.correct);
+    const correct = selected.id === q.correctOptionId;
     buttons.forEach((button, i) => {
       button.disabled = true;
-      if (q.options[i].correct) button.classList.add("correct");
+      if (q.options[i].id === q.correctOptionId) button.classList.add("correct");
       if (i === selectedIndex && !correct) button.classList.add("wrong");
     });
 
     state.answers.push({
       questionId: q.id,
       correct,
-      selected: selected.text,
-      correctAnswer: q.options.find(o => o.correct)?.text || ""
+      selectedOptionId: selected.id,
+      selected: selected.text || "Visual answer",
+      correctOptionId: q.correctOptionId,
+      correctAnswer: q.options.find(o => o.id === q.correctOptionId)?.text || "Visual answer"
     });
 
     saveMistake(q, correct);
-
-    const feedback = $("feedback");
-    feedback.innerHTML = `<strong>${correct ? "Correct!" : "Not quite."}</strong>${state.mode === "practice" ? escapeHTML(q.explanation || "Review this question in the chapter.") : "Explanation will appear in the review."}`;
-    feedback.classList.remove("hidden");
+    showFeedback(correct, q);
 
     if (state.index === state.quiz.length - 1) {
       $("finishQuiz").classList.remove("hidden");
@@ -214,6 +331,16 @@
     }
     const score = state.answers.filter(a => a.correct).length;
     $("scoreLive").textContent = `${Math.round(score/state.answers.length*100)}%`;
+  }
+
+  function appendReviewVisual(parent, visual, alt) {
+    if (!visual?.svg) return;
+    try {
+      const wrap = document.createElement("div");
+      wrap.className = "review-visual";
+      renderSVG(wrap, {...visual, alt: alt || visual.alt});
+      parent.appendChild(wrap);
+    } catch {}
   }
 
   function saveMistake(q, correct) {
@@ -265,11 +392,32 @@
       const a = state.answers[i];
       const item = document.createElement("article");
       item.className = `review-item ${a?.correct ? "correct" : "wrong"}`;
-      const correctAnswer = q.options.find(o => o.correct)?.text || "";
-      item.innerHTML = `<div class="review-question">${i+1}. ${escapeHTML(q.question)}</div>
-        <div class="review-answer">Your answer: ${escapeHTML(a?.selected || "Not answered")}</div>
-        <div class="review-answer">Correct answer: ${escapeHTML(correctAnswer)}</div>
-        <div class="review-answer">${escapeHTML(q.explanation || "")}</div>`;
+
+      const title = document.createElement("div");
+      title.className = "review-question";
+      title.textContent = `${i+1}. ${q.question}`;
+      item.appendChild(title);
+
+      if (q.questionVisual?.svg) appendReviewVisual(item, q.questionVisual);
+
+      const selected = document.createElement("div");
+      selected.className = "review-answer";
+      selected.textContent = `Your answer: ${a?.selected || "Not answered"}`;
+      item.appendChild(selected);
+
+      const correctAnswer = q.options.find(o => o.id === q.correctOptionId);
+      const correctText = document.createElement("div");
+      correctText.className = "review-answer";
+      correctText.textContent = `Correct answer: ${correctAnswer?.text || "Visual answer"}`;
+      item.appendChild(correctText);
+
+      if (correctAnswer?.visual?.svg) appendReviewVisual(item, correctAnswer.visual);
+
+      const explanation = document.createElement("div");
+      explanation.className = "review-answer";
+      explanation.textContent = q.explanation || "";
+      item.appendChild(explanation);
+
       list.appendChild(item);
     });
     updateStats();
@@ -284,12 +432,6 @@
     $("statAttempts").textContent = attempts;
     $("statBest").textContent = best === null ? "—" : `${best}%`;
     $("statMastered").textContent = `${mastered}%`;
-  }
-
-  function escapeHTML(value) {
-    return String(value).replace(/[&<>"']/g, c => ({
-      "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-    }[c]));
   }
 
   function registerPWA() {

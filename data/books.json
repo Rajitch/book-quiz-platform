@@ -1,6 +1,6 @@
 {
-  "siteName": "Book Quiz",
-  "description": "Choose a book and chapter, then build a quiz from the available questions.",
+  "siteName": "Book Quiz — Visual MVP",
+  "description": "A free chapter-based quiz platform with optional educational SVGs in questions and answers.",
   "books": [
     {
       "id": "science",
@@ -19,26 +19,13 @@
           "title": "Materials",
           "description": "Sample second chapter.",
           "file": "data/science/chapter-02.json"
-        }
-      ]
-    },
-	{
-      "id": "Information-Technology",
-      "title": "Information-Technology",
-      "chapters": [
-        {
-          "id": "science-ppt-ch01",
-          "number": 1,
-          "title": "PPT",
-          "description": "PPT Questions generated.",
-          "file": "data/Information-Technology/chapter-ppt-03.json"
         },
-		{
-          "id": "science-ppt-ch02",
-          "number": 2,
-          "title": "PPT-Advance",
-          "description": "PPT Questions hard.",
-          "file": "data/Information-Technology/chapter-ppt-adv-04.json"
+        {
+          "id": "science-ch03-visual",
+          "number": 3,
+          "title": "Visual Questions Demo",
+          "description": "MVP-2 demonstration of question SVGs and image-based answer options.",
+          "file": "data/science/chapter-03-visual.json"
         }
       ]
     },
@@ -83,12 +70,45 @@
         },
 		{
           "id": "english-gmmr-ch06",
-          "number": 6,
+          "number": 5,
           "title": "Expressing the Future",
           "description": "Expressing the Future Questions generated.",
           "file": "data/English/chapter-exp_fut-06.json"
         }
       ]
-    }
+    },
+	{
+      "id": "Information-Technology",
+      "title": "Information-Technology",
+      "chapters": [
+        {
+          "id": "science-ppt-ch01",
+          "number": 1,
+          "title": "PPT",
+          "description": "PPT Questions generated.",
+          "file": "data/Information-Technology/chapter-ppt-03.json"
+        },
+		{
+          "id": "science-ppt-ch02",
+          "number": 2,
+          "title": "PPT-Advance",
+          "description": "PPT Questions hard.",
+          "file": "data/Information-Technology/chapter-ppt-adv-04.json"
+        }
+      ]
+    },
+	{
+      "id": "Maths",
+      "title": "Maths",
+      "chapters": [
+        {
+          "id": "maths-integer-ch01",
+          "number": 1,
+          "title": "Integers",
+          "description": "Integers visual Questions generated.",
+          "file": "data/Maths/chapter_integers-01.json"
+        }
+		]
+	}
   ]
 }

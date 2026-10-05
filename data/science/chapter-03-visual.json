@@ -1,0 +1,228 @@
+{
+  "version": 2,
+  "book": "Science",
+  "chapter": "Visual Questions Demo",
+  "questions": [
+    {
+      "id": "SCI-C03-Q001",
+      "question": "What fraction of the circle is shaded?",
+      "questionVisual": {
+        "type": "svg",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A circle divided into four quarters with one quarter shaded.</title><rect x=\"20\" y=\"20\" width=\"440\" height=\"220\" rx=\"18\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"3\"/><circle cx=\"145\" cy=\"130\" r=\"70\" fill=\"#fff\" stroke=\"#172033\" stroke-width=\"4\"/><path d=\"M145 130 L145 60 A70 70 0 0 1 215 130 Z\" fill=\"#7f9aff\"/><text x=\"300\" y=\"120\" font-size=\"24\" font-family=\"sans-serif\" fill=\"#172033\">1 of 4 quarters</text><text x=\"300\" y=\"155\" font-size=\"20\" font-family=\"sans-serif\" fill=\"#667085\">is shaded</text></svg>",
+        "alt": "A circle divided into four equal quarters with one quarter shaded."
+      },
+      "options": [
+        {
+          "id": "opt1",
+          "text": "1/4",
+          "visual": null
+        },
+        {
+          "id": "opt2",
+          "text": "1/2",
+          "visual": null
+        },
+        {
+          "id": "opt3",
+          "text": "3/4",
+          "visual": null
+        },
+        {
+          "id": "opt4",
+          "text": "4/4",
+          "visual": null
+        }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The circle is divided into four equal parts and one part is shaded, so the fraction is 1/4.",
+      "difficulty": "easy",
+      "topic": "Fractions",
+      "source": "MVP-2 demonstration diagram",
+      "visualRequired": true
+    },
+    {
+      "id": "SCI-C03-Q002",
+      "question": "Which shape has four equal sides?",
+      "questionVisual": null,
+      "options": [
+        {
+          "id": "opt1",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A circle.</title><circle cx=\"240\" cy=\"130\" r=\"80\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A circle."
+          }
+        },
+        {
+          "id": "opt2",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A square.</title><rect x=\"160\" y=\"50\" width=\"160\" height=\"160\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A square."
+          }
+        },
+        {
+          "id": "opt3",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A triangle.</title><polygon points=\"240,40 150,210 330,210\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A triangle."
+          }
+        },
+        {
+          "id": "opt4",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A rectangle that is wider than it is tall.</title><rect x=\"105\" y=\"75\" width=\"270\" height=\"110\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A rectangle that is wider than it is tall."
+          }
+        }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "A square has four equal sides.",
+      "difficulty": "easy",
+      "topic": "Shapes",
+      "source": "MVP-2 demonstration diagram",
+      "visualRequired": true
+    },
+    {
+      "id": "SCI-C03-Q003",
+      "question": "Which option shows a square?",
+      "questionVisual": null,
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Circle",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A circle.</title><circle cx=\"240\" cy=\"130\" r=\"80\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A circle."
+          }
+        },
+        {
+          "id": "opt2",
+          "text": "Square",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A square.</title><rect x=\"160\" y=\"50\" width=\"160\" height=\"160\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A square."
+          }
+        },
+        {
+          "id": "opt3",
+          "text": "Triangle",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A triangle.</title><polygon points=\"240,40 150,210 330,210\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A triangle."
+          }
+        },
+        {
+          "id": "opt4",
+          "text": "Rectangle",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A rectangle that is wider than it is tall.</title><rect x=\"105\" y=\"75\" width=\"270\" height=\"110\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A rectangle that is wider than it is tall."
+          }
+        }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The second visual has four equal sides and four right angles, so it is a square.",
+      "difficulty": "easy",
+      "topic": "Shape identification",
+      "source": "MVP-2 demonstration diagram",
+      "visualRequired": true
+    },
+    {
+      "id": "SCI-C03-Q004",
+      "question": "Which statement best describes the visual?",
+      "questionVisual": {
+        "type": "svg",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A circle divided into four quarters with one quarter shaded.</title><rect x=\"20\" y=\"20\" width=\"440\" height=\"220\" rx=\"18\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"3\"/><circle cx=\"145\" cy=\"130\" r=\"70\" fill=\"#fff\" stroke=\"#172033\" stroke-width=\"4\"/><path d=\"M145 130 L145 60 A70 70 0 0 1 215 130 Z\" fill=\"#7f9aff\"/><text x=\"300\" y=\"120\" font-size=\"24\" font-family=\"sans-serif\" fill=\"#172033\">1 of 4 quarters</text><text x=\"300\" y=\"155\" font-size=\"20\" font-family=\"sans-serif\" fill=\"#667085\">is shaded</text></svg>",
+        "alt": "A circle divided into four equal quarters with one quarter shaded."
+      },
+      "options": [
+        {
+          "id": "opt1",
+          "text": "One of four equal parts is shaded",
+          "visual": null
+        },
+        {
+          "id": "opt2",
+          "text": "Two of four equal parts are shaded",
+          "visual": null
+        },
+        {
+          "id": "opt3",
+          "text": "Three of four equal parts are shaded",
+          "visual": null
+        },
+        {
+          "id": "opt4",
+          "text": "All four parts are shaded",
+          "visual": null
+        }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The visual shows one shaded quarter out of four equal quarters.",
+      "difficulty": "easy",
+      "topic": "Visual interpretation",
+      "source": "MVP-2 demonstration diagram",
+      "visualRequired": true
+    },
+    {
+      "id": "SCI-C03-Q005",
+      "question": "Which visual represents a rectangle rather than a square?",
+      "questionVisual": null,
+      "options": [
+        {
+          "id": "opt1",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A square.</title><rect x=\"160\" y=\"50\" width=\"160\" height=\"160\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A square."
+          }
+        },
+        {
+          "id": "opt2",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A rectangle that is wider than it is tall.</title><rect x=\"105\" y=\"75\" width=\"270\" height=\"110\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A rectangle that is wider than it is tall."
+          }
+        },
+        {
+          "id": "opt3",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A circle.</title><circle cx=\"240\" cy=\"130\" r=\"80\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A circle."
+          }
+        },
+        {
+          "id": "opt4",
+          "text": "",
+          "visual": {
+            "type": "svg",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\" role=\"img\"><title>A triangle.</title><polygon points=\"240,40 150,210 330,210\" fill=\"#eef2ff\" stroke=\"#3157d5\" stroke-width=\"5\"/></svg>",
+            "alt": "A triangle."
+          }
+        }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The second visual is wider than it is tall and represents the rectangle in this demonstration.",
+      "difficulty": "easy",
+      "topic": "Shape comparison",
+      "source": "MVP-2 demonstration diagram",
+      "visualRequired": true
+    }
+  ]
+}

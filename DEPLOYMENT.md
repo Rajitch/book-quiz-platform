@@ -1,118 +1,227 @@
-# Deployment — exact procedure
+# MVP-2 Deployment — Complete Procedure
 
-## A. Create GitHub account/repository
+## Recommended production setup
 
-Go to GitHub and create a new repository.
+Use:
 
-Suggested name:
+- GitHub repository for source
+- Cloudflare Pages for static hosting
+- no backend
+- no database
+- no runtime server
 
-book-quiz
+The application is static.
 
-If the content is private/proprietary, use a private repository. Cloudflare Pages can connect to GitHub repositories; confirm your current GitHub/Cloudflare account permissions during setup.
+## STEP 1 — Test locally
 
-Upload the project files while preserving folders.
+Install Node.js if you want to run the validator.
 
-## B. First local test
-
-Install Python or use another static server.
+From the project root:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then open:
+Open:
 
+```text
 http://localhost:8000
+```
 
 Test:
 
-1. Book selector
-2. Chapter selector
-3. 10 questions
-4. 20 questions
-5. All questions
-6. Practice mode
-7. Test mode
-8. Wrong answer
-9. Correct answer
-10. Result screen
-11. Retry
-12. Practice My Mistakes
-13. Dark mode
-14. Refresh
-15. Browser offline after first successful load
+1. Book dropdown
+2. Chapter dropdown
+3. Visual Questions Demo
+4. Start Quiz
+5. Question SVG
+6. Image-based answers
+7. Text + image answers
+8. Correct answer highlighting
+9. Wrong answer highlighting
+10. Results review
+11. Practice My Mistakes
+12. Dark mode
+13. Mobile layout
 
-## C. Validate
-
-Install Node.js if you want to run the validator.
+## STEP 2 — Run technical validation
 
 ```bash
 node tools/validate-questions.mjs data
 ```
 
-Fix all errors before deployment.
+Expected final result:
 
-Warnings should also be reviewed.
-
-## D. Cloudflare
-
-Use the Git integration rather than manual upload.
-
-Current Cloudflare Pages documentation supports GitHub integration and automatic deployments from pushes. The Pages free plan currently documents 500 builds/month, up to 20,000 files per site, and a 25 MiB maximum individual asset. Static asset requests are currently free and unlimited.
-
-Set:
-
-Production branch = main
-
-Framework = none/static HTML
-
-Build command = empty
-
-Output directory = repository root
-
-## E. First production test
-
-After deployment, open the generated `pages.dev` URL.
-
-Test on:
-
-- Android Chrome
-- desktop Chrome/Edge/Firefox
-- mobile portrait
-- mobile landscape
-
-Check browser console for errors.
-
-## F. Release discipline
-
-For a major version:
-
-```bash
-git add .
-git commit -m "Release v1.1.0"
-git tag v1.1.0
-git push origin main --tags
+```text
+RESULT: TECHNICALLY VALID
 ```
 
-Do not make unrelated changes in the same release commit.
+Warnings should be reviewed before publication.
 
-## G. If production breaks
+## STEP 3 — Run the Question Bank Quality Gate
 
-Revert the bad commit and push.
+Provide the following to the Quality Gate:
 
-Cloudflare will redeploy the corrected main branch.
+- textbook screenshots
+- generated chapter JSON
+- `tools/question-template-v2.json`
 
-Cloudflare Pages also supports rollback of deployments.
+Run:
 
-## H. Free-tier discipline
+`QUESTION-BANK-QUALITY-GATE.md`
 
-Do not add:
+Do not publish while the final status is:
 
-- paid database
-- paid CDN
-- paid analytics
-- paid AI API
-- large videos
-- unnecessary server functions
+```text
+NOT READY
+```
 
-The core application does not need any of them.
+## STEP 4 — Add a production chapter
+
+Example:
+
+```text
+data/science/chapter-04.json
+```
+
+Add it to:
+
+```text
+data/books.json
+```
+
+Example:
+
+```json
+{
+  "id": "science-ch04",
+  "number": 4,
+  "title": "Chapter 4",
+  "description": "Chapter description.",
+  "file": "data/science/chapter-04.json"
+}
+```
+
+## STEP 5 — Validate again
+
+```bash
+node tools/validate-questions.mjs data
+```
+
+## STEP 6 — GitHub
+
+Create a GitHub repository.
+
+Upload the contents of this project, not the outer ZIP directory.
+
+Typical Git commands:
+
+```bash
+git init
+git add .
+git commit -m "Initial Book Quiz Visual MVP"
+git branch -M main
+git remote add origin YOUR_GITHUB_REPOSITORY
+git push -u origin main
+```
+
+## STEP 7 — Cloudflare Pages
+
+In Cloudflare:
+
+1. Open Pages.
+2. Create a new Pages project.
+3. Connect the GitHub repository.
+4. Select the repository.
+5. Framework preset: None / static HTML.
+6. Build command: `exit 0`.
+7. Build output directory: the repository root (`.`)
+8. Deploy.
+
+There is no Node build step for the website itself.
+
+Node is only used locally for the question-bank validator.
+
+## STEP 8 — Verify production
+
+Open the assigned Cloudflare Pages URL.
+
+Verify:
+
+- `/`
+- `data/books.json`
+- visual chapter
+- SVG question
+- SVG answer
+- mobile layout
+- refresh
+- PWA installation if supported
+
+## STEP 9 — Test offline/PWA
+
+After loading the site successfully:
+
+1. Open it once while online.
+2. Reload.
+3. Test the previously loaded chapter.
+4. Disconnect the network.
+5. Confirm the cached application still works.
+
+New chapters may not be available offline until their JSON has been fetched/cached.
+
+## STEP 10 — Every future chapter
+
+Use this exact workflow:
+
+```text
+Screenshots
+    ↓
+VISUAL-QUESTION-GENERATION-PROMPT.md
+    ↓
+Question JSON v2
+    ↓
+QUESTION-BANK-QUALITY-GATE.md
+    ↓
+Fix every FAIL/REVIEW
+    ↓
+node tools/validate-questions.mjs data
+    ↓
+Add JSON to data/
+    ↓
+Add chapter to books.json
+    ↓
+Local browser test
+    ↓
+git add .
+    ↓
+git commit
+    ↓
+git push
+    ↓
+Cloudflare Pages auto-deploy
+```
+
+## Rollback
+
+If a deployment is bad:
+
+- revert the Git commit
+- push again
+- Cloudflare Pages redeploys the reverted version
+
+## Do not change
+
+For adding ordinary chapters, do NOT modify:
+
+- `js/app.js`
+- `js/svg.js`
+- `index.html`
+- `css/style.css`
+
+Only change the data files.
+
+## When to consider separate SVG files
+
+Keep embedded SVG for MVP-2.
+
+Consider separate SVG assets only when chapter JSON files become unnecessarily large or browser load performance becomes an actual problem.

@@ -1,0 +1,2 @@
+Book Quiz Platform MVP-2 Visual
+Schema: v2 with v1 backward compatibility

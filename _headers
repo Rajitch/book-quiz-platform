@@ -1,6 +1,7 @@
 /*
-#  Cache static assets for a long time. HTML and data remain revalidated.
-
+  Static assets: cache aggressively.
+  HTML/data: revalidate so new question banks appear after deployment.
+*/
 Cache-Control: public, max-age=31536000, immutable
 
 /index.html
@@ -11,3 +12,11 @@ Cache-Control: public, max-age=31536000, immutable
 
 /manifest.webmanifest
   Cache-Control: public, max-age=3600, must-revalidate
+
+/*
+  Security headers for the static educational app.
+*/
+Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'self'
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: camera=(), microphone=(), geolocation=()

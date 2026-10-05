@@ -1,0 +1,836 @@
+{
+"version": 2,
+"book": "Math_integers",
+"chapter": "Integers",
+"questions": [
+{
+"id": "MATH-C01-Q001",
+"question": "Which integer is neither positive nor negative?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-1",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "0",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "1",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "2",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook states that zero is an integer which is neither positive nor negative.",
+"difficulty": "easy",
+"topic": "Introduction to Integers",
+"source": "Page 1",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q002",
+"question": "What is the opposite of -7?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-7",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "7",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "0",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "14",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook says that -7 and 7 are opposites of each other.",
+"difficulty": "easy",
+"topic": "Introduction to Integers",
+"source": "Page 1",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q003",
+"question": "On a number line, which integer lies to the right of all the others?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-5",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-2",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "0",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "3",
+"visual": null
+}
+],
+"correctOptionId": "opt4",
+"explanation": "On a number line, the integer occurring on the right is greater. Among -5, -2, 0, and 3, the integer 3 lies farthest to the right.",
+"difficulty": "easy",
+"topic": "Comparison of Integers",
+"source": "Page 3",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q004",
+"question": "What is the absolute value of -15?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-15",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "0",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "15",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "30",
+"visual": null
+}
+],
+"correctOptionId": "opt3",
+"explanation": "The textbook gives |-15| = 15.",
+"difficulty": "easy",
+"topic": "Absolute Value",
+"source": "Page 5",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q005",
+"question": "Using the number line, what is 4 more than -1?",
+"questionVisual": {
+"type": "svg",
+"svg": "<svg viewBox='0 0 460 130' xmlns='http://www.w3.org/2000/svg'><defs><marker id='arrowEnd' markerWidth='8' markerHeight='8' refX='7' refY='3' orient='auto' markerUnits='strokeWidth'><path d='M0,0 L0,6 L8,3 z' fill='#333'/></marker><marker id='arrowStart' markerWidth='8' markerHeight='8' refX='1' refY='3' orient='auto' markerUnits='strokeWidth'><path d='M8,0 L8,6 L0,3 z' fill='#333'/></marker></defs><line x1='20' y1='80' x2='440' y2='80' stroke='#333' stroke-width='2' marker-start='url(#arrowStart)' marker-end='url(#arrowEnd)'/><g stroke='#333' stroke-width='1.5'><line x1='40' y1='75' x2='40' y2='85'/><line x1='75' y1='75' x2='75' y2='85'/><line x1='110' y1='75' x2='110' y2='85'/><line x1='145' y1='75' x2='145' y2='85'/><line x1='180' y1='75' x2='180' y2='85'/><line x1='215' y1='75' x2='215' y2='85'/><line x1='250' y1='75' x2='250' y2='85'/><line x1='285' y1='75' x2='285' y2='85'/><line x1='320' y1='75' x2='320' y2='85'/><line x1='355' y1='75' x2='355' y2='85'/><line x1='390' y1='75' x2='390' y2='85'/><line x1='425' y1='75' x2='425' y2='85'/></g><g font-family='Arial, sans-serif' font-size='14' text-anchor='middle' fill='#333'><text x='40' y='105'>-5</text><text x='75' y='105'>-4</text><text x='110' y='105'>-3</text><text x='145' y='105'>-2</text><text x='180' y='105'>-1</text><text x='215' y='105'>0</text><text x='250' y='105'>1</text><text x='285' y='105'>2</text><text x='320' y='105'>3</text><text x='355' y='105'>4</text><text x='390' y='105'>5</text><text x='425' y='105'>6</text></g><circle cx='180' cy='80' r='4' fill='#d00'/><circle cx='320' cy='80' r='4' fill='#d00'/><path d='M 180 65 Q 250 20 320 65' fill='none' stroke='#d00' stroke-width='2' marker-end='url(#arrowEnd)'/><text x='250' y='30' font-family='Arial, sans-serif' font-size='14' text-anchor='middle' fill='#d00'>4 steps</text></svg>",
+"alt": "Number line from -5 to 6. Point -1 is marked, and a curved arrow labeled '4 steps' points to 3."
+},
+"options": [
+{
+"id": "opt1",
+"text": "-5",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-3",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "3",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "5",
+"visual": null
+}
+],
+"correctOptionId": "opt3",
+"explanation": "Starting from -1 and moving 4 steps to the right on the number line gives 3.",
+"difficulty": "easy",
+"topic": "Number Line",
+"source": "Page 4",
+"visualRequired": true
+},
+{
+"id": "MATH-C01-Q006",
+"question": "What is (-3) + (-6)?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-9",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-3",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "3",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "9",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "The textbook shows (-3) + (-6) = -9 on the number line.",
+"difficulty": "easy",
+"topic": "Addition of Integers",
+"source": "Page 9",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q007",
+"question": "What is 23 - (-12)?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "11",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "35",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "-35",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "-11",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "Using a - (-b) = a + b, we have 23 - (-12) = 23 + 12 = 35.",
+"difficulty": "medium",
+"topic": "Subtraction of Integers",
+"source": "Page 14",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q008",
+"question": "What is (-15) - (-8)?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-7",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-23",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "7",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "23",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "(-15) - (-8) = (-15) + 8 = -7.",
+"difficulty": "medium",
+"topic": "Subtraction of Integers",
+"source": "Page 14",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q009",
+"question": "What is the product (-4) × (-13)?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-52",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "52",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "-17",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "17",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The product of two integers with the same sign is positive; (-4) × (-13) = 52.",
+"difficulty": "easy",
+"topic": "Multiplication of Integers",
+"source": "Page 19",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q010",
+"question": "What is the quotient (-36) ÷ 9?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-4",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "4",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "-45",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "45",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "The quotient of two integers with unlike signs is negative; (-36) ÷ 9 = -4.",
+"difficulty": "easy",
+"topic": "Division of Integers",
+"source": "Page 23",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q011",
+"question": "What is the successor of -23?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-24",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-22",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "22",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "24",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The successor of an integer a is a + 1, so the successor of -23 is -23 + 1 = -22.",
+"difficulty": "easy",
+"topic": "Successor and Predecessor",
+"source": "Page 11",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q012",
+"question": "What is the predecessor of -20?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-21",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-19",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "19",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "21",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "The predecessor of an integer a is a - 1, so the predecessor of -20 is -20 - 1 = -21.",
+"difficulty": "easy",
+"topic": "Successor and Predecessor",
+"source": "Page 17",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q013",
+"question": "A temperature of 15°C below the freezing point of water is represented as:",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "+15°C",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-15°C",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "0°C",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "30°C",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook says that 15°C below the freezing point of water is represented as -15°C.",
+"difficulty": "easy",
+"topic": "Applications of Integers",
+"source": "Page 2",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q014",
+"question": "A depth of 5 km below sea level is represented as:",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "+5 km",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-5 km",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "0 km",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "10 km",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook represents a depth of 5 km below sea level as -5 km.",
+"difficulty": "easy",
+"topic": "Applications of Integers",
+"source": "Page 1",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q015",
+"question": "Which is smaller: -5 or -2?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-5",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-2",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "Both are equal",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "Cannot be compared",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "On the number line, -5 lies to the left of -2, so -5 < -2.",
+"difficulty": "easy",
+"topic": "Comparison of Integers",
+"source": "Page 3",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q016",
+"question": "Arrange the integers -30, -16, -9, 7, 18, 23 in ascending order. Which integer comes first?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-30",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-16",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "-9",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "7",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "In ascending order, the given integers are -30 < -16 < -9 < 7 < 18 < 23, so -30 comes first.",
+"difficulty": "medium",
+"topic": "Ordering Integers",
+"source": "Page 5",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q017",
+"question": "Evaluate |-9| + |-11|.",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-20",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "2",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "20",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "99",
+"visual": null
+}
+],
+"correctOptionId": "opt3",
+"explanation": "|-9| = 9 and |-11| = 11, so |-9| + |-11| = 9 + 11 = 20.",
+"difficulty": "medium",
+"topic": "Absolute Value",
+"source": "Page 5",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q018",
+"question": "Which statement is true?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "0 < every negative integer",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "0 > every negative integer",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "-3 > -1",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "-8 > 5",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook states that 0 > every negative integer, since 0 is to the right of every negative integer on the number line.",
+"difficulty": "medium",
+"topic": "Comparison of Integers",
+"source": "Page 3",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q019",
+"question": "What is the additive inverse of -23?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-23",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "0",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "23",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "1/23",
+"visual": null
+}
+],
+"correctOptionId": "opt3",
+"explanation": "The additive inverse of -23 is 23 because -23 + 23 = 0.",
+"difficulty": "easy",
+"topic": "Properties of Addition",
+"source": "Page 11",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q020",
+"question": "The product of three negative integers is:",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "positive",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "negative",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "zero",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "cannot be determined",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The textbook states that the product of three negative integers is a negative integer.",
+"difficulty": "medium",
+"topic": "Multiplication of Integers",
+"source": "Page 23",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q021",
+"question": "On 14 January 2024, the temperatures of four cities A, B, C and D were -13°C, +24°C, -2°C and +6°C respectively. Which is the coldest city?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "A",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "B",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "C",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "D",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "The lowest temperature is -13°C, which belongs to city A.",
+"difficulty": "easy",
+"topic": "Applications of Integers",
+"source": "Page 27",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q022",
+"question": "Using the same temperatures, what is the difference between the temperatures of the hottest and the coldest cities?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "11°C",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "18°C",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "22°C",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "37°C",
+"visual": null
+}
+],
+"correctOptionId": "opt4",
+"explanation": "Hottest is +24°C and coldest is -13°C. Difference = 24 - (-13) = 37°C.",
+"difficulty": "medium",
+"topic": "Applications of Integers",
+"source": "Page 27",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q023",
+"question": "A car travelled 60 km to the north of Patna and then 90 km to the south from there. How far from Patna was the car finally?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "30 km north",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "30 km south",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "150 km south",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "150 km north",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "The car's final position is 30 km to the south of Patna, as shown in the textbook.",
+"difficulty": "medium",
+"topic": "Applications of Integers",
+"source": "Page 6",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q024",
+"question": "A point A is 3548 m above sea level and point B is 985 m below sea level. What is the vertical distance between A and B?",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "2563 m",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "4533 m",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "3548 m",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "985 m",
+"visual": null
+}
+],
+"correctOptionId": "opt2",
+"explanation": "Vertical distance = |3548| + |-985| = 3548 + 985 = 4533 m.",
+"difficulty": "medium",
+"topic": "Applications of Integers",
+"source": "Page 6",
+"visualRequired": false
+},
+{
+"id": "MATH-C01-Q025",
+"question": "Simplify: (-8) + 23 + (-32) + 17 + (-63)",
+"questionVisual": null,
+"options": [
+{
+"id": "opt1",
+"text": "-63",
+"visual": null
+},
+{
+"id": "opt2",
+"text": "-40",
+"visual": null
+},
+{
+"id": "opt3",
+"text": "63",
+"visual": null
+},
+{
+"id": "opt4",
+"text": "5",
+"visual": null
+}
+],
+"correctOptionId": "opt1",
+"explanation": "Grouping positives and negatives: (23+17) + [(-8)+(-32)+(-63)] = 40 + (-103) = -63.",
+"difficulty": "hard",
+"topic": "Addition of Integers",
+"source": "Page 12",
+"visualRequired": false
+}
+]
+}

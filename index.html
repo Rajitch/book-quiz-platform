@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#172033">
   <meta name="description" content="A free, chapter-based learning quiz game.">
-  <title>Book Quiz</title>
+  <title>Book Quiz — Visual MVP</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/style.css">
@@ -92,6 +92,7 @@
           <span id="topicText"></span>
         </div>
         <h2 id="questionText"></h2>
+        <div id="questionVisual" class="question-visual hidden" aria-label="Question visual"></div>
         <div id="options" class="options" role="radiogroup" aria-label="Answer options"></div>
         <div id="feedback" class="feedback hidden" aria-live="polite"></div>
         <div class="quiz-actions">
@@ -143,6 +144,7 @@
   <noscript>
     <div class="noscript">JavaScript is required to play this quiz.</div>
   </noscript>
+  <script src="js/svg.js" defer></script>
   <script src="js/app.js" defer></script>
 </body>
 </html>

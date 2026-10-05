@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "book": "Book name",
+  "chapter": "Chapter name",
+  "questions": [
+    {
+      "id": "BOOK-C01-Q001",
+      "question": "Question text?",
+      "questionVisual": {
+        "type": "svg",
+        "svg": "<svg viewBox=\"0 0 400 200\" xmlns=\"http://www.w3.org/2000/svg\">...</svg>",
+        "alt": "Concise description of the information shown in the visual."
+      },
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Option A",
+          "visual": null
+        },
+        {
+          "id": "opt2",
+          "text": "Option B",
+          "visual": null
+        },
+        {
+          "id": "opt3",
+          "text": "Option C",
+          "visual": null
+        },
+        {
+          "id": "opt4",
+          "text": "Option D",
+          "visual": null
+        }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "Why the correct answer is correct.",
+      "difficulty": "medium",
+      "topic": "Topic",
+      "source": "Chapter 1, page 7",
+      "visualRequired": false
+    }
+  ]
+}
