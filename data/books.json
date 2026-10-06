@@ -109,6 +109,19 @@
           "file": "data/Maths/chapter_integers-01.json"
         }
 		]
+	},
+	{
+      "id": "AI",
+      "title": "AI",
+      "chapters": [
+        {
+          "id": "ai-intro-ch01",
+          "number": 1,
+          "title": "Introduction",
+          "description": "Integers visual Questions generated.",
+          "file": "data/AI/chapter_ai_intro-01.json"
+        }
+		]
 	}
   ]
 }
