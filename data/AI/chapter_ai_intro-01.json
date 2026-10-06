@@ -1,0 +1,857 @@
+{
+  "version": 2,
+  "book": "6_AI_student",
+  "chapter": "Chapter 1: Introduction to AI and Everyday Examples",
+  "questions": [
+    {
+      "id": "AI-C01-Q001",
+      "question": "According to the chapter, which statement best captures why ancient automatons were not considered truly intelligent?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "They used water, gears, and levers.", "visual": null },
+        { "id": "opt2", "text": "They were built in ancient Egypt and Greece.", "visual": null },
+        { "id": "opt3", "text": "They could perform fixed tasks repeatedly but could not learn from experience or data.", "visual": null },
+        { "id": "opt4", "text": "They helped shape future ideas of thinking machines.", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that ancient automatons could perform fixed tasks repeatedly but could not learn from previous experience or data.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 3",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q002",
+      "question": "The chapter says AI is formed by combining which two concepts?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Computing and intelligence", "visual": null },
+        { "id": "opt2", "text": "Automation and robotics", "visual": null },
+        { "id": "opt3", "text": "Data and internet", "visual": null },
+        { "id": "opt4", "text": "Machine learning and deep learning", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter explains that computing and intelligence are the two important terms that, when combined, form AI.",
+      "difficulty": "hard",
+      "topic": "Introduction to AI",
+      "source": "Page 3",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q003",
+      "question": "Which is the best example of interpersonal intelligence as described in the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A student who notices ants carrying a leaf.", "visual": null },
+        { "id": "opt2", "text": "A student who uses headphones to avoid distraction.", "visual": null },
+        { "id": "opt3", "text": "A student who can identify bird songs.", "visual": null },
+        { "id": "opt4", "text": "A student who assigns roles to classmates based on strengths during a group project.", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The class leader example describes a student who understands others, communicates well, and helps the team work smoothly.",
+      "difficulty": "hard",
+      "topic": "Types of Intelligence",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q004",
+      "question": "A student who says, 'I know I get distracted by noise so I will put on my headphones' demonstrates which type of intelligence?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Interpersonal intelligence", "visual": null },
+        { "id": "opt2", "text": "Intrapersonal intelligence", "visual": null },
+        { "id": "opt3", "text": "Naturalistic intelligence", "visual": null },
+        { "id": "opt4", "text": "Artificial intelligence", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The daydreamer example is used to illustrate intrapersonal intelligence, or self-awareness.",
+      "difficulty": "hard",
+      "topic": "Types of Intelligence",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q005",
+      "question": "The Nature Lover example is used to illustrate which type of intelligence?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Naturalistic intelligence", "visual": null },
+        { "id": "opt2", "text": "Interpersonal intelligence", "visual": null },
+        { "id": "opt3", "text": "Intrapersonal intelligence", "visual": null },
+        { "id": "opt4", "text": "Linguistic intelligence", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The nature lover example describes a student who is smart in making sense of the natural world.",
+      "difficulty": "hard",
+      "topic": "Types of Intelligence",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q006",
+      "question": "Which statement about intelligence is supported by the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Intelligence is only the ability to solve mathematical problems.", "visual": null },
+        { "id": "opt2", "text": "Intelligence is fixed and cannot be improved.", "visual": null },
+        { "id": "opt3", "text": "Intelligence is only found in humans.", "visual": null },
+        { "id": "opt4", "text": "Intelligence is a combination of many mental abilities including learning, thinking, and adapting.", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter defines intelligence as involving the ability to learn, think, understand, solve problems, and apply knowledge effectively.",
+      "difficulty": "hard",
+      "topic": "Introduction to AI",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q007",
+      "question": "What was Alan Turing's significant question that inspired many researchers?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Can machines learn?", "visual": null },
+        { "id": "opt2", "text": "Can machines feel?", "visual": null },
+        { "id": "opt3", "text": "Can machines think?", "visual": null },
+        { "id": "opt4", "text": "Can machines create?", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that Alan Turing asked, 'Can machines think?' which inspired many researchers.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 3",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q008",
+      "question": "The Turing Test is a method to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Measure machine speed.", "visual": null },
+        { "id": "opt2", "text": "Calculate machine intelligence by seeing if a person cannot tell whether they are talking to a machine or a human.", "visual": null },
+        { "id": "opt3", "text": "Test machine memory.", "visual": null },
+        { "id": "opt4", "text": "Measure battery life.", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter describes the Turing Test as a method to calculate machine intelligence.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q009",
+      "question": "Who is known as the 'Father of Artificial Intelligence'?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Alan Turing", "visual": null },
+        { "id": "opt2", "text": "Marvin Minsky", "visual": null },
+        { "id": "opt3", "text": "Claude Shannon", "visual": null },
+        { "id": "opt4", "text": "John McCarthy", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter identifies John McCarthy as the 'Father of Artificial Intelligence'.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q010",
+      "question": "The birth of AI is associated with which year and event?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "1956; Dartmouth AI Summer Research Project", "visual": null },
+        { "id": "opt2", "text": "1940s; Turing's question", "visual": null },
+        { "id": "opt3", "text": "1980s; AI Winter", "visual": null },
+        { "id": "opt4", "text": "2000s; Modern AI", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that in 1956, Dartmouth held the first Artificial Intelligence Summer Research Project.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q011",
+      "question": "What was the AI Winter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A period when AI was first invented.", "visual": null },
+        { "id": "opt2", "text": "A period when AI became faster.", "visual": null },
+        { "id": "opt3", "text": "A period in the 1980s and 1990s when AI progress halted due to slow processors, limited memory, and high cost.", "visual": null },
+        { "id": "opt4", "text": "A period when AI was used in winter sports.", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter explains that AI progress halted in the 1980s and 1990s due to slow processors, limited memory, and high cost.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q012",
+      "question": "Which of the following is NOT listed as a founding father of AI in the chapter text?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "John McCarthy", "visual": null },
+        { "id": "opt2", "text": "Alan Turing", "visual": null },
+        { "id": "opt3", "text": "Marvin Minsky", "visual": null },
+        { "id": "opt4", "text": "Herbert A. Simon", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The text lists John McCarthy, Marvin Minsky, Claude Shannon, Herbert A. Simon, and Alan Newell as notable scientists. Alan Turing is not in that list.",
+      "difficulty": "hard",
+      "topic": "History of AI",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q013",
+      "question": "Modern AI systems differ from early AI because they:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Learn patterns from data and improve over time.", "visual": null },
+        { "id": "opt2", "text": "Only follow set rules.", "visual": null },
+        { "id": "opt3", "text": "Cannot recognize images.", "visual": null },
+        { "id": "opt4", "text": "Are slower and more expensive.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that modern AI systems began to learn patterns from data and improve their performance over time.",
+      "difficulty": "hard",
+      "topic": "Modern AI",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q014",
+      "question": "Which of the following is an example of AI in smartphones according to the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Alarm clock", "visual": null },
+        { "id": "opt2", "text": "Calculator", "visual": null },
+        { "id": "opt3", "text": "Flashlight", "visual": null },
+        { "id": "opt4", "text": "Portrait mode", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that AI also works behind features like portrait mode in smartphones.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q015",
+      "question": "Automated emails from banks about unusual transactions are an example of AI in:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Healthcare", "visual": null },
+        { "id": "opt2", "text": "Banking and finance", "visual": null },
+        { "id": "opt3", "text": "E-commerce", "visual": null },
+        { "id": "opt4", "text": "Video games", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter uses automated emails from banks as an illustration of AI in banking and finance.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q016",
+      "question": "In e-commerce, AI is used to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Diagnose diseases", "visual": null },
+        { "id": "opt2", "text": "Control traffic signals", "visual": null },
+        { "id": "opt3", "text": "Suggest products and provide personal recommendations", "visual": null },
+        { "id": "opt4", "text": "Heat food", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that AI in e-commerce suggests products, makes personal recommendations, and helps through virtual assistants and chatbots.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q017",
+      "question": "Which of the following is an example of automation, not AI?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Traditional traffic signal", "visual": null },
+        { "id": "opt2", "text": "Voice assistant", "visual": null },
+        { "id": "opt3", "text": "Face recognition", "visual": null },
+        { "id": "opt4", "text": "Smart chatbot", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter gives the example of a standard traffic signal as automation, not AI.",
+      "difficulty": "hard",
+      "topic": "Automation vs AI",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q018",
+      "question": "According to the comparison table, automation:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Can think and learn.", "visual": null },
+        { "id": "opt2", "text": "Can manage new situations.", "visual": null },
+        { "id": "opt3", "text": "Adjusts its behaviour on its own.", "visual": null },
+        { "id": "opt4", "text": "Works on fixed rules and preset instructions.", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The table states that automation works on fixed rules and preset instructions.",
+      "difficulty": "hard",
+      "topic": "Automation vs AI",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q019",
+      "question": "Which statement is true about human intelligence versus machine intelligence according to the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Machine intelligence has self-awareness.", "visual": null },
+        { "id": "opt2", "text": "Machine intelligence lacks true emotional understanding.", "visual": null },
+        { "id": "opt3", "text": "Human intelligence is faster and more accurate in many tasks.", "visual": null },
+        { "id": "opt4", "text": "Human intelligence is created using algorithms.", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The comparison table states that machine intelligence lacks true emotional understanding and simulates responses.",
+      "difficulty": "hard",
+      "topic": "Human vs Machine Intelligence",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q020",
+      "question": "Machine intelligence is created using:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Biological evolution", "visual": null },
+        { "id": "opt2", "text": "Emotions and senses", "visual": null },
+        { "id": "opt3", "text": "Algorithms and training on data", "visual": null },
+        { "id": "opt4", "text": "Self-awareness", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that machine intelligence is created using algorithms and learns patterns from data through training.",
+      "difficulty": "hard",
+      "topic": "Human vs Machine Intelligence",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q021",
+      "question": "Labelled data means:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Data with predefined labels or tags", "visual": null },
+        { "id": "opt2", "text": "Data without any tags", "visual": null },
+        { "id": "opt3", "text": "Random data", "visual": null },
+        { "id": "opt4", "text": "Incorrect data", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines labelled data as data that already has a predefined label or tag assigned to it.",
+      "difficulty": "hard",
+      "topic": "How AI Learns",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q022",
+      "question": "The teacher's notebooks with student names written on them is an analogy for:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Unlabelled data", "visual": null },
+        { "id": "opt2", "text": "Machine learning", "visual": null },
+        { "id": "opt3", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt4", "text": "Labelled data", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter compares notebooks with names to labelled data because each book already has the correct label.",
+      "difficulty": "hard",
+      "topic": "How AI Learns",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q023",
+      "question": "Machine Learning is:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A type of computer hardware.", "visual": null },
+        { "id": "opt2", "text": "A branch of AI that enables machines to learn from data without being explicitly programmed for every task.", "visual": null },
+        { "id": "opt3", "text": "A programming language.", "visual": null },
+        { "id": "opt4", "text": "A social media platform.", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter defines Machine Learning as a branch of AI that enables machines to learn from data and improve without being explicitly programmed for every task.",
+      "difficulty": "hard",
+      "topic": "Machine Learning",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q024",
+      "question": "In ML, training is the process by which:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The computer is assembled.", "visual": null },
+        { "id": "opt2", "text": "Data is deleted.", "visual": null },
+        { "id": "opt3", "text": "The model learns patterns from data.", "visual": null },
+        { "id": "opt4", "text": "The user writes code for every task.", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that training is the process by which the model learns patterns from data.",
+      "difficulty": "hard",
+      "topic": "Machine Learning",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q025",
+      "question": "Which type of machine learning uses data that already has correct answers?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Supervised learning", "visual": null },
+        { "id": "opt2", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt3", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt4", "text": "All of the above", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that supervised learning uses data that already has correct answers.",
+      "difficulty": "hard",
+      "topic": "Supervised Learning",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q026",
+      "question": "Which of the following is an example of supervised learning?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Grouping customers without labels", "visual": null },
+        { "id": "opt2", "text": "Robot navigation through trial and error", "visual": null },
+        { "id": "opt3", "text": "Anomaly detection without labels", "visual": null },
+        { "id": "opt4", "text": "Image recognition", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter lists image recognition as an example of supervised learning.",
+      "difficulty": "hard",
+      "topic": "Supervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q027",
+      "question": "Unsupervised learning is used for:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Predicting house prices with labels", "visual": null },
+        { "id": "opt2", "text": "Finding hidden patterns, structures, or groupings", "visual": null },
+        { "id": "opt3", "text": "Learning from rewards and penalties", "visual": null },
+        { "id": "opt4", "text": "Classifying handwritten digits with labels", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that unsupervised learning is used to identify hidden patterns, structures, or groupings.",
+      "difficulty": "hard",
+      "topic": "Unsupervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q028",
+      "question": "Which of the following is an example of unsupervised learning?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Medical diagnosis", "visual": null },
+        { "id": "opt2", "text": "Handwritten digit recognition", "visual": null },
+        { "id": "opt3", "text": "Document clustering", "visual": null },
+        { "id": "opt4", "text": "Game-playing AI with rewards", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists document clustering as an example of unsupervised learning.",
+      "difficulty": "hard",
+      "topic": "Unsupervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q029",
+      "question": "Reinforcement learning is based on:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Trial and error with rewards and penalties", "visual": null },
+        { "id": "opt2", "text": "Labelled data", "visual": null },
+        { "id": "opt3", "text": "Unlabelled data clustering", "visual": null },
+        { "id": "opt4", "text": "Fixed rules", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that reinforcement learning is based on trial and error.",
+      "difficulty": "hard",
+      "topic": "Reinforcement Learning",
+      "source": "Page 10",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q030",
+      "question": "In reinforcement learning, the agent is:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The environment", "visual": null },
+        { "id": "opt2", "text": "The reward", "visual": null },
+        { "id": "opt3", "text": "The data", "visual": null },
+        { "id": "opt4", "text": "The learner or decision-maker", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter explains that the agent is the learner or decision-maker.",
+      "difficulty": "hard",
+      "topic": "Reinforcement Learning",
+      "source": "Page 11",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q031",
+      "question": "Self-driving cars learning safe driving decisions is an example of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Supervised learning", "visual": null },
+        { "id": "opt2", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt3", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt4", "text": "Automation", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter lists self-driving cars as an example of reinforcement learning.",
+      "difficulty": "hard",
+      "topic": "Reinforcement Learning",
+      "source": "Page 10",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q032",
+      "question": "Which of the following is NOT one of the three fundamental concepts of Machine Learning?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Supervised learning", "visual": null },
+        { "id": "opt2", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt3", "text": "Automated learning", "visual": null },
+        { "id": "opt4", "text": "Reinforcement learning", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists supervised, unsupervised, and reinforcement learning as the three fundamental concepts.",
+      "difficulty": "hard",
+      "topic": "Machine Learning",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q033",
+      "question": "Grouping customers based on shopping habits without labels is an example of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt2", "text": "Supervised learning", "visual": null },
+        { "id": "opt3", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt4", "text": "Automation", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists customer segmentation as an unsupervised learning example.",
+      "difficulty": "hard",
+      "topic": "Unsupervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q034",
+      "question": "Predicting house prices based on past labelled data uses:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt2", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt3", "text": "None of the above", "visual": null },
+        { "id": "opt4", "text": "Supervised learning", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter lists house price prediction as a supervised learning example.",
+      "difficulty": "hard",
+      "topic": "Supervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q035",
+      "question": "A game AI improving after winning or losing uses:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Supervised learning", "visual": null },
+        { "id": "opt2", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt3", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt4", "text": "Automation", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter describes reinforcement learning as learning through rewards and penalties, often used in gaming.",
+      "difficulty": "hard",
+      "topic": "Reinforcement Learning",
+      "source": "Page 10",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q036",
+      "question": "Sorting emails into spam and not spam uses:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Unsupervised learning", "visual": null },
+        { "id": "opt2", "text": "Reinforcement learning", "visual": null },
+        { "id": "opt3", "text": "Supervised learning", "visual": null },
+        { "id": "opt4", "text": "Automation", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists email spam detection as a supervised learning example.",
+      "difficulty": "hard",
+      "topic": "Supervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q037",
+      "question": "Which statement best distinguishes AI from automation?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "AI can think, learn, and improve; automation follows fixed instructions.", "visual": null },
+        { "id": "opt2", "text": "AI uses fixed rules; automation learns from data.", "visual": null },
+        { "id": "opt3", "text": "Automation can think and learn; AI cannot.", "visual": null },
+        { "id": "opt4", "text": "Both are the same.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that AI machines can think and learn from data, while automation machines do not think or learn.",
+      "difficulty": "hard",
+      "topic": "Automation vs AI",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q038",
+      "question": "According to the chapter, Artificial Intelligence (AI) is the field of computer science that:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Makes machines intelligent, enabling them to perform tasks that usually require human intelligence.", "visual": null },
+        { "id": "opt2", "text": "Only performs mathematical calculations.", "visual": null },
+        { "id": "opt3", "text": "Uses fixed rules without learning.", "visual": null },
+        { "id": "opt4", "text": "Is a type of hardware.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines AI as the field of computer science that makes machines intelligent, enabling machines to perform tasks that usually require human intelligence.",
+      "difficulty": "hard",
+      "topic": "Introduction to AI",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q039",
+      "question": "Which of these is an example of AI in security and monitoring?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Smart thermostat", "visual": null },
+        { "id": "opt2", "text": "Face recognition and detecting unusual activities", "visual": null },
+        { "id": "opt3", "text": "Lemonade stand", "visual": null },
+        { "id": "opt4", "text": "Microwave oven", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that AI in security can detect unusual activities, recognize faces, and identify objects.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q040",
+      "question": "AI in video games is used to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Heat food.", "visual": null },
+        { "id": "opt2", "text": "Change traffic lights.", "visual": null },
+        { "id": "opt3", "text": "Improve computer players' abilities to play and make decisions.", "visual": null },
+        { "id": "opt4", "text": "Wash clothes.", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that AI is used in some video games to improve computer players' abilities to play.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q041",
+      "question": "In the chapter, OCR in scanning apps is used to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Extract text from scanned images.", "visual": null },
+        { "id": "opt2", "text": "Recognize faces.", "visual": null },
+        { "id": "opt3", "text": "Drive cars.", "visual": null },
+        { "id": "opt4", "text": "Predict weather.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that with OCR, users can extract text from scanned images of books or handwritten documents.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q042",
+      "question": "Search engines use AI to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cook food.", "visual": null },
+        { "id": "opt2", "text": "Control robots.", "visual": null },
+        { "id": "opt3", "text": "Play chess.", "visual": null },
+        { "id": "opt4", "text": "Analyze search queries and provide relevant results.", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that AI helps search engines analyze search queries and provide the most relevant results.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q043",
+      "question": "According to the chapter, which of the following is true about machine intelligence's adaptability?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It is highly adaptable to new and unpredictable situations.", "visual": null },
+        { "id": "opt2", "text": "It has limited adaptability, depends on programming and data.", "visual": null },
+        { "id": "opt3", "text": "It can learn from emotions and senses.", "visual": null },
+        { "id": "opt4", "text": "It develops naturally through biological evolution.", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The comparison table states that machine intelligence has limited adaptability, depends on programming and data.",
+      "difficulty": "hard",
+      "topic": "Human vs Machine Intelligence",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q044",
+      "question": "According to the chapter, AI systems become intelligent because they can:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Use fixed rules only.", "visual": null },
+        { "id": "opt2", "text": "Avoid data.", "visual": null },
+        { "id": "opt3", "text": "Learn from data.", "visual": null },
+        { "id": "opt4", "text": "Work without electricity.", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that AI systems become intelligent because they can learn from data.",
+      "difficulty": "hard",
+      "topic": "How AI Learns",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q045",
+      "question": "Unlabelled data means:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Data without any labels or tags.", "visual": null },
+        { "id": "opt2", "text": "Data with predefined labels.", "visual": null },
+        { "id": "opt3", "text": "Data that is incorrect.", "visual": null },
+        { "id": "opt4", "text": "Data that is deleted.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines unlabelled data as data that does not have any labels or tags assigned.",
+      "difficulty": "hard",
+      "topic": "How AI Learns",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q046",
+      "question": "Which of the following is an example of supervised learning from the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "House price prediction", "visual": null },
+        { "id": "opt2", "text": "Customer segmentation", "visual": null },
+        { "id": "opt3", "text": "Robot navigation", "visual": null },
+        { "id": "opt4", "text": "Document clustering", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists house price prediction as a supervised learning example.",
+      "difficulty": "hard",
+      "topic": "Supervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q047",
+      "question": "Which of the following is an example of unsupervised learning from the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Email spam detection", "visual": null },
+        { "id": "opt2", "text": "Anomaly detection", "visual": null },
+        { "id": "opt3", "text": "Handwritten digit recognition", "visual": null },
+        { "id": "opt4", "text": "Medical diagnosis", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter lists anomaly detection as an example of unsupervised learning.",
+      "difficulty": "hard",
+      "topic": "Unsupervised Learning",
+      "source": "Page 9",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q048",
+      "question": "In reinforcement learning, the environment provides:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Labelled data", "visual": null },
+        { "id": "opt2", "text": "Unlabelled data", "visual": null },
+        { "id": "opt3", "text": "Feedback as reward or penalty", "visual": null },
+        { "id": "opt4", "text": "Fixed instructions", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter explains that after an action, the environment provides feedback as a reward or penalty.",
+      "difficulty": "hard",
+      "topic": "Reinforcement Learning",
+      "source": "Page 11",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q049",
+      "question": "Which of the following statements about AI and daily life is supported by the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "AI is used in many daily applications, often without people realizing it.", "visual": null },
+        { "id": "opt2", "text": "AI is only used in advanced research.", "visual": null },
+        { "id": "opt3", "text": "AI is not used in smartphones.", "visual": null },
+        { "id": "opt4", "text": "AI cannot recognize speech.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that AI has become an important part of daily lives and is used in many ways, most of the time people don't even know it.",
+      "difficulty": "hard",
+      "topic": "AI in Daily Life",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "AI-C01-Q050",
+      "question": "Which statement about human and machine intelligence is supported by the chapter?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Both have self-awareness.", "visual": null },
+        { "id": "opt2", "text": "Human intelligence is capable of original thought, creativity, and imagination; machine intelligence has relatively limited creativity.", "visual": null },
+        { "id": "opt3", "text": "Machine intelligence has faster processing speed but human intelligence is always more accurate.", "visual": null },
+        { "id": "opt4", "text": "Human intelligence learns only from data.", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The comparison table states that human intelligence is capable of original thought, creativity, and imagination, while machine intelligence has relatively limited creativity.",
+      "difficulty": "hard",
+      "topic": "Human vs Machine Intelligence",
+      "source": "Page 7",
+      "visualRequired": false
+    }
+  ]
+}
