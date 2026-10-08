@@ -1,0 +1,1011 @@
+{
+  "version": 2,
+  "book": "Science Textbook",
+  "chapter": "Mindful Eating: A Path to a Healthy Body",
+  "questions": [
+    {
+      "id": "MIND-EAT-C03-Q001",
+      "question": "According to the chapter, which of the following best defines \"food\"?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Any substance people cook and eat at mealtimes", "visual": null },
+        { "id": "opt2", "text": "Any edible item that supplies instant energy for work", "visual": null },
+        { "id": "opt3", "text": "A substance eaten to work, grow, maintain the body, and stay healthy", "visual": null },
+        { "id": "opt4", "text": "Any substance that supplies only proteins, vitamins and minerals", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter defines food as a substance eaten by us to do work, grow, maintain our body and remain healthy. The other options describe only partial or incorrect functions of food.",
+      "difficulty": "easy",
+      "topic": "Food and its definition",
+      "source": "Page 1, Introduction",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q002",
+      "question": "The chapter lists seven components of food. Which one of the following is NOT a component of food?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Calories", "visual": null },
+        { "id": "opt2", "text": "Carbohydrates", "visual": null },
+        { "id": "opt3", "text": "Fats", "visual": null },
+        { "id": "opt4", "text": "Vitamins", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The seven components of food listed in the chapter are carbohydrates, fats, proteins, vitamins, minerals, water and dietary fibre. Calories is a unit of energy, not a component of food.",
+      "difficulty": "easy",
+      "topic": "Components of food",
+      "source": "Page 3, Components of Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q003",
+      "question": "What colour is produced when a few drops of dilute iodine solution are added to a food item containing starch?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Brown", "visual": null },
+        { "id": "opt2", "text": "Violet", "visual": null },
+        { "id": "opt3", "text": "Bright yellow", "visual": null },
+        { "id": "opt4", "text": "Blue-black", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that iodine produces a blue-black colour on combination with starch. A food item that gives a blue-black colour on adding dilute iodine solution contains starch.",
+      "difficulty": "easy",
+      "topic": "Test for carbohydrates (starch)",
+      "source": "Page 9, Test for the Presence of Starch in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q004",
+      "question": "In the test for proteins, copper sulphate solution is made alkaline by mixing it with which of the following?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Dilute iodine solution", "visual": null },
+        { "id": "opt2", "text": "Dilute sodium hydroxide solution", "visual": null },
+        { "id": "opt3", "text": "Dilute hydrochloric acid", "visual": null },
+        { "id": "opt4", "text": "Sodium chloride solution", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that copper sulphate solution is made alkaline by mixing sodium hydroxide solution. Sodium hydroxide solution is also known as caustic soda solution.",
+      "difficulty": "easy",
+      "topic": "Test for proteins",
+      "source": "Page 12, Test for Proteins in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q005",
+      "question": "According to the chapter, which vitamin is produced in our body when the skin is exposed to sunlight?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin B1", "visual": null },
+        { "id": "opt3", "text": "Vitamin D", "visual": null },
+        { "id": "opt4", "text": "Vitamin C", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that some vitamin D is made in our body when the skin is exposed to sunlight. Newborn babies are exposed to sunshine every day to produce vitamin D in their body, which prevents rickets.",
+      "difficulty": "easy",
+      "topic": "Vitamin D",
+      "source": "Page 6, Vitamin D",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q006",
+      "question": "Which one of the following is a millet?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Ragi", "visual": null },
+        { "id": "opt2", "text": "Rajma", "visual": null },
+        { "id": "opt3", "text": "Masoor", "visual": null },
+        { "id": "opt4", "text": "Maize", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists finger millet (Ragi) as one of the important millets. The other millets mentioned are pearl millet (Bajra), sorghum (Jowar) and barnyard millet (Sanwa). Rajma, masoor and maize are not listed as millets.",
+      "difficulty": "easy",
+      "topic": "Millets",
+      "source": "Page 18, Millets: Nutrition-Rich Cereals",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q007",
+      "question": "Which of the following is a good source of calcium?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Wheat", "visual": null },
+        { "id": "opt2", "text": "Milk", "visual": null },
+        { "id": "opt3", "text": "Rice", "visual": null },
+        { "id": "opt4", "text": "Potato", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that milk, cheese, eggs, green leafy vegetables and fish are good sources of calcium. Wheat and rice contain very little calcium.",
+      "difficulty": "easy",
+      "topic": "Minerals — Calcium",
+      "source": "Page 7, Calcium",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q008",
+      "question": "The deficiency of which mineral in the diet leads to anaemia?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Calcium", "visual": null },
+        { "id": "opt2", "text": "Iodine", "visual": null },
+        { "id": "opt3", "text": "Sodium", "visual": null },
+        { "id": "opt4", "text": "Iron", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that deficiency of iron in the diet leads to a disease called anaemia. Iron is needed to make haemoglobin present in red blood cells.",
+      "difficulty": "easy",
+      "topic": "Minerals — Iron",
+      "source": "Page 15, Deficiency of Iron",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q009",
+      "question": "The deficiency of which vitamin causes night blindness?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin B1", "visual": null },
+        { "id": "opt3", "text": "Vitamin C", "visual": null },
+        { "id": "opt4", "text": "Vitamin D", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the deficiency of vitamin A in the diet causes a disease known as night blindness — the inability of a person to see properly in dim light, especially at night.",
+      "difficulty": "easy",
+      "topic": "Vitamin deficiency diseases",
+      "source": "Page 13, Deficiency of Vitamin A",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q010",
+      "question": "What is meant by the term \"food miles\"?",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The distance between a farm and the nearest market", "visual": null },
+        { "id": "opt2", "text": "The total weight of food transported by a truck", "visual": null },
+        { "id": "opt3", "text": "The entire distance travelled by a bag of food from producer to consumer", "visual": null },
+        { "id": "opt4", "text": "The number of miles a farmer walks while working in the field", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter defines food miles as the entire distance travelled by a bag of wheat (or any other food) from the producer to the consumer.",
+      "difficulty": "easy",
+      "topic": "Food miles",
+      "source": "Page 20, Food on Our Plate",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q011",
+      "question": "A student adds a few drops of dilute iodine solution to a food item and observes that the solution remains brown. What can be concluded about the food item?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It contains fat", "visual": null },
+        { "id": "opt2", "text": "It does not contain starch", "visual": null },
+        { "id": "opt3", "text": "It contains protein", "visual": null },
+        { "id": "opt4", "text": "It does not contain any carbohydrate", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that a food item which does not produce a blue-black colour on adding dilute iodine solution does not contain starch (the solution remains brown). Option D is incorrect because glucose and cane sugar are carbohydrates that also do not give a blue-black colour with iodine.",
+      "difficulty": "medium",
+      "topic": "Test for carbohydrates (starch)",
+      "source": "Page 9, Test for the Presence of Starch in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q012",
+      "question": "A food item is rubbed on a brown paper and the paper is held towards a source of light. A bright, greasy patch is seen. The food item most likely contains:",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fat", "visual": null },
+        { "id": "opt2", "text": "Starch", "visual": null },
+        { "id": "opt3", "text": "Protein", "visual": null },
+        { "id": "opt4", "text": "Minerals", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that fats produce a greasy patch when rubbed on a clean sheet of paper. The greasy patch is translucent and appears bright when the paper is held towards a source of light.",
+      "difficulty": "medium",
+      "topic": "Test for fats",
+      "source": "Page 10, Test for the Presence of Fat in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q013",
+      "question": "Which of the following food items is obtained from an animal source?",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Groundnut oil", "visual": null },
+        { "id": "opt2", "text": "Coconut oil", "visual": null },
+        { "id": "opt3", "text": "Sunflower oil", "visual": null },
+        { "id": "opt4", "text": "Ghee", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that oil is a plant product (extracted from oil-seeds) but ghee is an animal product (made from milk). Groundnut, coconut and sunflower oils are all plant products.",
+      "difficulty": "medium",
+      "topic": "Plant and animal sources of food",
+      "source": "Page 2, Food Items and Their Ingredients",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q014",
+      "question": "A little butter provides much more energy than a large slice of bread. According to the chapter, what is the reason for this?",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fats are more easily digested than carbohydrates", "visual": null },
+        { "id": "opt2", "text": "Carbohydrates cannot provide energy to the body", "visual": null },
+        { "id": "opt3", "text": "Fats provide twice as much energy as the same amount of carbohydrates", "visual": null },
+        { "id": "opt4", "text": "Bread contains more water than butter", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that fats provide us twice as much energy as that provided by the same amount of carbohydrates. Therefore, a little butter (a fat) provides much more energy than a large slice of bread (a carbohydrate).",
+      "difficulty": "medium",
+      "topic": "Fats",
+      "source": "Page 4, Fats",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q015",
+      "question": "A marathon runner drinks glucose solution during a race. According to the chapter, why is glucose able to provide instant energy?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It is the most complex carbohydrate and is absorbed slowly", "visual": null },
+        { "id": "opt2", "text": "It is the simplest carbohydrate and is easily absorbed by the blood", "visual": null },
+        { "id": "opt3", "text": "It contains more calories than any other food", "visual": null },
+        { "id": "opt4", "text": "It is a fat that provides energy quickly", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that glucose is the simplest form of carbohydrate which is easily absorbed by the blood. Since glucose is immediately absorbed in the blood, it produces energy in a very short time and provides instant energy.",
+      "difficulty": "medium",
+      "topic": "Carbohydrates — Glucose",
+      "source": "Page 4, Carbohydrates",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q016",
+      "question": "What is the main difference between fats and oils as stated in the chapter?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "comparison",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fats are animal products while oils are plant products", "visual": null },
+        { "id": "opt2", "text": "Fats provide energy while oils do not", "visual": null },
+        { "id": "opt3", "text": "Fats are found in milk while oils are found only in nuts", "visual": null },
+        { "id": "opt4", "text": "Fats are solids at room temperature while oils are liquids at room temperature", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that fats and oils are similar substances, the only difference being that fats are solids at room temperature whereas oils are liquids at room temperature. Both can be obtained from plants and animals.",
+      "difficulty": "medium",
+      "topic": "Fats and oils",
+      "source": "Page 4, Fats",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q017",
+      "question": "Dietary fibre is mainly made of an indigestible carbohydrate called:",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Starch", "visual": null },
+        { "id": "opt2", "text": "Glucose", "visual": null },
+        { "id": "opt3", "text": "Cellulose", "visual": null },
+        { "id": "opt4", "text": "Cane sugar", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that dietary fibre is mainly made of an indigestible carbohydrate called cellulose, which is present in plant cell walls.",
+      "difficulty": "medium",
+      "topic": "Dietary fibre (Roughage)",
+      "source": "Page 8, Dietary Fibres (or Roughage)",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q018",
+      "question": "Which of the following is a function of water in our body?",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It helps regulate body temperature by sweating and evaporation", "visual": null },
+        { "id": "opt2", "text": "It provides energy for doing work", "visual": null },
+        { "id": "opt3", "text": "It helps in building new cells", "visual": null },
+        { "id": "opt4", "text": "It supplies proteins to the body cells", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that water controls and regulates the temperature of our body by the process of sweating and evaporation. Water also transports digested food and hormones, and helps remove waste products.",
+      "difficulty": "medium",
+      "topic": "Water",
+      "source": "Page 8, Water",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q019",
+      "question": "A person boils rice in a large amount of water and then throws away the extra water. According to the chapter, this practice leads to the loss of:",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Only fats", "visual": null },
+        { "id": "opt2", "text": "Only carbohydrates", "visual": null },
+        { "id": "opt3", "text": "Only dietary fibre", "visual": null },
+        { "id": "opt4", "text": "Some proteins and considerable amount of minerals", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that if the excess water in which a food material is boiled during cooking is thrown away, then some of the proteins and considerable amount of minerals present in the food are lost.",
+      "difficulty": "medium",
+      "topic": "Wasteful cooking practices",
+      "source": "Page 17, Avoid Wasteful Pre-Cooking and Cooking Practices",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q020",
+      "question": "Iodised salt is the common salt containing small amounts of an iodine salt called:",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Sodium chloride", "visual": null },
+        { "id": "opt2", "text": "Potassium iodide", "visual": null },
+        { "id": "opt3", "text": "Calcium carbonate", "visual": null },
+        { "id": "opt4", "text": "Iron sulphate", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that iodised salt is the common salt containing small amounts of an iodine salt called potassium iodide. This iodised salt makes up the deficiency of iodine in the body and prevents goitre disease.",
+      "difficulty": "medium",
+      "topic": "Minerals — Iodine",
+      "source": "Page 14, Deficiency of Iodine",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q021",
+      "question": "Wholemeal flour is made from the entire wheat grains from which:",
+      "questionType": "mcq",
+      "cognitiveType": "recall",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The bran has not been removed", "visual": null },
+        { "id": "opt2", "text": "The starch has been removed", "visual": null },
+        { "id": "opt3", "text": "The protein has been removed", "visual": null },
+        { "id": "opt4", "text": "The bran has been removed", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines wholemeal flour as the flour made from the entire wheat grains from which bran is not removed. Wholemeal flour products include wholemeal chapati and wholemeal bread.",
+      "difficulty": "medium",
+      "topic": "Dietary fibre — related terms",
+      "source": "Page 8, Dietary Fibres (or Roughage) — terms: wholemeal flour, feces, constipation",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q022",
+      "question": "According to the chapter, a balanced diet must contain:",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Only proteins, carbohydrates and fats in adequate amounts", "visual": null },
+        { "id": "opt2", "text": "Only the nutrients that provide energy to the body", "visual": null },
+        { "id": "opt3", "text": "All nutrients in adequate amounts, plus water and dietary fibre", "visual": null },
+        { "id": "opt4", "text": "Only vitamins and minerals, which are protective nutrients", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter defines a balanced diet as the diet which contains adequate amounts of all the nutrients such as carbohydrates, fats, proteins, vitamins and minerals, sufficient for the normal growth and development of the body. A balanced diet also contains sufficient amount of water and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Balanced diet",
+      "source": "Page 15, Balanced Diet",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q023",
+      "question": "Eating too much of fat-rich foods like samosa, tikki and poori can lead to a disease called:",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Anaemia", "visual": null },
+        { "id": "opt2", "text": "Obesity", "visual": null },
+        { "id": "opt3", "text": "Scurvy", "visual": null },
+        { "id": "opt4", "text": "Rickets", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that eating too much of fat-rich foods is harmful for our health and can lead to a disease called obesity (motapa).",
+      "difficulty": "medium",
+      "topic": "Balanced diet and health",
+      "source": "Page 16, Dependence of Diet on Occupation",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q024",
+      "question": "The table shows nutritional information per 100 g of two foods, X and Y. Based on the chapter's discussion of junk foods, which food is more likely to be a junk food?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "case-study",
+      "questionVisual": {
+        "type": "svg",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 230\" width=\"480\" height=\"230\"><rect x=\"5\" y=\"5\" width=\"470\" height=\"220\" fill=\"#ffffff\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"5\" y1=\"42\" x2=\"475\" y2=\"42\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"5\" y1=\"77\" x2=\"475\" y2=\"77\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"5\" y1=\"112\" x2=\"475\" y2=\"112\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"5\" y1=\"147\" x2=\"475\" y2=\"147\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"5\" y1=\"182\" x2=\"475\" y2=\"182\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"195\" y1=\"5\" x2=\"195\" y2=\"225\" stroke=\"#333333\" stroke-width=\"1\"/><line x1=\"335\" y1=\"5\" x2=\"335\" y2=\"225\" stroke=\"#333333\" stroke-width=\"1\"/><text x=\"100\" y=\"28\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#000000\">Nutrient</text><text x=\"265\" y=\"28\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#000000\">Food X</text><text x=\"405\" y=\"28\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#000000\">Food Y</text><text x=\"100\" y=\"63\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">Carbohydrates</text><text x=\"265\" y=\"63\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">50 g</text><text x=\"405\" y=\"63\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">55 g</text><text x=\"100\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">Fats</text><text x=\"265\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">35 g</text><text x=\"405\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">6 g</text><text x=\"100\" y=\"133\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">Proteins</text><text x=\"265\" y=\"133\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">7 g</text><text x=\"405\" y=\"133\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">19 g</text><text x=\"100\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">Dietary fibre</text><text x=\"265\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">5 g</text><text x=\"405\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">17 g</text><text x=\"100\" y=\"203\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">Energy</text><text x=\"265\" y=\"203\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">535 Cal</text><text x=\"405\" y=\"203\" text-anchor=\"middle\" font-size=\"13\" fill=\"#000000\">355 Cal</text></svg>",
+        "alt": "Table showing nutritional information per 100 g of Food X and Food Y. Food X has 50 g carbohydrates, 35 g fats, 7 g proteins, 5 g dietary fibre and 535 Calories. Food Y has 55 g carbohydrates, 6 g fats, 19 g proteins, 17 g dietary fibre and 355 Calories."
+      },
+      "options": [
+        { "id": "opt1", "text": "Food Y, because it has more carbohydrates", "visual": null },
+        { "id": "opt2", "text": "Food Y, because it has more dietary fibre", "visual": null },
+        { "id": "opt3", "text": "Food X, because it has more carbohydrates", "visual": null },
+        { "id": "opt4", "text": "Food X, because it has more fats and high energy", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter identifies junk foods as foods high in calories due to high sugar and fat content but with very small amounts of nutrients like proteins, vitamins, minerals and dietary fibre. Food X has more fats (35 g) and high energy (535 Calories) with less proteins and dietary fibre, matching the description of a junk food.",
+      "difficulty": "hard",
+      "topic": "Junk foods",
+      "source": "Page 17, Junk Foods — Sample Problem",
+      "visualRequired": true
+    },
+    {
+      "id": "MIND-EAT-C03-Q025",
+      "question": "Vitamin D helps our body to:",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Make haemoglobin in the blood", "visual": null },
+        { "id": "opt2", "text": "Increase resistance to infection", "visual": null },
+        { "id": "opt3", "text": "Absorb calcium mineral from the food", "visual": null },
+        { "id": "opt4", "text": "Make new cells for growth", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that vitamin D helps our body to absorb calcium mineral from the food. This calcium makes the bones and teeth hard and strong.",
+      "difficulty": "medium",
+      "topic": "Vitamin D",
+      "source": "Page 6, Vitamin D",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q026",
+      "question": "White rice does not contain vitamin B1, whereas brown rice does. Based on the chapter, what is the most likely reason?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The bran layer containing vitamin B1 is removed in a rice mill", "visual": null },
+        { "id": "opt2", "text": "White rice is cooked at a much higher temperature than brown rice", "visual": null },
+        { "id": "opt3", "text": "White rice is polished with chemicals that destroy vitamin B1", "visual": null },
+        { "id": "opt4", "text": "White rice contains more starch, which prevents absorption of vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter explains that brown rice is whole grain rice from which the brown-coloured thin bran layer is not removed. This bran layer contains a lot of vitamin B1. In white rice, the bran layer is removed during processing in a rice mill, so white rice does not contain vitamin B1.",
+      "difficulty": "medium",
+      "topic": "Vitamin B1",
+      "source": "Page 6, Vitamin B1",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q027",
+      "question": "A child suffering from rickets is found to have bow legs and a pigeon-type chest. Which of the following pairs of deficiencies could BOTH independently cause this condition in the child?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Deficiency of vitamin A and deficiency of iron", "visual": null },
+        { "id": "opt2", "text": "Deficiency of vitamin C and deficiency of iodine", "visual": null },
+        { "id": "opt3", "text": "Deficiency of vitamin B1 and deficiency of iron", "visual": null },
+        { "id": "opt4", "text": "Deficiency of vitamin D and deficiency of calcium", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that rickets is a children's disease caused by the deficiency of vitamin D as well as by the deficiency of calcium in the diet. Vitamin D helps absorb calcium; when either is deficient, bones remain soft and bend, causing bow legs and pigeon-type chest.",
+      "difficulty": "hard",
+      "topic": "Deficiency diseases — Rickets",
+      "source": "Page 14, Deficiency of Vitamin D and Deficiency of Calcium",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q028",
+      "question": "Goitre disease is more common in hilly areas but does not occur in coastal areas. Based on the chapter, which of the following best explains this pattern?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Hilly areas have colder climates that damage the thyroid gland badly", "visual": null },
+        { "id": "opt2", "text": "Hilly areas have food and water poor in iodine; coastal people eat seafood rich in iodine", "visual": null },
+        { "id": "opt3", "text": "Coastal areas have more hospitals, so goitre cases are not reported there", "visual": null },
+        { "id": "opt4", "text": "People in hilly areas do not use iodised salt, while coastal people eat fruits", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that goitre is more common in hilly areas because the drinking water and food grown in such areas are poor in iodine. It does not occur in coastal areas because coastal people eat a lot of seafood (like sea fish) which contains good amount of iodine.",
+      "difficulty": "hard",
+      "topic": "Deficiency diseases — Goitre",
+      "source": "Page 14, Deficiency of Iodine",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q029",
+      "question": "A food sample is tested and found to give a violet colour with alkaline copper sulphate solution. The same sample, when tested with iodine solution, shows no blue-black colour. What does this indicate about the sample?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It contains protein but not starch", "visual": null },
+        { "id": "opt2", "text": "It contains starch but not protein", "visual": null },
+        { "id": "opt3", "text": "It contains both protein and starch", "visual": null },
+        { "id": "opt4", "text": "It contains neither protein nor starch", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The violet colour with alkaline copper sulphate solution indicates the presence of protein. The absence of blue-black colour with iodine solution indicates the absence of starch. Therefore, the sample contains protein but not starch.",
+      "difficulty": "hard",
+      "topic": "Tests for nutrients",
+      "source": "Page 12, Test for Proteins in Food; Page 9, Test for the Presence of Starch in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q030",
+      "question": "A person suffering from anaemia looks pale, feels very weak and tires easily. According to the chapter, which of the following best explains why this happens?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The bones become soft and weak due to low calcium", "visual": null },
+        { "id": "opt2", "text": "The thyroid gland stops working due to low iodine", "visual": null },
+        { "id": "opt3", "text": "The blood cannot carry enough oxygen due to low haemoglobin", "visual": null },
+        { "id": "opt4", "text": "The gums begin to bleed due to lack of vitamin C", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that iron deficiency leads to anaemia, in which the level of haemoglobin in the blood is less than normal, reducing the oxygen-carrying capacity of blood. Due to insufficient oxygen reaching body cells, the person looks pale, feels weak and tires easily.",
+      "difficulty": "hard",
+      "topic": "Deficiency diseases — Anaemia",
+      "source": "Page 15, Deficiency of Iron",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q031",
+      "question": "A camel stores food in the form of fat in its hump, and a polar bear stores fat under its skin. Based on the chapter, what is the main purpose of this stored fat in both animals?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "To keep their bodies warm in cold weather", "visual": null },
+        { "id": "opt2", "text": "To make their bodies heavier so they can walk more steadily", "visual": null },
+        { "id": "opt3", "text": "To help them absorb more calcium from their food", "visual": null },
+        { "id": "opt4", "text": "To provide a source of energy when fresh food is not available", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter explains that many animals convert excess food into fat and store it for later use. Camels store fat in their humps and polar bears store fat under their skin; this stored fat is used as a source of energy to survive when fresh food is not available (in the desert for camels, during hibernation for polar bears).",
+      "difficulty": "hard",
+      "topic": "Fats — stored energy",
+      "source": "Page 5, Fats",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q032",
+      "question": "The chapter states that children and sportspersons both need large amounts of proteins, but for different reasons. Which of the following correctly pairs each with its reason?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Children — to build muscles; sportspersons — to grow rapidly", "visual": null },
+        { "id": "opt2", "text": "Children — for rapid growth of the body; sportspersons — to build their muscles", "visual": null },
+        { "id": "opt3", "text": "Children — to repair wounds; sportspersons — to digest food", "visual": null },
+        { "id": "opt4", "text": "Children — to increase haemoglobin; sportspersons — to make new cells", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that children need more proteins than adults because of the rapid growth of their body, while sportspersons need large amounts of proteins to build their muscles.",
+      "difficulty": "hard",
+      "topic": "Proteins",
+      "source": "Page 5, Proteins",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q033",
+      "question": "A student has four unknown food samples. Sample P gives a blue-black colour with iodine solution. Sample Q gives a violet colour with alkaline copper sulphate solution. Sample R leaves a translucent patch on brown paper. Sample S gives no colour change with either iodine or copper sulphate solution. Which option correctly identifies the major nutrient in each sample?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "P — starch; Q — protein; R — fat; S — neither starch, protein nor fat", "visual": null },
+        { "id": "opt2", "text": "P — protein; Q — starch; R — fat; S — vitamin", "visual": null },
+        { "id": "opt3", "text": "P — starch; Q — fat; R — protein; S — mineral", "visual": null },
+        { "id": "opt4", "text": "P — fat; Q — protein; R — starch; S — carbohydrate", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that starch gives a blue-black colour with iodine solution, proteins give a violet colour with alkaline copper sulphate solution, and fats leave a translucent greasy patch on paper. Sample S shows no reaction to any of these tests, so it contains none of these three nutrients.",
+      "difficulty": "hard",
+      "topic": "Tests for nutrients",
+      "source": "Pages 9–12, Tests for Food Nutrients",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q034",
+      "question": "A patient complains of bleeding gums, wounds that do not heal, and loosening of teeth. A blood test shows low haemoglobin. Which combination of nutrient deficiencies best explains all these symptoms?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "case-study",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin C and iron", "visual": null },
+        { "id": "opt2", "text": "Vitamin A and calcium", "visual": null },
+        { "id": "opt3", "text": "Vitamin D and iodine", "visual": null },
+        { "id": "opt4", "text": "Vitamin B1 and iron", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that vitamin C deficiency causes scurvy, with symptoms of bleeding gums, loosening of teeth and wounds that do not heal easily. Iron deficiency leads to anaemia, in which haemoglobin level in the blood is less than normal. Together, these two deficiencies explain all the symptoms.",
+      "difficulty": "hard",
+      "topic": "Deficiency diseases",
+      "source": "Page 13, Deficiency of Vitamin C; Page 15, Deficiency of Iron",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q035",
+      "question": "A student argues that a person eating only chapati and rice every day is eating a balanced diet because both are staple foods. Based on the chapter, why is this argument incorrect?",
+      "questionType": "mcq",
+      "cognitiveType": "evaluate",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A balanced diet must contain all nutrients in adequate amounts, which chapati and rice alone cannot provide", "visual": null },
+        { "id": "opt2", "text": "A balanced diet must contain only protein-rich foods, which chapati and rice are not", "visual": null },
+        { "id": "opt3", "text": "A balanced diet must contain only fat-rich foods, which chapati and rice are not", "visual": null },
+        { "id": "opt4", "text": "A balanced diet must contain only fruits and vegetables, which chapati and rice are not", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that no single food item can provide us all the essential nutrients in adequate amounts. A balanced diet must include a number of different food items that together supply all nutrients. Chapati and rice are mainly carbohydrate-rich foods and lack adequate proteins, vitamins, minerals and dietary fibre.",
+      "difficulty": "hard",
+      "topic": "Balanced diet",
+      "source": "Page 15, Balanced Diet",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q036",
+      "question": "Wheat produced in Punjab is consumed in Tamil Nadu, about 1500 miles away. According to the chapter, which of the following is a disadvantage of such large food miles?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The wheat loses all its nutrients during the long transportation", "visual": null },
+        { "id": "opt2", "text": "The wheat becomes unfit for making chapati after transport", "visual": null },
+        { "id": "opt3", "text": "The farmers in Punjab stop growing wheat for distant markets", "visual": null },
+        { "id": "opt4", "text": "The cost of transportation gets added to the cost of food", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that large food miles is a disadvantage because when food is transported to far off places, the cost of transportation is too much. This cost gets added to the cost of food and hence the food becomes more expensive.",
+      "difficulty": "hard",
+      "topic": "Food miles",
+      "source": "Page 20, Food on Our Plate",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q037",
+      "question": "A family decides to buy vegetables and fruits only from local farmers instead of buying produce transported from far-off places. Based on the chapter, which of the following would NOT be a result of this decision?",
+      "questionType": "mcq",
+      "cognitiveType": "evaluate",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Reduction in the cost of transporting food", "visual": null },
+        { "id": "opt2", "text": "Reduction in pollution from burning diesel in trucks", "visual": null },
+        { "id": "opt3", "text": "Increase in the amount of food wasted during transportation", "visual": null },
+        { "id": "opt4", "text": "Increase in the freshness of the food consumed", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists the advantages of reducing food miles by eating locally produced food: cutting down the cost of transporting food, cutting down pollution from burning diesel, keeping food fresh and healthier, and supporting local farmers economically. Increasing food wastage during transportation is not a result of buying locally.",
+      "difficulty": "hard",
+      "topic": "Food miles",
+      "source": "Page 20, Food on Our Plate",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q038",
+      "question": "Both water and dietary fibre do not provide any nutrients to our body, yet both are essential in our food. Which of the following correctly states the role of each?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Water transports digested food and controls temperature; fibre prevents constipation", "visual": null },
+        { "id": "opt2", "text": "Water helps in digestion; dietary fibre regulates body temperature", "visual": null },
+        { "id": "opt3", "text": "Water prevents constipation; dietary fibre transports hormones", "visual": null },
+        { "id": "opt4", "text": "Water provides energy; dietary fibre builds new cells in the body", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that water transports digested food to body cells, transports hormones, removes waste products through urine and sweat, and regulates body temperature by sweating and evaporation. Dietary fibre provides bulk to the food, keeps food and waste matter moving along the intestines, and helps prevent constipation.",
+      "difficulty": "hard",
+      "topic": "Water and Dietary fibre",
+      "source": "Pages 8, Water and Dietary Fibres",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q039",
+      "question": "Vitamins and minerals are called \"protective nutrients.\" Based on the chapter, which of the following best explains why they are given this name?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "They protect the body from starvation by providing energy", "visual": null },
+        { "id": "opt2", "text": "They protect the body from various diseases and keep us healthy", "visual": null },
+        { "id": "opt3", "text": "They protect the food from getting spoiled during cooking", "visual": null },
+        { "id": "opt4", "text": "They protect the body from obesity by reducing fat content", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that vitamins and minerals are called protective nutrients because they protect our body from various diseases and keep us healthy.",
+      "difficulty": "medium",
+      "topic": "Vitamins and Minerals",
+      "source": "Page 7, Iron — protective nutrients statement at end of minerals section",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q040",
+      "question": "A student tests glucose, cane sugar, and starch separately with dilute iodine solution. What will the student observe?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "All three will give a blue-black colour", "visual": null },
+        { "id": "opt2", "text": "Only glucose will give a blue-black colour", "visual": null },
+        { "id": "opt3", "text": "Glucose and cane sugar will give blue-black, but starch will not", "visual": null },
+        { "id": "opt4", "text": "Only starch will give a blue-black colour", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that glucose is a carbohydrate but does not give a blue-black colour with iodine solution. Similarly, cane sugar is a carbohydrate but does not give a blue-black colour. It is only starch carbohydrate which gives a blue-black colour with iodine solution.",
+      "difficulty": "medium",
+      "topic": "Test for carbohydrates (starch)",
+      "source": "Page 10, To Test the Presence of Starch in Flour",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q041",
+      "question": "When iodine solution is added to a piece of boiled egg-white, no blue-black colour is produced. When alkaline copper sulphate solution is added to egg-white, a violet colour appears. What can be concluded about egg-white?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It contains protein but no starch", "visual": null },
+        { "id": "opt2", "text": "It contains starch but no protein", "visual": null },
+        { "id": "opt3", "text": "It contains both starch and protein", "visual": null },
+        { "id": "opt4", "text": "It contains neither starch nor protein", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The absence of blue-black colour with iodine solution shows that egg-white does not contain starch. The violet colour with alkaline copper sulphate solution shows that egg-white contains proteins. The chapter confirms that egg-white is made up mainly of proteins and does not show the test for starch.",
+      "difficulty": "hard",
+      "topic": "Tests for nutrients",
+      "source": "Page 10, To Test the Presence of Starch in Flour; Page 12, To Test the Presence of Proteins in Milk",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q042",
+      "question": "A student performs the protein test on a food sample. The solution remains blue after adding sodium hydroxide and copper sulphate solutions. What does this show?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The food contains starch", "visual": null },
+        { "id": "opt2", "text": "The food contains fat", "visual": null },
+        { "id": "opt3", "text": "The food does not contain protein", "visual": null },
+        { "id": "opt4", "text": "The food contains vitamin C", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that if the solution remains blue (which is the colour of copper sulphate solution), then protein is not present in the given foodstuff. A violet colour would indicate the presence of protein.",
+      "difficulty": "medium",
+      "topic": "Test for proteins",
+      "source": "Page 12, Test for Proteins in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q043",
+      "question": "A greasy patch formed by rubbing butter on paper appears bright when the paper is held towards a source of light. Based on the chapter's explanation, why does the patch appear bright?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The patch reflects light back to the eye more than the rest of the paper", "visual": null },
+        { "id": "opt2", "text": "The patch absorbs all the light falling on it", "visual": null },
+        { "id": "opt3", "text": "The patch contains starch which shines in light", "visual": null },
+        { "id": "opt4", "text": "The patch is translucent, so some light passes through it", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter explains that the greasy patch produced by a fat on paper is translucent — it allows light to pass through it partially. Since some light passes through it, a greasy patch appears to be bright as compared to the rest of the paper.",
+      "difficulty": "medium",
+      "topic": "Test for fats",
+      "source": "Page 10, Test for Fat in Food",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q044",
+      "question": "A very small child is fed a diet that is deficient in both proteins and carbohydrates over a long period. Which disease is the child most likely to develop?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Kwashiorkor", "visual": null },
+        { "id": "opt2", "text": "Marasmus", "visual": null },
+        { "id": "opt3", "text": "Scurvy", "visual": null },
+        { "id": "opt4", "text": "Goitre", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that the deficiency of proteins as well as carbohydrates in the diet of very small children (babies) causes a disease known as marasmus. Kwashiorkor is caused by deficiency of proteins alone in small children.",
+      "difficulty": "medium",
+      "topic": "Deficiency diseases — Marasmus",
+      "source": "Page 13, Deficiency diseases",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q045",
+      "question": "A person's muscles have become very weak and he has very little energy to do work. He is also at risk of heart failure. Which vitamin deficiency is he most likely suffering from?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "application",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin B1", "visual": null },
+        { "id": "opt2", "text": "Vitamin A", "visual": null },
+        { "id": "opt3", "text": "Vitamin C", "visual": null },
+        { "id": "opt4", "text": "Vitamin D", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the deficiency of vitamin B1 in food causes a disease known as beri-beri. The symptoms are: the muscles of the person become very weak and he has very little energy to do work. The person may suffer heart failure or become paralysed.",
+      "difficulty": "medium",
+      "topic": "Deficiency diseases — Beri-beri",
+      "source": "Page 13, Deficiency of Vitamin B1",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q046",
+      "question": "A sailor on a long voyage eats only dry biscuits and no fresh fruits or vegetables. Which disease is he most likely to develop, and why?",
+      "questionType": "mcq",
+      "cognitiveType": "apply",
+      "assessmentCategory": "case-study",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Rickets, because his diet lacks calcium", "visual": null },
+        { "id": "opt2", "text": "Night blindness, because his diet lacks vitamin A", "visual": null },
+        { "id": "opt3", "text": "Scurvy, because his diet lacks vitamin C", "visual": null },
+        { "id": "opt4", "text": "Anaemia, because his diet lacks iron", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that the deficiency of vitamin C causes a disease known as scurvy, with symptoms of bleeding gums, loosening of teeth, and wounds that do not heal easily. Vitamin C is present in citrus fruits, amla, tomato, guava and green vegetables. A diet of only dry biscuits without fresh fruits or vegetables lacks vitamin C.",
+      "difficulty": "hard",
+      "topic": "Deficiency diseases — Scurvy",
+      "source": "Page 13, Deficiency of Vitamin C",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q047",
+      "question": "The chapter states that almost all fresh fruits and vegetables contain some vitamin C. A person cooks all vegetables at high temperature and eats no raw fruits. Which of the following is the most likely consequence?",
+      "questionType": "mcq",
+      "cognitiveType": "evaluate",
+      "assessmentCategory": "HOTS",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "He will get plenty of vitamin C from the cooked vegetables", "visual": null },
+        { "id": "opt2", "text": "He may develop vitamin C deficiency because heat destroys vitamin C", "visual": null },
+        { "id": "opt3", "text": "He will develop vitamin A deficiency because he eats no fruits", "visual": null },
+        { "id": "opt4", "text": "He will get vitamin C from the water used for boiling", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that vitamin C gets destroyed easily by heat during cooking. When food is cooked at a high temperature (boiling, steaming, roasting, baking or frying), the excessive heat destroys a major portion of vitamin C. The chapter advises including some fresh fruits and raw vegetables (as salad) in our food to get the required vitamin C.",
+      "difficulty": "hard",
+      "topic": "Wasteful cooking practices",
+      "source": "Page 17, Avoid Wasteful Pre-Cooking and Cooking Practices",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q048",
+      "question": "In the journey of wheat from farm to plate, at which stage are the wheat grains packed in gunny bags and transported to godowns?",
+      "questionType": "mcq",
+      "cognitiveType": "understand",
+      "assessmentCategory": "direct",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "After grinding at the flour mill", "visual": null },
+        { "id": "opt2", "text": "After harvesting but before threshing", "visual": null },
+        { "id": "opt3", "text": "After being sold by the retail shop", "visual": null },
+        { "id": "opt4", "text": "After threshing and winnowing", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter describes the journey of wheat: after the wheat crop is harvested, the plants are subjected to threshing and winnowing to obtain wheat grains. These grains are then packed in gunny bags and transported by trucks from the farm to godowns for storage.",
+      "difficulty": "easy",
+      "topic": "Journey of food from farm to plate",
+      "source": "Page 20, Storage of Grains",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q049",
+      "question": "According to the chapter, why do hosts at weddings and other social functions often cook too much food, and what is the consequence?",
+      "questionType": "mcq",
+      "cognitiveType": "analyze",
+      "assessmentCategory": "case-study",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "They want to show off their wealth; the extra food is donated to the poor", "visual": null },
+        { "id": "opt2", "text": "They want to feed the local farmers; the extra food is given to them", "visual": null },
+        { "id": "opt3", "text": "They want to avoid food shortage; part of it remains un-eaten and wasted", "visual": null },
+        { "id": "opt4", "text": "They want to reduce food miles; the extra food is transported elsewhere", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that in order to avoid the risk of shortage of food for a large gathering, the hosts cook too much food. A part of this cooked food usually remains un-eaten resulting in food wastage. Preparing too much food at weddings and other social functions is a major cause of food wastage in our country.",
+      "difficulty": "medium",
+      "topic": "Wastage of food",
+      "source": "Page 21, Cooking Too Much Food at Weddings",
+      "visualRequired": false
+    },
+    {
+      "id": "MIND-EAT-C03-Q050",
+      "question": "A person eats a diet consisting mainly of potato wafers, burgers, and carbonated drinks every day. Based on the chapter, which of the following sets of health problems is he most likely to face over a long period?",
+      "questionType": "mcq",
+      "cognitiveType": "evaluate",
+      "assessmentCategory": "case-study",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Obesity, diabetes, and heart diseases", "visual": null },
+        { "id": "opt2", "text": "Night blindness, beri-beri, and scurvy", "visual": null },
+        { "id": "opt3", "text": "Rickets, goitre, and anaemia", "visual": null },
+        { "id": "opt4", "text": "Marasmus, kwashiorkor, and obesity", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that eating too much junk food can lead to unnecessary weight gain called obesity. An obese person may suffer from several health-related problems including diabetes (high sugar disease) and heart diseases in the long run. Potato wafers, burgers and carbonated drinks are listed as examples of junk foods.",
+      "difficulty": "hard",
+      "topic": "Junk foods and health",
+      "source": "Page 17, Junk Foods",
+      "visualRequired": false
+    }
+  ]
+}

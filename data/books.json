@@ -133,6 +133,13 @@
           "title": "Mindful eating",
           "description": "Mindful eating visual Questions generated.",
           "file": "data/Biology/chapter_mindful_eating-01.json"
+        },
+		{
+          "id": "chapter_mindful_eating_hots",
+          "number": 2,
+          "title": "Mindful eating hots",
+          "description": "Mindful eating visual Questions generated.",
+          "file": "data/Biology/chapter_mindful_eating_hots-02.json"
         }
 		]
 	}
