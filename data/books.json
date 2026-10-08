@@ -122,6 +122,19 @@
           "file": "data/AI/chapter_ai_intro-01.json"
         }
 		]
+	},
+	{
+      "id": "Biology",
+      "title": "Biology",
+      "chapters": [
+        {
+          "id": "chapter_mindful_eating",
+          "number": 1,
+          "title": "Introduction",
+          "description": "Mindful eating visual Questions generated.",
+          "file": "data/Biology/chapter_mindful_eating-01.json"
+        }
+		]
 	}
   ]
 }

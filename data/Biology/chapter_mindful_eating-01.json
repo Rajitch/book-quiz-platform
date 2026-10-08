@@ -1,0 +1,1707 @@
+{
+  "version": 2,
+  "book": "Mindful Eating",
+  "chapter": "Chapter 1: Mindful Eating: A Path to a Healthy Body",
+  "questions": [
+    {
+      "id": "ME-C01-Q001",
+      "question": "What is the primary function of food in our body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It provides matter for growth and energy to do work.", "visual": null },
+        { "id": "opt2", "text": "It only provides taste and flavour.", "visual": null },
+        { "id": "opt3", "text": "It only helps in digestion.", "visual": null },
+        { "id": "opt4", "text": "It only helps in breathing.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines food as a substance eaten by us to do work, grow, maintain our body, and remain healthy.",
+      "difficulty": "easy",
+      "topic": "Introduction to Food",
+      "source": "Page 1",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q002",
+      "question": "The materials that are combined to make a particular dish are called:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Nutrients", "visual": null },
+        { "id": "opt2", "text": "Ingredients", "visual": null },
+        { "id": "opt3", "text": "Components", "visual": null },
+        { "id": "opt4", "text": "Vitamins", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that any of the foods or substances which are combined to make a particular dish are called ingredients.",
+      "difficulty": "easy",
+      "topic": "Food Items and Ingredients",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q003",
+      "question": "Which of the following is the correct pair of ingredients needed to prepare boiled rice?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Rice and oil", "visual": null },
+        { "id": "opt2", "text": "Rice and salt", "visual": null },
+        { "id": "opt3", "text": "Rice and water", "visual": null },
+        { "id": "opt4", "text": "Rice and milk", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that to prepare boiled rice, raw rice and water are needed.",
+      "difficulty": "easy",
+      "topic": "Food Items and Ingredients",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q004",
+      "question": "Chapati is made using which two ingredients?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Rice and water", "visual": null },
+        { "id": "opt2", "text": "Flour and oil", "visual": null },
+        { "id": "opt3", "text": "Flour and salt", "visual": null },
+        { "id": "opt4", "text": "Flour and water", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that chapati is made of only two ingredients: flour (atta) and water.",
+      "difficulty": "easy",
+      "topic": "Food Items and Ingredients",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q005",
+      "question": "Ghee is an example of which type of food product?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Animal product", "visual": null },
+        { "id": "opt2", "text": "Plant product", "visual": null },
+        { "id": "opt3", "text": "Mineral product", "visual": null },
+        { "id": "opt4", "text": "Synthetic product", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that ghee is made from milk and is an animal product.",
+      "difficulty": "easy",
+      "topic": "Food Items and Ingredients",
+      "source": "Page 2",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q006",
+      "question": "The main carbohydrate that we eat in our food is:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Glucose", "visual": null },
+        { "id": "opt2", "text": "Starch", "visual": null },
+        { "id": "opt3", "text": "Cane sugar", "visual": null },
+        { "id": "opt4", "text": "Cellulose", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that the main carbohydrate that we eat in our food is starch, which comes from cereals like wheat and rice.",
+      "difficulty": "easy",
+      "topic": "Carbohydrates",
+      "source": "Page 3",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q007",
+      "question": "Which carbohydrate provides instant energy to the body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Starch", "visual": null },
+        { "id": "opt2", "text": "Cane sugar", "visual": null },
+        { "id": "opt3", "text": "Glucose", "visual": null },
+        { "id": "opt4", "text": "Cellulose", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that glucose provides instant energy because it is immediately absorbed in the blood.",
+      "difficulty": "easy",
+      "topic": "Carbohydrates",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q008",
+      "question": "Compared to the same amount of carbohydrates, fats provide:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Half the energy", "visual": null },
+        { "id": "opt2", "text": "The same energy", "visual": null },
+        { "id": "opt3", "text": "One-third the energy", "visual": null },
+        { "id": "opt4", "text": "Twice the energy", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that fats provide us twice as much energy as that provided by the same amount of carbohydrates.",
+      "difficulty": "easy",
+      "topic": "Fats",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q009",
+      "question": "Which of the following statements about fats and oils is correct?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fats are solids at room temperature, while oils are liquids.", "visual": null },
+        { "id": "opt2", "text": "Fats are liquids at room temperature, while oils are solids.", "visual": null },
+        { "id": "opt3", "text": "Both fats and oils are solids at room temperature.", "visual": null },
+        { "id": "opt4", "text": "Both fats and oils are liquids at room temperature.", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that fats and oils are similar substances, the only difference being that fats are solids at room temperature whereas oils are liquids at room temperature.",
+      "difficulty": "medium",
+      "topic": "Fats",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q010",
+      "question": "The primary function of proteins in our body is:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Providing instant energy", "visual": null },
+        { "id": "opt2", "text": "Growth and repair of the body", "visual": null },
+        { "id": "opt3", "text": "Regulating body temperature", "visual": null },
+        { "id": "opt4", "text": "Transporting oxygen", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that proteins supply the body with materials to make new cells which build the body and make it grow, and repair damaged body cells.",
+      "difficulty": "easy",
+      "topic": "Proteins",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q011",
+      "question": "Vitamin A is necessary for:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Good eyesight, healthy skin and hair", "visual": null },
+        { "id": "opt2", "text": "Healthy teeth and gums", "visual": null },
+        { "id": "opt3", "text": "Clotting of blood", "visual": null },
+        { "id": "opt4", "text": "Making haemoglobin", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that vitamin A protects the eyes, skin and hair, and is necessary for good eyesight, healthy skin and hair.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q012",
+      "question": "Which vitamin is essential for the proper functioning of the digestive system, heart, nerves and muscles?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin C", "visual": null },
+        { "id": "opt3", "text": "Vitamin D", "visual": null },
+        { "id": "opt4", "text": "Vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that vitamin B1 is essential for growth and proper functioning of the digestive system, heart, nerves and muscles.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q013",
+      "question": "Vitamin C is necessary for keeping teeth, gums and joints healthy, and also increases the body's resistance to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Infection and helps to fight diseases", "visual": null },
+        { "id": "opt2", "text": "Absorbing calcium", "visual": null },
+        { "id": "opt3", "text": "Clotting of blood", "visual": null },
+        { "id": "opt4", "text": "Producing hormones", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that vitamin C increases the resistance of our body to infection and helps to fight diseases.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q014",
+      "question": "Vitamin D helps our body to absorb which mineral from food?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Iron", "visual": null },
+        { "id": "opt2", "text": "Calcium", "visual": null },
+        { "id": "opt3", "text": "Iodine", "visual": null },
+        { "id": "opt4", "text": "Phosphorus", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that vitamin D helps our body to absorb calcium mineral from food, which makes bones and teeth hard and strong.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q015",
+      "question": "Which mineral is needed for making bones and teeth, and also helps in the clotting of blood?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Iron", "visual": null },
+        { "id": "opt2", "text": "Iodine", "visual": null },
+        { "id": "opt3", "text": "Calcium", "visual": null },
+        { "id": "opt4", "text": "Sodium", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that calcium is needed for making bones and teeth, and also helps in the proper functioning of heart and other muscles, as well as in the clotting of blood.",
+      "difficulty": "easy",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q016",
+      "question": "Iodine is essential for the proper functioning of which gland in our body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Pituitary gland", "visual": null },
+        { "id": "opt2", "text": "Adrenal gland", "visual": null },
+        { "id": "opt3", "text": "Pancreas", "visual": null },
+        { "id": "opt4", "text": "Thyroid gland", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that iodine is essential for the proper functioning of the thyroid gland which controls the growth of the body.",
+      "difficulty": "easy",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q017",
+      "question": "Iron is needed to make which substance present in red blood cells?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Haemoglobin", "visual": null },
+        { "id": "opt2", "text": "Insulin", "visual": null },
+        { "id": "opt3", "text": "Thyroxine", "visual": null },
+        { "id": "opt4", "text": "Vitamin D", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that iron is needed to make haemoglobin present in red blood cells, which carries oxygen from the lungs to the body parts.",
+      "difficulty": "easy",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q018",
+      "question": "Which of the following is NOT a function of water in our body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "To transport digested food", "visual": null },
+        { "id": "opt2", "text": "To release energy from food", "visual": null },
+        { "id": "opt3", "text": "To get rid of waste products", "visual": null },
+        { "id": "opt4", "text": "To control and regulate body temperature", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that water has no food value and lists its functions as transporting digested food, transporting chemicals, getting rid of wastes, and regulating temperature. Releasing energy is not a function of water.",
+      "difficulty": "medium",
+      "topic": "Water",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q019",
+      "question": "Dietary fibre is mainly made of an indigestible carbohydrate called:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Starch", "visual": null },
+        { "id": "opt2", "text": "Glucose", "visual": null },
+        { "id": "opt3", "text": "Cellulose", "visual": null },
+        { "id": "opt4", "text": "Cane sugar", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that dietary fibre is mainly made of an indigestible carbohydrate called cellulose, which is present in plant cell walls.",
+      "difficulty": "easy",
+      "topic": "Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q020",
+      "question": "When a few drops of dilute iodine solution are added to a food sample, a blue-black colour appears. This indicates the presence of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Protein", "visual": null },
+        { "id": "opt2", "text": "Fat", "visual": null },
+        { "id": "opt3", "text": "Mineral", "visual": null },
+        { "id": "opt4", "text": "Starch", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that iodine produces a blue-black colour on combination with starch, so a food item giving blue-black colour contains starch.",
+      "difficulty": "easy",
+      "topic": "Tests for Nutrients",
+      "source": "Pages 9-10",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q021",
+      "question": "A bright translucent patch appears when a food item is rubbed on a brown paper and held towards light. This indicates the presence of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fat", "visual": null },
+        { "id": "opt2", "text": "Starch", "visual": null },
+        { "id": "opt3", "text": "Protein", "visual": null },
+        { "id": "opt4", "text": "Vitamin", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the formation of a greasy translucent patch on paper shows the presence of fat in the food.",
+      "difficulty": "easy",
+      "topic": "Tests for Nutrients",
+      "source": "Pages 10-11",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q022",
+      "question": "When alkaline copper sulphate solution is added to a food sample, a violet colour appears. This indicates the presence of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Starch", "visual": null },
+        { "id": "opt2", "text": "Protein", "visual": null },
+        { "id": "opt3", "text": "Fat", "visual": null },
+        { "id": "opt4", "text": "Mineral", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that if a violet colour appears in the solution, then protein is present in the given foodstuff.",
+      "difficulty": "easy",
+      "topic": "Tests for Nutrients",
+      "source": "Page 12",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q023",
+      "question": "Night blindness is caused by the deficiency of which vitamin?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin B1", "visual": null },
+        { "id": "opt2", "text": "Vitamin C", "visual": null },
+        { "id": "opt3", "text": "Vitamin A", "visual": null },
+        { "id": "opt4", "text": "Vitamin D", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that the deficiency of vitamin A in the diet causes night blindness.",
+      "difficulty": "easy",
+      "topic": "Vitamin Deficiency Diseases",
+      "source": "Page 13",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q024",
+      "question": "The deficiency of vitamin B1 causes which disease?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Scurvy", "visual": null },
+        { "id": "opt2", "text": "Rickets", "visual": null },
+        { "id": "opt3", "text": "Night blindness", "visual": null },
+        { "id": "opt4", "text": "Beri-beri", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that the deficiency of vitamin B1 in food causes a disease known as beri-beri.",
+      "difficulty": "easy",
+      "topic": "Vitamin Deficiency Diseases",
+      "source": "Page 13",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q025",
+      "question": "Which of the following are symptoms of scurvy?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Bleeding from gums, loosening of teeth, and wounds not healing easily", "visual": null },
+        { "id": "opt2", "text": "Bow legs and pigeon-type chest", "visual": null },
+        { "id": "opt3", "text": "Weak muscles and heart failure", "visual": null },
+        { "id": "opt4", "text": "Swollen neck and mental disability", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the symptoms of vitamin C deficiency (scurvy) are bleeding from the gums, loosening of teeth, and wounds not healing easily.",
+      "difficulty": "easy",
+      "topic": "Vitamin Deficiency Diseases",
+      "source": "Page 13",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q026",
+      "question": "The deficiency of which vitamin causes rickets in children?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin D", "visual": null },
+        { "id": "opt3", "text": "Vitamin B1", "visual": null },
+        { "id": "opt4", "text": "Vitamin C", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that the deficiency of vitamin D in the diet of small children causes a disease known as rickets.",
+      "difficulty": "easy",
+      "topic": "Vitamin Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q027",
+      "question": "The abnormal enlargement of the thyroid gland is called:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cretinism", "visual": null },
+        { "id": "opt2", "text": "Anaemia", "visual": null },
+        { "id": "opt3", "text": "Goitre", "visual": null },
+        { "id": "opt4", "text": "Rickets", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that the deficiency of iodine in the diet of an adult causes goitre, which is the abnormal enlargement of the thyroid gland.",
+      "difficulty": "easy",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q028",
+      "question": "Anaemia is caused by the deficiency of which mineral in the diet?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Calcium", "visual": null },
+        { "id": "opt2", "text": "Iodine", "visual": null },
+        { "id": "opt3", "text": "Sodium", "visual": null },
+        { "id": "opt4", "text": "Iron", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that the deficiency of iron in the diet leads to a disease called anaemia.",
+      "difficulty": "easy",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 15",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q029",
+      "question": "A balanced diet is one that contains:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Adequate amounts of all nutrients along with water and dietary fibre", "visual": null },
+        { "id": "opt2", "text": "Only carbohydrates and fats", "visual": null },
+        { "id": "opt3", "text": "Only proteins and vitamins", "visual": null },
+        { "id": "opt4", "text": "Only fruits and vegetables", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines a balanced diet as the diet which contains adequate amounts of all nutrients such as carbohydrates, fats, proteins, vitamins and minerals, along with sufficient water and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Balanced Diet",
+      "source": "Page 15",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q030",
+      "question": "Why does a growing child need more proteins than a grown-up man in relation to body weight?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Because children eat more food", "visual": null },
+        { "id": "opt2", "text": "Because extra protein is needed to make body tissues of the fast-growing child", "visual": null },
+        { "id": "opt3", "text": "Because children have weaker digestion", "visual": null },
+        { "id": "opt4", "text": "Because children need more energy", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that a growing child needs more proteins because extra protein is needed to make the body tissues of the fast-growing child.",
+      "difficulty": "medium",
+      "topic": "Balanced Diet",
+      "source": "Pages 15-16",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q031",
+      "question": "A labourer needs more carbohydrates in his diet than a man doing normal work because:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "He needs more energy for doing hard physical work", "visual": null },
+        { "id": "opt2", "text": "He needs more proteins for muscle building", "visual": null },
+        { "id": "opt3", "text": "He needs more vitamins for immunity", "visual": null },
+        { "id": "opt4", "text": "He needs more minerals for bones", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that a man doing hard physical work needs more carbohydrates because he needs more energy for doing hard physical work.",
+      "difficulty": "medium",
+      "topic": "Balanced Diet",
+      "source": "Page 16",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q032",
+      "question": "Eating too much of fat-rich foods can lead to which disease?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Anaemia", "visual": null },
+        { "id": "opt2", "text": "Scurvy", "visual": null },
+        { "id": "opt3", "text": "Rickets", "visual": null },
+        { "id": "opt4", "text": "Obesity", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that eating too much of fat-rich foods can lead to a disease called obesity (motapa).",
+      "difficulty": "easy",
+      "topic": "Junk Foods",
+      "source": "Page 16",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q033",
+      "question": "Which of the following is a wasteful pre-cooking practice that leads to loss of nutrients?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Washing fruits and vegetables after peeling and cutting them", "visual": null },
+        { "id": "opt2", "text": "Washing fruits and vegetables before peeling", "visual": null },
+        { "id": "opt3", "text": "Cooking food at low temperature", "visual": null },
+        { "id": "opt4", "text": "Using thin peels", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that washing of fruits and vegetables after they have been peeled and cut removes water-soluble vitamins and some minerals, lowering their nutritive value.",
+      "difficulty": "medium",
+      "topic": "Cooking Practices",
+      "source": "Page 16",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q034",
+      "question": "Which vitamin is easily destroyed by heat during cooking?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin C", "visual": null },
+        { "id": "opt3", "text": "Vitamin D", "visual": null },
+        { "id": "opt4", "text": "Vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that vitamin C gets destroyed easily by heat during cooking.",
+      "difficulty": "easy",
+      "topic": "Cooking Practices",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q035",
+      "question": "Junk foods are high in calories due to high sugar and fat content but contain very small amounts of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Carbohydrates", "visual": null },
+        { "id": "opt2", "text": "Calories", "visual": null },
+        { "id": "opt3", "text": "Proteins, vitamins, minerals and dietary fibre", "visual": null },
+        { "id": "opt4", "text": "Sugar", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that junk foods are high in calories but contain very small amounts of nutrients like proteins, vitamins, minerals, and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Junk Foods",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q036",
+      "question": "In the sample problem, Food X has 35 g fat, 7 g protein, 5 g dietary fibre, and 535 Calories. Food X can be termed as:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A nutritious food", "visual": null },
+        { "id": "opt2", "text": "A healthy food", "visual": null },
+        { "id": "opt3", "text": "A balanced diet", "visual": null },
+        { "id": "opt4", "text": "A junk food", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that Food X can be termed a junk food because it contains more fats, less proteins, less dietary fibre, and high energy.",
+      "difficulty": "medium",
+      "topic": "Junk Foods",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q037",
+      "question": "Which of the following is NOT a millet?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Pearl millet (Bajra)", "visual": null },
+        { "id": "opt2", "text": "Sorghum (Jowar)", "visual": null },
+        { "id": "opt3", "text": "Rajma", "visual": null },
+        { "id": "opt4", "text": "Finger millet (Ragi)", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists Pearl millet (Bajra), Sorghum (Jowar), Finger millet (Ragi), and Barnyard millet (Sanwa) as millets. Rajma is a pulse, not a millet.",
+      "difficulty": "easy",
+      "topic": "Millets",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q038",
+      "question": "The entire distance travelled by a bag of wheat from the producer to the consumer is called its:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Journey", "visual": null },
+        { "id": "opt2", "text": "Food miles", "visual": null },
+        { "id": "opt3", "text": "Transport route", "visual": null },
+        { "id": "opt4", "text": "Distribution chain", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter defines food miles as the entire distance travelled by a bag of wheat (or any other food) from the producer to the consumer.",
+      "difficulty": "easy",
+      "topic": "Food Miles",
+      "source": "Page 20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q039",
+      "question": "Which of the following is NOT an advantage of reducing food miles?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It cuts down the cost of transporting food", "visual": null },
+        { "id": "opt2", "text": "It cuts down pollution", "visual": null },
+        { "id": "opt3", "text": "It increases the cost of food", "visual": null },
+        { "id": "opt4", "text": "It helps support local farmers", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that reducing food miles cuts down the cost of transporting food, cuts pollution, keeps food fresh, and supports local farmers. It does not increase the cost of food.",
+      "difficulty": "medium",
+      "topic": "Food Miles",
+      "source": "Page 20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q040",
+      "question": "Which of the following is a cause of food wastage?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Eating a balanced diet", "visual": null },
+        { "id": "opt2", "text": "Cooking too much food at weddings and social functions", "visual": null },
+        { "id": "opt3", "text": "Storing leftover food in a refrigerator", "visual": null },
+        { "id": "opt4", "text": "Putting only that much food in the plate which can be finished", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that cooking too much food at weddings and other social functions is a major cause of food wastage.",
+      "difficulty": "medium",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q041",
+      "question": "The function of carbohydrates in our body is:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "To provide energy", "visual": null },
+        { "id": "opt2", "text": "To build new cells", "visual": null },
+        { "id": "opt3", "text": "To repair damaged cells", "visual": null },
+        { "id": "opt4", "text": "To fight diseases", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that carbohydrates provide energy to our body.",
+      "difficulty": "easy",
+      "topic": "Carbohydrates",
+      "source": "Page 3",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q042",
+      "question": "Which of the following is a plant source of fats?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Butter", "visual": null },
+        { "id": "opt2", "text": "Groundnut oil", "visual": null },
+        { "id": "opt3", "text": "Ghee", "visual": null },
+        { "id": "opt4", "text": "Egg yolk", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter lists groundnut oil, mustard oil, coconut oil, sunflower oil, soyabean oil, groundnuts, til and nuts as plant sources of fats.",
+      "difficulty": "easy",
+      "topic": "Fats",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q043",
+      "question": "Which of the following is an animal source of proteins?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Pulses", "visual": null },
+        { "id": "opt2", "text": "Peas", "visual": null },
+        { "id": "opt3", "text": "Fish", "visual": null },
+        { "id": "opt4", "text": "Soyabean", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists milk, cheese, fish, meat, chicken and eggs as the main sources of animal proteins.",
+      "difficulty": "easy",
+      "topic": "Proteins",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q044",
+      "question": "Which vitamin is present in good amounts in brown rice but not in white rice?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin C", "visual": null },
+        { "id": "opt3", "text": "Vitamin D", "visual": null },
+        { "id": "opt4", "text": "Vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that the thin bran layer on brown rice contains a lot of vitamin B1, which is removed during the processing of rice to make white rice.",
+      "difficulty": "medium",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q045",
+      "question": "Our body needs approximately how much water every day?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "2 to 3 litres", "visual": null },
+        { "id": "opt2", "text": "500 mL", "visual": null },
+        { "id": "opt3", "text": "5 to 6 litres", "visual": null },
+        { "id": "opt4", "text": "1 litre", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that our body needs about 2 to 3 litres of water everyday.",
+      "difficulty": "easy",
+      "topic": "Water",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q046",
+      "question": "Which two components of food do not provide any nutrients to our body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Carbohydrates and proteins", "visual": null },
+        { "id": "opt2", "text": "Water and dietary fibre", "visual": null },
+        { "id": "opt3", "text": "Fats and vitamins", "visual": null },
+        { "id": "opt4", "text": "Minerals and vitamins", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that water has no food value and dietary fibre also does not provide any nutrients to our body, though their presence is essential.",
+      "difficulty": "medium",
+      "topic": "Water and Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+  {
+  "id": "ME-C01-Q047",
+  "question": "Which of the following substances does NOT give a blue-black colour with iodine solution?",
+  "questionVisual": null,
+  "options": [
+    { "id": "opt1", "text": "Starch", "visual": null },
+    { "id": "opt2", "text": "Glucose", "visual": null },
+    { "id": "opt3", "text": "Bread", "visual": null },
+    { "id": "opt4", "text": "Potato", "visual": null }
+  ],
+  "correctOptionId": "opt2",
+  "explanation": "The chapter states that glucose is also a carbohydrate but it does not give a blue-black colour with iodine solution. It is only starch carbohydrate which gives a blue-black colour with iodine solution. Bread and potato contain starch, so they do give a blue-black colour.",
+  "difficulty": "medium",
+  "topic": "Tests for Nutrients",
+  "source": "Page 10",
+  "visualRequired": false
+},
+    {
+      "id": "ME-C01-Q048",
+      "question": "Why is brown paper preferred over white paper for testing the presence of fat in food?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It is cheaper than white paper", "visual": null },
+        { "id": "opt2", "text": "The greasy patch appears more prominent on it", "visual": null },
+        { "id": "opt3", "text": "It is thicker than white paper", "visual": null },
+        { "id": "opt4", "text": "It absorbs more oil than white paper", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that though we can use a white sheet of paper for testing fat in food, the greasy patch appears more prominent on a brown paper.",
+      "difficulty": "medium",
+      "topic": "Tests for Nutrients",
+      "source": "Page 10",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q049",
+      "question": "Which of the following food items does NOT contain starch?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Boiled egg white", "visual": null },
+        { "id": "opt2", "text": "Potato", "visual": null },
+        { "id": "opt3", "text": "Rice", "visual": null },
+        { "id": "opt4", "text": "Bread", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that egg white is made up mainly of proteins and does not show the test for starch.",
+      "difficulty": "medium",
+      "topic": "Tests for Nutrients",
+      "source": "Page 10",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q050",
+      "question": "The symptoms of beri-beri include all of the following EXCEPT:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Weak muscles", "visual": null },
+        { "id": "opt2", "text": "Night blindness", "visual": null },
+        { "id": "opt3", "text": "Little energy to do work", "visual": null },
+        { "id": "opt4", "text": "Heart failure", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "Night blindness is caused by vitamin A deficiency, not beri-beri. Beri-beri symptoms include weak muscles, little energy, heart failure and paralysis.",
+      "difficulty": "medium",
+      "topic": "Vitamin Deficiency Diseases",
+      "source": "Page 13",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q051",
+      "question": "Rickets is caused by the deficiency of which two nutrients?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Iron and vitamin C", "visual": null },
+        { "id": "opt2", "text": "Iodine and vitamin A", "visual": null },
+        { "id": "opt3", "text": "Vitamin D and calcium", "visual": null },
+        { "id": "opt4", "text": "Protein and vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that rickets is a children's disease caused by the deficiency of vitamin D as well as by the deficiency of calcium in the diet.",
+      "difficulty": "medium",
+      "topic": "Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q052",
+      "question": "Goitre is more common in hilly areas because:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The food and water in hilly areas are rich in iodine", "visual": null },
+        { "id": "opt2", "text": "People in hilly areas eat more seafood", "visual": null },
+        { "id": "opt3", "text": "The food and water in hilly areas are poor in iodine", "visual": null },
+        { "id": "opt4", "text": "People in hilly areas eat more carbohydrates", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that goitre is more common in hilly areas because the drinking water and food grown in such areas are poor in iodine.",
+      "difficulty": "medium",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q053",
+      "question": "Which of the following is a symptom of anaemia?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "The person looks pale and feels very weak", "visual": null },
+        { "id": "opt2", "text": "Bow legs", "visual": null },
+        { "id": "opt3", "text": "Bleeding gums", "visual": null },
+        { "id": "opt4", "text": "Swollen neck", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the main symptoms of anaemia are: the person looks pale, feels very weak, tires easily, and loses weight.",
+      "difficulty": "medium",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 15",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q054",
+      "question": "Which of the following is NOT a source of carbohydrates in our food?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Wheat", "visual": null },
+        { "id": "opt2", "text": "Jaggery", "visual": null },
+        { "id": "opt3", "text": "Honey", "visual": null },
+        { "id": "opt4", "text": "Fish", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter lists cereals, potatoes, sweet potato, sugar, jaggery, honey, and fruits as sources of carbohydrates. Fish is a protein-rich food.",
+      "difficulty": "medium",
+      "topic": "Carbohydrates",
+      "source": "Pages 3-4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q055",
+      "question": "Which of the following is the richest source of energy?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Carbohydrates", "visual": null },
+        { "id": "opt2", "text": "Proteins", "visual": null },
+        { "id": "opt3", "text": "Fats", "visual": null },
+        { "id": "opt4", "text": "Vitamins", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that fats are the richest source of energy but they are more expensive than carbohydrates.",
+      "difficulty": "medium",
+      "topic": "Fats",
+      "source": "Page 4",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q056",
+      "question": "Which of the following food items is a source of both fats and proteins?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Potato", "visual": null },
+        { "id": "opt2", "text": "Bread", "visual": null },
+        { "id": "opt3", "text": "Honey", "visual": null },
+        { "id": "opt4", "text": "Egg", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter lists eggs as a source of animal fats and also as a source of animal proteins.",
+      "difficulty": "medium",
+      "topic": "Nutrients",
+      "source": "Pages 4-5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q057",
+      "question": "The deficiency of which mineral causes cretinism in children?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Iodine", "visual": null },
+        { "id": "opt2", "text": "Iron", "visual": null },
+        { "id": "opt3", "text": "Calcium", "visual": null },
+        { "id": "opt4", "text": "Sodium", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the deficiency of iodine in the diet of children causes a disease known as cretinism.",
+      "difficulty": "medium",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q058",
+      "question": "Which of the following practices helps in preventing the loss of nutrients during cooking?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cooking food at high temperature", "visual": null },
+        { "id": "opt2", "text": "Adding fresh fruits and raw vegetables to the diet", "visual": null },
+        { "id": "opt3", "text": "Throwing away water in which food is boiled", "visual": null },
+        { "id": "opt4", "text": "Taking off thick peels from fruits and vegetables", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that we should include some fresh fruits and raw vegetables in our food to get the required vitamin C, which is destroyed by heat during cooking.",
+      "difficulty": "medium",
+      "topic": "Cooking Practices",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q059",
+      "question": "According to the sample problem, Food Y has 55 g carbohydrates, 6 g fats, 19 g proteins, 17 g dietary fibre, and 355 Calories. Food Y is considered:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "A junk food", "visual": null },
+        { "id": "opt2", "text": "Unhealthy", "visual": null },
+        { "id": "opt3", "text": "A nutritious food", "visual": null },
+        { "id": "opt4", "text": "High in fat", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that Food Y is a more nutritious food because it contains less fats, more proteins, more dietary fibre, and low energy.",
+      "difficulty": "medium",
+      "topic": "Junk Foods",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q060",
+      "question": "Millets are rich in which of the following?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Only carbohydrates", "visual": null },
+        { "id": "opt2", "text": "Only fats", "visual": null },
+        { "id": "opt3", "text": "Only sugar", "visual": null },
+        { "id": "opt4", "text": "Proteins, vitamins, minerals, and dietary fibre", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that millets are highly nutritious food grains rich in proteins, vitamins (such as B-vitamins), minerals (like calcium and iron), and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Millets",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q061",
+      "question": "Which of the following is NOT a source of vitamin C?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Orange", "visual": null },
+        { "id": "opt2", "text": "Amla", "visual": null },
+        { "id": "opt3", "text": "Guava", "visual": null },
+        { "id": "opt4", "text": "Milk", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter lists citrus fruits, amla, tomato, guava, and green vegetables as sources of vitamin C. Milk is a source of vitamin A, B1, and D.",
+      "difficulty": "medium",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q062",
+      "question": "Which of the following food items is a good source of iodine?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Wheat", "visual": null },
+        { "id": "opt2", "text": "Sea fish", "visual": null },
+        { "id": "opt3", "text": "Rice", "visual": null },
+        { "id": "opt4", "text": "Potato", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter lists seafood (like sea fish), fruits, vegetables, and iodised salt as sources of iodine.",
+      "difficulty": "medium",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q063",
+      "question": "Which of the following is a good source of iron?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Milk", "visual": null },
+        { "id": "opt2", "text": "Cheese", "visual": null },
+        { "id": "opt3", "text": "Spinach", "visual": null },
+        { "id": "opt4", "text": "Butter", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists spinach, other green leafy vegetables, apples, eggs, liver, cereals (like bajra), pulses, and groundnuts as sources of iron.",
+      "difficulty": "medium",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q064",
+      "question": "Water regulates body temperature by the process of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Digestion", "visual": null },
+        { "id": "opt2", "text": "Respiration", "visual": null },
+        { "id": "opt3", "text": "Circulation", "visual": null },
+        { "id": "opt4", "text": "Sweating and evaporation", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that water controls and regulates the temperature of our body by the process of sweating and evaporation.",
+      "difficulty": "easy",
+      "topic": "Water",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q065",
+      "question": "The inability to discharge hardened feces is called:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Constipation", "visual": null },
+        { "id": "opt2", "text": "Diarrhoea", "visual": null },
+        { "id": "opt3", "text": "Indigestion", "visual": null },
+        { "id": "opt4", "text": "Dehydration", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines constipation as the difficulty in discharging hardened feces (or hardened stool).",
+      "difficulty": "easy",
+      "topic": "Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q066",
+      "question": "Dietary fibre helps prevent constipation because it:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Provides energy to the body", "visual": null },
+        { "id": "opt2", "text": "Provides bulk to the food and helps waste matter move along the intestines", "visual": null },
+        { "id": "opt3", "text": "Kills harmful bacteria in the intestines", "visual": null },
+        { "id": "opt4", "text": "Dissolves waste products in water", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that dietary fibre provides bulk to the food due to which the food and waste matter keep moving along the intestines and help to prevent constipation.",
+      "difficulty": "medium",
+      "topic": "Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q067",
+      "question": "Which of the following is a source of dietary fibre?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Butter", "visual": null },
+        { "id": "opt2", "text": "Ghee", "visual": null },
+        { "id": "opt3", "text": "Fruits and vegetables", "visual": null },
+        { "id": "opt4", "text": "Egg", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that fruits and vegetables are good sources of roughage in our food.",
+      "difficulty": "easy",
+      "topic": "Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q068",
+      "question": "According to the chapter, which of the following is true about junk foods?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "They are high in proteins and fibre", "visual": null },
+        { "id": "opt2", "text": "They are high in calories but low in nutrients", "visual": null },
+        { "id": "opt3", "text": "They are recommended for daily consumption", "visual": null },
+        { "id": "opt4", "text": "They are rich in vitamins and minerals", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that junk foods are high in calories due to high sugar and fat content but contain very small amounts of nutrients like proteins, vitamins, minerals, and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Junk Foods",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q069",
+      "question": "Eating too much junk food can lead to:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Obesity and related health problems like diabetes and heart diseases", "visual": null },
+        { "id": "opt2", "text": "Improved immunity", "visual": null },
+        { "id": "opt3", "text": "Stronger bones", "visual": null },
+        { "id": "opt4", "text": "Better eyesight", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that eating too much junk food can lead to unnecessary weight gain called obesity, and an obese person may suffer from diabetes and heart diseases.",
+      "difficulty": "medium",
+      "topic": "Junk Foods",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q070",
+      "question": "Which of the following is a millet?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Wheat", "visual": null },
+        { "id": "opt2", "text": "Rice", "visual": null },
+        { "id": "opt3", "text": "Bajra", "visual": null },
+        { "id": "opt4", "text": "Maize", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists Pearl millet (Bajra), Sorghum (Jowar), Finger millet (Ragi), and Barnyard millet (Sanwa) as millets. Wheat, rice, and maize are cereals, not millets.",
+      "difficulty": "easy",
+      "topic": "Millets",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q071",
+      "question": "The journey of wheat from the farm to our plate involves which correct sequence?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Growing → Harvesting → Threshing and Winnowing → Storage → Grinding → Transport to Wholesaler → Retail Shop → Consumer", "visual": null },
+        { "id": "opt2", "text": "Growing → Grinding → Harvesting → Storage → Retail Shop → Consumer", "visual": null },
+        { "id": "opt3", "text": "Harvesting → Growing → Transport → Retail Shop → Consumer", "visual": null },
+        { "id": "opt4", "text": "Storage → Growing → Harvesting → Transport → Consumer", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter describes the journey of wheat from farm to plate in this sequence: growing, harvesting, threshing and winnowing, storage, grinding, transport to wholesaler, retail shop, and finally consumer.",
+      "difficulty": "medium",
+      "topic": "Food Miles",
+      "source": "Pages 19-20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q072",
+      "question": "The person who grows wheat in his farm is called the:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Consumer", "visual": null },
+        { "id": "opt2", "text": "Distributor", "visual": null },
+        { "id": "opt3", "text": "Retailer", "visual": null },
+        { "id": "opt4", "text": "Producer", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that the farmer who grows wheat in his farm is the producer of food.",
+      "difficulty": "easy",
+      "topic": "Food Miles",
+      "source": "Page 20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q073",
+      "question": "Which of the following is a consequence of large food miles?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Food becomes more expensive due to transportation cost", "visual": null },
+        { "id": "opt2", "text": "Food becomes cheaper", "visual": null },
+        { "id": "opt3", "text": "Food becomes fresher", "visual": null },
+        { "id": "opt4", "text": "Local farmers benefit", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that when food is transported to far off places, the cost of transportation is too much, which gets added to the cost of food and hence the food becomes more expensive.",
+      "difficulty": "medium",
+      "topic": "Food Miles",
+      "source": "Page 20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q074",
+      "question": "Which of the following is a way to reduce food wastage?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Over-ordering food at restaurants", "visual": null },
+        { "id": "opt2", "text": "Putting only that much food in the plate which can be finished", "visual": null },
+        { "id": "opt3", "text": "Cooking too much food at weddings", "visual": null },
+        { "id": "opt4", "text": "Improper storage of leftover food", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that we should put only that much food in our plate which we can finish completely to avoid food wastage.",
+      "difficulty": "medium",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q075",
+      "question": "Over-eating is considered a form of food wastage because:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "It makes us strong", "visual": null },
+        { "id": "opt2", "text": "It makes us healthy", "visual": null },
+        { "id": "opt3", "text": "It has no beneficial effect on our body and can lead to obesity", "visual": null },
+        { "id": "opt4", "text": "It improves digestion", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that over-eating does not do any good to our body, neither makes us strong nor healthy, and can lead to obesity.",
+      "difficulty": "medium",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    },
+   {
+  "id": "ME-C01-Q076",
+  "question": "Which of the following is NOT one of the seven listed components of food?",
+  "questionVisual": null,
+  "options": [
+    { "id": "opt1", "text": "Carbohydrates", "visual": null },
+    { "id": "opt2", "text": "Proteins", "visual": null },
+    { "id": "opt3", "text": "Vitamins", "visual": null },
+    { "id": "opt4", "text": "Sunlight", "visual": null }
+  ],
+  "correctOptionId": "opt4",
+  "explanation": "The chapter lists carbohydrates, fats, proteins, vitamins, minerals, water, and dietary fibre as the seven components of food. Sunlight is not a component of food.",
+  "difficulty": "medium",
+  "topic": "Nutrients",
+  "source": "Page 3",
+  "visualRequired": false
+},
+    {
+      "id": "ME-C01-Q077",
+      "question": "Which of the following food items is a source of plant proteins?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Pulses", "visual": null },
+        { "id": "opt2", "text": "Milk", "visual": null },
+        { "id": "opt3", "text": "Cheese", "visual": null },
+        { "id": "opt4", "text": "Eggs", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists pulses, peas, beans, soybean, groundnut and edible mushroom as good sources of plant proteins.",
+      "difficulty": "easy",
+      "topic": "Proteins",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q078",
+      "question": "Which vitamin is also made in our body when the skin is exposed to sunlight?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin D", "visual": null },
+        { "id": "opt3", "text": "Vitamin B1", "visual": null },
+        { "id": "opt4", "text": "Vitamin C", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that some vitamin D is also made in our body when the skin is exposed to sunlight.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q079",
+      "question": "Which of the following is a source of vitamin A?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Rice", "visual": null },
+        { "id": "opt2", "text": "Wheat", "visual": null },
+        { "id": "opt3", "text": "Carrot", "visual": null },
+        { "id": "opt4", "text": "Sugar", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter lists milk, butter, carrot, fish liver oil, eggs, green vegetables, mango and papaya as sources of vitamin A.",
+      "difficulty": "easy",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q080",
+      "question": "Which mineral is used by our body in the form of its salts for the proper functioning of the thyroid gland?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Calcium", "visual": null },
+        { "id": "opt2", "text": "Iron", "visual": null },
+        { "id": "opt3", "text": "Sodium", "visual": null },
+        { "id": "opt4", "text": "Iodine", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that iodine is essential for the proper functioning of the thyroid gland which controls the growth of the body.",
+      "difficulty": "medium",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q081",
+      "question": "Which of the following is a good source of calcium?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Milk", "visual": null },
+        { "id": "opt2", "text": "Rice", "visual": null },
+        { "id": "opt3", "text": "Wheat", "visual": null },
+        { "id": "opt4", "text": "Sugar", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists milk, cheese, eggs, green leafy vegetables, and fish as good sources of calcium.",
+      "difficulty": "easy",
+      "topic": "Minerals",
+      "source": "Page 7",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q082",
+      "question": "Water is needed by our body to transport:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Only oxygen", "visual": null },
+        { "id": "opt2", "text": "Digested food and important chemicals like hormones", "visual": null },
+        { "id": "opt3", "text": "Only waste products", "visual": null },
+        { "id": "opt4", "text": "Only vitamins", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that water is needed to transport digested food to the body cells and to transport important chemicals such as hormones around the body.",
+      "difficulty": "medium",
+      "topic": "Water",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q083",
+      "question": "Which of the following is a function of dietary fibre?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Provides energy", "visual": null },
+        { "id": "opt2", "text": "Builds new cells", "visual": null },
+        { "id": "opt3", "text": "Ensures smooth passage of feces out of our body", "visual": null },
+        { "id": "opt4", "text": "Carries oxygen", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that the presence of dietary fibres in food ensures smooth passage of feces out of our body.",
+      "difficulty": "medium",
+      "topic": "Dietary Fibre",
+      "source": "Page 8",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q084",
+      "question": "Which of the following is NOT a deficiency disease?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Night blindness", "visual": null },
+        { "id": "opt2", "text": "Scurvy", "visual": null },
+        { "id": "opt3", "text": "Rickets", "visual": null },
+        { "id": "opt4", "text": "Obesity", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "Obesity is caused by eating too much fat-rich food, not by a deficiency of nutrients. Night blindness, scurvy, and rickets are deficiency diseases.",
+      "difficulty": "medium",
+      "topic": "Deficiency Diseases",
+      "source": "Pages 13-16",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q085",
+      "question": "Which of the following is a symptom of iodine deficiency in adults?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Swollen neck", "visual": null },
+        { "id": "opt2", "text": "Bleeding gums", "visual": null },
+        { "id": "opt3", "text": "Bow legs", "visual": null },
+        { "id": "opt4", "text": "Pale skin", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that the main symptom of iodine deficiency (goitre) is that the neck of the person appears to be swollen.",
+      "difficulty": "medium",
+      "topic": "Mineral Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q086",
+      "question": "Which vitamin helps in absorbing calcium mineral present in the diet into our body?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Vitamin A", "visual": null },
+        { "id": "opt2", "text": "Vitamin D", "visual": null },
+        { "id": "opt3", "text": "Vitamin C", "visual": null },
+        { "id": "opt4", "text": "Vitamin B1", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that vitamin D helps our body to absorb calcium mineral from food, which makes the bones and teeth hard and strong.",
+      "difficulty": "medium",
+      "topic": "Vitamins",
+      "source": "Page 6",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q087",
+      "question": "According to the chapter, a balanced diet depends on which two factors?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Age and occupation", "visual": null },
+        { "id": "opt2", "text": "Height and weight", "visual": null },
+        { "id": "opt3", "text": "Gender and age", "visual": null },
+        { "id": "opt4", "text": "Income and location", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that a balanced diet is not the same for all age groups or occupations. A balanced diet depends on the age of the person and also on the occupation of the person.",
+      "difficulty": "medium",
+      "topic": "Balanced Diet",
+      "source": "Page 15",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q088",
+      "question": "Which of the following is a wasteful cooking practice that leads to the loss of proteins and minerals?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cooking at low temperature", "visual": null },
+        { "id": "opt2", "text": "Using thin peels", "visual": null },
+        { "id": "opt3", "text": "Washing before cutting", "visual": null },
+        { "id": "opt4", "text": "Throwing away water in which food is first boiled", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that if the excess water in which a food material is boiled during cooking is thrown away, then some of the proteins and considerable amount of minerals present in the food are lost.",
+      "difficulty": "medium",
+      "topic": "Cooking Practices",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q089",
+      "question": "A Calorie is a unit of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Energy", "visual": null },
+        { "id": "opt2", "text": "Weight", "visual": null },
+        { "id": "opt3", "text": "Volume", "visual": null },
+        { "id": "opt4", "text": "Temperature", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter defines a Calorie as a unit of energy that tells us how much energy a food item provides to our body.",
+      "difficulty": "easy",
+      "topic": "Junk Foods",
+      "source": "Page 17",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q090",
+      "question": "Which of the following is NOT a junk food?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Chocolate", "visual": null },
+        { "id": "opt2", "text": "Roasted chickpeas", "visual": null },
+        { "id": "opt3", "text": "Cake", "visual": null },
+        { "id": "opt4", "text": "Candy", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter lists potato wafers, candy, fries, burgers, pizzas, donuts, cakes, chocolates, ice cream, carbonated drinks, and energy drinks as junk foods. Roasted chickpeas is a healthy food.",
+      "difficulty": "easy",
+      "topic": "Junk Foods",
+      "source": "Pages 17-18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q091",
+      "question": "Which of the following is a benefit of millets?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "They are rich in proteins, vitamins, minerals and dietary fibre", "visual": null },
+        { "id": "opt2", "text": "They are rich in sugar", "visual": null },
+        { "id": "opt3", "text": "They are rich in fats", "visual": null },
+        { "id": "opt4", "text": "They are low in nutrients", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter states that millets are highly nutritious food grains rich in proteins, vitamins, minerals, and dietary fibre.",
+      "difficulty": "medium",
+      "topic": "Millets",
+      "source": "Page 18",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q092",
+      "question": "Apples produced in Himachal Pradesh and Kashmir are transported by trucks to far off places throughout India. This is an example of:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Low food miles", "visual": null },
+        { "id": "opt2", "text": "Local food consumption", "visual": null },
+        { "id": "opt3", "text": "Reduced food wastage", "visual": null },
+        { "id": "opt4", "text": "High food miles", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that apples produced in Himachal Pradesh and Kashmir are transported to far off places throughout India, which results in large food miles.",
+      "difficulty": "medium",
+      "topic": "Food Miles",
+      "source": "Page 20",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q093",
+      "question": "Which of the following is a way of reducing food wastage at restaurants?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Ordering too much food at once", "visual": null },
+        { "id": "opt2", "text": "Ordering only as much as needed and re-ordering later if required", "visual": null },
+        { "id": "opt3", "text": "Leaving food on the plate", "visual": null },
+        { "id": "opt4", "text": "Throwing away leftover food", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that we should not order too much food right in the beginning to reduce food wastage, and we can always re-order later on if more food is needed.",
+      "difficulty": "medium",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q094",
+      "question": "Which of the following is a correct way to store leftover food?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Leave it in the open", "visual": null },
+        { "id": "opt2", "text": "Store it properly in a refrigerator", "visual": null },
+        { "id": "opt3", "text": "Throw it away immediately", "visual": null },
+        { "id": "opt4", "text": "Keep it near a window", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that leftover food should be stored properly in a refrigerator so that it does not get spoiled and can be eaten later on.",
+      "difficulty": "easy",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q095",
+      "question": "A disease which arises due to the lack of nutrients in our diet over a long period of time is called:",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Infectious disease", "visual": null },
+        { "id": "opt2", "text": "Genetic disease", "visual": null },
+        { "id": "opt3", "text": "Deficiency disease", "visual": null },
+        { "id": "opt4", "text": "Metabolic disease", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter defines a deficiency disease as a disease which arises due to the lack of nutrients in our diet over a long period of time.",
+      "difficulty": "easy",
+      "topic": "Deficiency Diseases",
+      "source": "Page 13",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q096",
+      "question": "Which nutrient is present in rice in much larger quantity than fat and protein?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fat", "visual": null },
+        { "id": "opt2", "text": "Protein", "visual": null },
+        { "id": "opt3", "text": "Vitamin", "visual": null },
+        { "id": "opt4", "text": "Carbohydrate", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that rice contains much more carbohydrate than fat and protein, so rice is said to be a carbohydrate-rich food.",
+      "difficulty": "medium",
+      "topic": "Carbohydrates",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q097",
+      "question": "Which of the following is a source of animal proteins?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cheese", "visual": null },
+        { "id": "opt2", "text": "Pulses", "visual": null },
+        { "id": "opt3", "text": "Peas", "visual": null },
+        { "id": "opt4", "text": "Beans", "visual": null }
+      ],
+      "correctOptionId": "opt1",
+      "explanation": "The chapter lists milk, cheese, fish, meat, chicken and eggs as the main sources of animal proteins.",
+      "difficulty": "easy",
+      "topic": "Proteins",
+      "source": "Page 5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q098",
+      "question": "Which of the following statements about fats is correct?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Fats are not needed by our body at all", "visual": null },
+        { "id": "opt2", "text": "Fats provide energy and are also stored for later use", "visual": null },
+        { "id": "opt3", "text": "Fats are only found in animals", "visual": null },
+        { "id": "opt4", "text": "Fats cannot be obtained from plants", "visual": null }
+      ],
+      "correctOptionId": "opt2",
+      "explanation": "The chapter states that fats provide energy and that many animals can convert excess food into fat and store it for later use.",
+      "difficulty": "medium",
+      "topic": "Fats",
+      "source": "Pages 4-5",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q099",
+      "question": "Which of the following is a symptom of rickets?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Bleeding gums", "visual": null },
+        { "id": "opt2", "text": "Weak muscles", "visual": null },
+        { "id": "opt3", "text": "Bow legs and pigeon-type chest", "visual": null },
+        { "id": "opt4", "text": "Swollen neck", "visual": null }
+      ],
+      "correctOptionId": "opt3",
+      "explanation": "The chapter states that the main symptoms of rickets are bow legs (bent legs) and pigeon-type chest.",
+      "difficulty": "easy",
+      "topic": "Deficiency Diseases",
+      "source": "Page 14",
+      "visualRequired": false
+    },
+    {
+      "id": "ME-C01-Q100",
+      "question": "Which of the following practices helps in reducing food wastage?",
+      "questionVisual": null,
+      "options": [
+        { "id": "opt1", "text": "Cooking too much food at social functions", "visual": null },
+        { "id": "opt2", "text": "Over-eating while watching TV", "visual": null },
+        { "id": "opt3", "text": "Leaving un-eaten food on the plate", "visual": null },
+        { "id": "opt4", "text": "Storing leftover food properly in a refrigerator", "visual": null }
+      ],
+      "correctOptionId": "opt4",
+      "explanation": "The chapter states that if cooked food is left behind un-eaten, it should be stored properly in a refrigerator so that it does not get spoiled and can be eaten later on.",
+      "difficulty": "medium",
+      "topic": "Food Wastage",
+      "source": "Page 21",
+      "visualRequired": false
+    }
+  ]
+}
